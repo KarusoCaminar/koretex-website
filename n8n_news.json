@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-01T08:36:58.318Z",
+  "lastUpdated": "2026-02-01T10:29:49.508Z",
   "news": [
+    {
+      "title": "OpenClaw aka \"Clawdbot\" und Moltbook sind ein Paradies für Datendiebe",
+      "description": "OpenClaw verspricht autonome KI-Agenten, Moltbook lässt Bots miteinander plaudern. Nutzer auf X finden bei beiden Plattformen jedoch gravierende Sicherheitslücken: offene Datenbanken, extrahierbare Sy",
+      "link": "https://the-decoder.de/openclaw-aka-clawdbot-und-moltbook-sind-ein-paradies-fuer-datendiebe/",
+      "date": "2026-02-01T10:11:10.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Deepseeks OCR 2-Modell verarbeitet Bilder so, wie das menschliche Auge sie wahrnimmt",
+      "description": "Das chinesische KI-Unternehmen Deepseek hat einen neuartigen Vision-Encoder vorgestellt, der Bildinformationen semantisch neu anordnet: nach Zusammenhängen statt nach Position. Das spart Token und ver",
+      "link": "https://the-decoder.de/deepseeks-ocr-2-modell-verarbeitet-bilder-so-wie-das-menschliche-auge-sie-wahrnimmt/",
+      "date": "2026-02-01T08:46:05.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Nvidia-Chef Jensen Huang nennt kommendes OpenAI-Investment \"wahrscheinlich das größte, das wir je getätigt haben\"",
       "description": "Der im September angekündigte Megadeal zwischen OpenAI und Nvidia wird wohl nicht wie geplant finalisiert. Nvidia-CEO Jensen Huang soll intern Zweifel an OpenAIs Geschäftsansatz geäußert haben.\nDer Ar",
@@ -69,24 +87,6 @@
       "description": "Anthropic macht Claude zum Spezialisten: Mit Plugins für Cowork lässt sich der KI-Assistent für Vertrieb, Recht oder Finanzen maßschneidern.\nDer Artikel Anthropic veröffentlicht Cowork-Plugins für maß",
       "link": "https://the-decoder.de/anthropic-veroeffentlicht-cowork-plugins-fuer-massgeschneiderte-ki-assistenten-im-buero/",
       "date": "2026-01-30T19:10:43.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Pentagon und Anthropic streiten über KI-Einsatz für autonome Waffen",
-      "description": "Das US-Verteidigungsministerium will KI-Technologie ohne Einschränkungen nutzen. Anthropic fordert Garantien gegen autonome Waffensteuerung und Inlandsüberwachung. Ein 200-Millionen-Dollar-Vertrag hän",
-      "link": "https://the-decoder.de/pentagon-und-anthropic-streiten-ueber-ki-einsatz-fuer-autonome-waffen/",
-      "date": "2026-01-30T14:05:31.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "OpenAI plant Börsengang im vierten Quartal 2026",
-      "description": "OpenAI bereitet einen Börsengang für das vierte Quartal 2026 vor, berichtet das Wall Street Journal.\nDer Artikel OpenAI plant Börsengang im vierten Quartal 2026 erschien zuerst auf The Decoder.",
-      "link": "https://the-decoder.de/openai-plant-boersengang-im-vierten-quartal-2026/",
-      "date": "2026-01-30T13:56:29.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
