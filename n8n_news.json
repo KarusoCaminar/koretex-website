@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-02T08:50:26.748Z",
+  "lastUpdated": "2026-02-02T10:50:48.704Z",
   "news": [
+    {
+      "title": "Ex-OpenAI-Forscher: Aktuelle KI-Modelle können keine echte Intelligenz erreichen",
+      "description": "Aktuelle KI-Modelle sind laut Ex-OpenAI-Forscher Jerry Tworek zu fragil für echte Intelligenz. Insbesondere könnten sie sich nicht aus Fehlerketten befreien.\nDer Artikel Ex-OpenAI-Forscher: Aktuelle K",
+      "link": "https://the-decoder.de/ex-openai-forscher-aktuelle-ki-modelle-koennen-keine-echte-intelligenz-erreichen/",
+      "date": "2026-02-02T10:29:12.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Chinas KI-Labore liefern sich Wettlauf vor dem Neujahrsfest",
+      "description": "Chinas KI-Labore liefern sich vor dem chinesischen Neujahrsfest einen Wettlauf um neue Modellveröffentlichungen.\nDer Artikel Chinas KI-Labore liefern sich Wettlauf vor dem Neujahrsfest erschien zuerst",
+      "link": "https://the-decoder.de/chinas-ki-labore-liefern-sich-wettlauf-vor-dem-neujahrsfest/",
+      "date": "2026-02-02T10:07:15.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "OpenClaw aka \"Clawdbot\" und Moltbook sind ein Paradies für Datendiebe",
       "description": "OpenClaw verspricht autonome KI-Agenten, Moltbook lässt Bots miteinander plaudern. Nutzer auf X finden bei beiden Plattformen jedoch gravierende Sicherheitslücken: offene Datenbanken, extrahierbare Sy",
@@ -60,24 +78,6 @@
       "description": "Ein Social Network nur für KI-Agenten? Auf Moltbook posten über 30.000 Bots, warnen sich gegenseitig vor Sicherheitslücken und philosophieren über die Simulationstheorie.\nDer Artikel Moltbook ist ein",
       "link": "https://the-decoder.de/moltbook-ist-ein-menschenfreier-reddit-klon-auf-dem-ki-agenten-ueber-cybersecurity-und-philosophie-diskutieren/",
       "date": "2026-01-30T20:16:05.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "KI-Radar #1: Vom Chatbot zum Aufgabenlöser – der Stand bei KI-Agenten 2026",
-      "description": "2026 sollte das Jahr der KI-Agenten werden, und manche sagen, die Revolution sei ausgeblieben. Das sehen wir anders: Sie fand statt – nur leiser als erwartet. Doch was unterscheidet einen echten „Agen",
-      "link": "https://the-decoder.de/ki-radar-1-vom-chatbot-zum-aufgabenloeser-der-stand-bei-ki-agenten-2026/",
-      "date": "2026-01-30T19:44:50.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Perplexity schließt 750-Millionen-Dollar-Deal mit Microsoft",
-      "description": "Perplexity sichert sich 750 Millionen Dollar für Zugang zu KI-Modellen von OpenAI, Anthropic und xAI über Microsofts Azure-Cloud.\nDer Artikel Perplexity schließt 750-Millionen-Dollar-Deal mit Microsof",
-      "link": "https://the-decoder.de/perplexity-schliesst-750-millionen-dollar-deal-mit-microsoft/",
-      "date": "2026-01-30T19:34:31.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
