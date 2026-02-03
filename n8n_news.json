@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-03T13:08:51.767Z",
+  "lastUpdated": "2026-02-03T14:48:12.549Z",
   "news": [
+    {
+      "title": "OpenAIs Chip-Strategie: Unzufriedenheit mit Nvidia führte zu Cerebras-Deal",
+      "description": "Der ChatGPT-Entwickler ist laut Reuters mit der Geschwindigkeit bestimmter Nvidia-Chips unzufrieden und verhandelt mit Startups, die Alternativen anbieten.\nDer Artikel OpenAIs Chip-Strategie: Unzufrie",
+      "link": "https://the-decoder.de/openais-chip-strategie-unzufriedenheit-mit-nvidia-fuehrte-zu-cerebras-deal/",
+      "date": "2026-02-03T14:09:26.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Firefox-Nutzer können bald alle generativen KI-Funktionen zentral blockieren",
       "description": "Mozilla gibt Firefox-Nutzern ab dem 24. Februar die Möglichkeit, alle KI-Funktionen des Browsers mit einem Klick zu blockieren.\nDer Artikel Firefox-Nutzer können bald alle generativen KI-Funktionen ze",
@@ -122,15 +131,6 @@
       "title": "The next chapter for AI in the EU",
       "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
       "link": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-      "date": "2026-01-28T01:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "EMEA Youth & Wellbeing Grant",
-      "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-      "link": "https://openai.com/index/emea-youth-and-wellbeing-grant",
       "date": "2026-01-28T01:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
