@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-03T16:57:48.040Z",
+  "lastUpdated": "2026-02-03T19:00:39.951Z",
   "news": [
+    {
+      "title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
+      "description": "Generative AI",
+      "link": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
+      "date": "2026-02-03T18:15:01.000Z",
+      "source": "Google AI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
+      "title": "Gemini-Modelle dominieren neue KI-Ranglisten für strategische Gesellschaftsspiele",
+      "description": "Googles Gemini-Modelle dominieren die neue Game Arena von Kaggle in Schach, Werwolf und Poker.\nDer Artikel Gemini-Modelle dominieren neue KI-Ranglisten für strategische Gesellschaftsspiele erschien zu",
+      "link": "https://the-decoder.de/gemini-modelle-dominieren-neue-ki-ranglisten-fuer-strategische-gesellschaftsspiele/",
+      "date": "2026-02-03T17:24:40.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "OpenAIs Chip-Strategie: Unzufriedenheit mit Nvidia führte zu Cerebras-Deal",
       "description": "Der ChatGPT-Entwickler ist laut Reuters mit der Geschwindigkeit bestimmter Nvidia-Chips unzufrieden und verhandelt mit Startups, die Alternativen anbieten.\nDer Artikel OpenAIs Chip-Strategie: Unzufrie",
@@ -29,6 +47,15 @@
       "language": "de"
     },
     {
+      "title": "The Sora feed philosophy",
+      "description": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+      "link": "https://openai.com/index/sora-feed-philosophy",
+      "date": "2026-02-03T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
       "title": "OpenAI startet Codex-App für macOS zur Verwaltung mehrerer KI-Agenten",
       "description": "OpenAI bringt Codex als macOS-App, eine Kommandozentrale für KI-Agenten, die parallel arbeiten können.\nDer Artikel OpenAI startet Codex-App für macOS zur Verwaltung mehrerer KI-Agenten erschien zuerst",
       "link": "https://the-decoder.de/openai-startet-codex-app-fuer-macos-zur-verwaltung-mehrerer-ki-agenten/",
@@ -51,15 +78,6 @@
       "description": "Der KI-Boom könnte Apple bis zu 57 Dollar mehr pro iPhone kosten – allein für Speicherchips.\nDer Artikel KI-Boom treibt Speicherpreise: Apple drohen bis zu 57 Dollar Mehrkosten pro iPhone erschien zue",
       "link": "https://the-decoder.de/ki-boom-treibt-speicherpreise-apple-drohen-bis-zu-57-dollar-mehrkosten-pro-iphone/",
       "date": "2026-02-02T12:47:30.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Ex-OpenAI-Forscher: Aktuelle KI-Modelle können keine echte Intelligenz erreichen",
-      "description": "Aktuelle KI-Modelle sind laut Ex-OpenAI-Forscher Jerry Tworek zu fragil für echte Intelligenz. Insbesondere könnten sie sich nicht aus Fehlerketten befreien.\nDer Artikel Ex-OpenAI-Forscher: Aktuelle K",
-      "link": "https://the-decoder.de/ex-openai-forscher-aktuelle-ki-modelle-koennen-keine-echte-intelligenz-erreichen/",
-      "date": "2026-02-02T10:29:12.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
@@ -115,24 +133,6 @@
       "link": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
       "date": "2026-01-28T11:00:00.000Z",
       "source": "Google AI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "The next chapter for AI in the EU",
-      "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-      "link": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-      "date": "2026-01-28T01:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "EMEA Youth & Wellbeing Grant",
-      "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-      "link": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-      "date": "2026-01-28T01:00:00.000Z",
-      "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
     }
