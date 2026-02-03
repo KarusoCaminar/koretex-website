@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-03T08:42:07.993Z",
+  "lastUpdated": "2026-02-03T10:44:21.528Z",
   "news": [
+    {
+      "title": "SpaceX übernimmt xAI: Elon Musk beschreibt Weltraum-Vision, doch wirtschaftliche Motive dürften überwiegen",
+      "description": "Elon Musk fusioniert seine Raumfahrt- und KI-Unternehmen zu einem Giganten mit einer Bewertung von 1,25 Billionen Dollar. Die offizielle Begründung: Nur im Weltraum lasse sich KI ausreichend skalieren",
+      "link": "https://the-decoder.de/spacex-uebernimmt-xai-elon-musk-beschreibt-weltraum-vision-doch-wirtschaftliche-motive-duerften-ueberwiegen/",
+      "date": "2026-02-03T09:54:23.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "OpenAI startet Codex-App für macOS zur Verwaltung mehrerer KI-Agenten",
       "description": "OpenAI bringt Codex als macOS-App, eine Kommandozentrale für KI-Agenten, die parallel arbeiten können.\nDer Artikel OpenAI startet Codex-App für macOS zur Verwaltung mehrerer KI-Agenten erschien zuerst",
@@ -78,15 +87,6 @@
       "description": "Das chinesische KI-Unternehmen Deepseek hat einen neuartigen Vision-Encoder vorgestellt, der Bildinformationen semantisch neu anordnet: nach Zusammenhängen statt nach Position. Das spart Token und ver",
       "link": "https://the-decoder.de/deepseeks-ocr-2-modell-verarbeitet-bilder-so-wie-das-menschliche-auge-sie-wahrnimmt/",
       "date": "2026-02-01T08:46:05.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Nvidia-Chef Jensen Huang nennt kommendes OpenAI-Investment \"wahrscheinlich das größte, das wir je getätigt haben\"",
-      "description": "Der im September angekündigte Megadeal zwischen OpenAI und Nvidia wird wohl nicht wie geplant finalisiert. Nvidia-CEO Jensen Huang soll intern Zweifel an OpenAIs Geschäftsansatz geäußert haben.\nDer Ar",
-      "link": "https://the-decoder.de/nvidia-chef-jensen-huang-nennt-kommendes-openai-investment-wahrscheinlich-das-groesste-das-wir-je-getaetigt-haben/",
-      "date": "2026-01-31T16:02:35.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
