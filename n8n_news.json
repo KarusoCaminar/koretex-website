@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T14:48:12.549Z",
+  "lastUpdated": "2026-02-03T16:57:48.040Z",
   "news": [
     {
       "title": "OpenAIs Chip-Strategie: Unzufriedenheit mit Nvidia führte zu Cerebras-Deal",
@@ -65,15 +65,6 @@
       "language": "de"
     },
     {
-      "title": "Chinas KI-Labore liefern sich Wettlauf vor dem Neujahrsfest",
-      "description": "Chinas KI-Labore liefern sich vor dem chinesischen Neujahrsfest einen Wettlauf um neue Modellveröffentlichungen.\nDer Artikel Chinas KI-Labore liefern sich Wettlauf vor dem Neujahrsfest erschien zuerst",
-      "link": "https://the-decoder.de/chinas-ki-labore-liefern-sich-wettlauf-vor-dem-neujahrsfest/",
-      "date": "2026-02-02T10:07:15.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
       "description": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
       "link": "https://openai.com/index/snowflake-partnership",
@@ -131,6 +122,15 @@
       "title": "The next chapter for AI in the EU",
       "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
       "link": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "date": "2026-01-28T01:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
+      "title": "EMEA Youth & Wellbeing Grant",
+      "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "link": "https://openai.com/index/emea-youth-and-wellbeing-grant",
       "date": "2026-01-28T01:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
