@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-04T16:54:27.215Z",
+  "lastUpdated": "2026-02-04T18:55:58.132Z",
   "news": [
+    {
+      "title": "KI-Chip-Startup Cerebras sammelt eine Milliarde Dollar in neuer Finanzierungsrunde",
+      "description": "Cerebras Systems sammelt eine Milliarde Dollar bei einer Bewertung von 23 Milliarden Dollar. Der OpenAI-Deal dürfte geholfen haben.\nDer Artikel KI-Chip-Startup Cerebras sammelt eine Milliarde Dollar i",
+      "link": "https://the-decoder.de/ki-chip-startup-cerebras-sammelt-eine-milliarde-dollar-in-neuer-finanzierungsrunde/",
+      "date": "2026-02-04T18:06:16.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Chinesischer KI-Entwickler Kling stellt leistungsstarkes Videomodell 3.0 vor",
+      "description": "Kling AI bringt Version 3.0 seines Videomodells mit längeren Clips, besserer Charakterkonsistenz und 4K-Bildgenerierung. Das Modell soll b\nDer Artikel Chinesischer KI-Entwickler Kling stellt leistungs",
+      "link": "https://the-decoder.de/chinesischer-ki-entwickler-kling-stellt-leistungsstarkes-videomodell-3-0-vor/",
+      "date": "2026-02-04T17:41:41.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Anders als OpenAI: Anthropic verspricht, dass Claude dauerhaft werbefrei bleibt",
       "description": "Anthropic verspricht: Keine Werbung in Claude. Doch bei E-Commerce-Transaktionen könnte die Grenze verschwimmen.\nDer Artikel Anders als OpenAI: Anthropic verspricht, dass Claude dauerhaft werbefrei bl",
@@ -92,15 +110,6 @@
       "language": "de"
     },
     {
-      "title": "OpenAIs Chip-Strategie: Unzufriedenheit mit Nvidia führte zu Cerebras-Deal",
-      "description": "Der ChatGPT-Entwickler ist laut Reuters mit der Geschwindigkeit bestimmter Nvidia-Chips unzufrieden und verhandelt mit Startups, die Alternativen anbieten.\nDer Artikel OpenAIs Chip-Strategie: Unzufrie",
-      "link": "https://the-decoder.de/openais-chip-strategie-unzufriedenheit-mit-nvidia-fuehrte-zu-cerebras-deal/",
-      "date": "2026-02-03T14:09:26.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "The Sora feed philosophy",
       "description": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
       "link": "https://openai.com/index/sora-feed-philosophy",
@@ -123,15 +132,6 @@
       "description": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
       "link": "https://openai.com/index/introducing-the-codex-app",
       "date": "2026-02-02T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Inside OpenAI’s in-house data agent",
-      "description": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
-      "link": "https://openai.com/index/inside-our-in-house-data-agent",
-      "date": "2026-01-29T10:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
