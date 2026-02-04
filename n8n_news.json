@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-04T18:55:58.132Z",
+  "lastUpdated": "2026-02-04T20:38:42.362Z",
   "news": [
+    {
+      "title": "OpenClaw hat OpenDoor: Sichereitsforscher entlarven gravierende Sicherheitslücke im Hype-Agenten \"Clawdbot\"",
+      "description": "Der KI-Agent OpenClaw hat in wenigen Wochen über 100.000 GitHub-Stars gesammelt. Nun zeigen Sicherheitsforscher, wie sich der gehypte Assistent durch ein einziges manipuliertes Dokument in eine dauerh",
+      "link": "https://the-decoder.de/opendoor-statt-openclaw-sichereitsforscher-entlarven-gravierende-sicherheitsluecke-im-hype-agenten-clawdbot/",
+      "date": "2026-02-04T19:19:39.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "KI-Chip-Startup Cerebras sammelt eine Milliarde Dollar in neuer Finanzierungsrunde",
       "description": "Cerebras Systems sammelt eine Milliarde Dollar bei einer Bewertung von 23 Milliarden Dollar. Der OpenAI-Deal dürfte geholfen haben.\nDer Artikel KI-Chip-Startup Cerebras sammelt eine Milliarde Dollar i",
@@ -27,6 +36,15 @@
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
+    },
+    {
+      "title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
+      "description": "Algorithms & Theory",
+      "link": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
+      "date": "2026-02-04T15:14:00.000Z",
+      "source": "Google AI",
+      "category": "große-modelle",
+      "language": "en"
     },
     {
       "title": "OpenAI wirft Musks xAI systematische Beweisvernichtung im Kartellverfahren vor",
@@ -101,15 +119,6 @@
       "language": "en"
     },
     {
-      "title": "Gemini-Modelle dominieren neue KI-Ranglisten für strategische Gesellschaftsspiele",
-      "description": "Googles Gemini-Modelle dominieren die neue Game Arena von Kaggle in Schach, Werwolf und Poker.\nDer Artikel Gemini-Modelle dominieren neue KI-Ranglisten für strategische Gesellschaftsspiele erschien zu",
-      "link": "https://the-decoder.de/gemini-modelle-dominieren-neue-ki-ranglisten-fuer-strategische-gesellschaftsspiele/",
-      "date": "2026-02-03T17:24:40.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "The Sora feed philosophy",
       "description": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
       "link": "https://openai.com/index/sora-feed-philosophy",
@@ -123,15 +132,6 @@
       "description": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
       "link": "https://openai.com/index/snowflake-partnership",
       "date": "2026-02-02T06:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Introducing the Codex app",
-      "description": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
-      "link": "https://openai.com/index/introducing-the-codex-app",
-      "date": "2026-02-02T00:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
