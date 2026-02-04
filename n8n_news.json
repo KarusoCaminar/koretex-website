@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-02-04T08:48:53.991Z",
+  "lastUpdated": "2026-02-04T10:42:07.817Z",
   "news": [
+    {
+      "title": "Anthropic will biologische Forschung mit KI-Agenten beschleunigen",
+      "description": "Anthropic geht zwei Partnerschaften mit führenden US-Forschungseinrichtungen ein, um KI-Agenten für die biologische Forschung zu entwickeln.\nDer Artikel Anthropic will biologische Forschung mit KI-Age",
+      "link": "https://the-decoder.de/anthropic-will-biologische-forschung-mit-ki-agenten-beschleunigen/",
+      "date": "2026-02-04T10:39:49.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Roboter brauchen deinen Körper: Neue Plattform lässt KIs echte Menschen anheuern",
+      "description": "Auf Rentahuman.ai können KI-Agenten Menschen für Aufgaben in der echten Welt beauftragen: vom Schilderhalten bis zum Paketabholen. Klingt absurd, zeigt aber, was passieren kann, wenn Sprachmodelle Wor",
+      "link": "https://the-decoder.de/roboter-brauchen-deinen-koerper-neue-plattform-laesst-kis-echte-menschen-anheuern/",
+      "date": "2026-02-04T10:18:12.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "OpenAI-Finanzierung: Nvidia will angeblich 20 Milliarden beisteuern und \"Schritt für Schritt\" investieren",
+      "description": "Der im September angekündigte Megadeal zwischen OpenAI und Nvidia wird wohl nicht wie geplant finalisiert. Nvidia-CEO Jensen Huang soll intern Zweifel an OpenAIs Geschäftsansatz geäußert haben.\nDer Ar",
+      "link": "https://the-decoder.de/openai-finanzierung-nvidia-will-angeblich-20-milliarden-beisteuern-und-schritt-fuer-schritt-investieren/",
+      "date": "2026-02-04T09:19:35.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+      "description": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+      "link": "https://openai.com/index/vfl-wolfsburg",
+      "date": "2026-02-04T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
     {
       "title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
       "description": "Generative AI",
@@ -65,24 +101,6 @@
       "language": "de"
     },
     {
-      "title": "\"Daddy\", \"Master\", \"Guru\": Anthropic-Studie zeigt, wie Nutzer emotionale Abhängigkeit von Claude entwickeln",
-      "description": "Eine neue Analyse von 1,5 Millionen Claude-Gesprächen offenbart beunruhigende Muster: In seltenen, aber messbaren Fällen untergraben KI-Interaktionen die Entscheidungsfähigkeit von Nutzern. Das Parado",
-      "link": "https://the-decoder.de/daddy-master-guru-anthropic-studie-zeigt-wie-nutzer-emotionale-abhaengigkeit-von-claude-entwickeln/",
-      "date": "2026-02-02T13:14:10.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "KI-Boom treibt Speicherpreise: Apple drohen bis zu 57 Dollar Mehrkosten pro iPhone",
-      "description": "Der KI-Boom könnte Apple bis zu 57 Dollar mehr pro iPhone kosten – allein für Speicherchips.\nDer Artikel KI-Boom treibt Speicherpreise: Apple drohen bis zu 57 Dollar Mehrkosten pro iPhone erschien zue",
-      "link": "https://the-decoder.de/ki-boom-treibt-speicherpreise-apple-drohen-bis-zu-57-dollar-mehrkosten-pro-iphone/",
-      "date": "2026-02-02T12:47:30.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
       "description": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
       "link": "https://openai.com/index/snowflake-partnership",
@@ -115,24 +133,6 @@
       "link": "https://openai.com/index/retiring-gpt-4o-and-older-models",
       "date": "2026-01-29T00:00:00.000Z",
       "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
-      "description": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
-      "link": "https://openai.com/index/taisei",
-      "date": "2026-01-29T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Towards a science of scaling agent systems: When and why agent systems work",
-      "description": "Generative AI",
-      "link": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
-      "date": "2026-01-28T11:00:00.000Z",
-      "source": "Google AI",
       "category": "große-modelle",
       "language": "en"
     }
