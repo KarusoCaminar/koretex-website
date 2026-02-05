@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-05T10:45:24.862Z",
+  "lastUpdated": "2026-02-05T13:10:27.993Z",
   "news": [
+    {
+      "title": "Voxtral Mini Transcribe V2 kombiniert niedrige Fehlerrate mit aggressivem Kampfpreis",
+      "description": "Mistral AI will mit Voxtral Transcribe 2 die Konkurrenz bei der Spracherkennung preislich unterbieten.\nDer Artikel Voxtral Mini Transcribe V2 kombiniert niedrige Fehlerrate mit aggressivem Kampfpreis",
+      "link": "https://the-decoder.de/voxtral-mini-transcribe-v2-kombiniert-niedrige-fehlerrate-mit-aggressivem-kampfpreis/",
+      "date": "2026-02-05T12:49:43.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Meta sieht intern KI-Wende nach turbulenten Monaten",
+      "description": "Meta hat laut einem internen Memo das Vortraining seines neuen KI-Modells mit dem Codenamen \"Avocado\" abgeschlossen.\nDer Artikel Meta sieht intern KI-Wende nach turbulenten Monaten erschien zuerst auf",
+      "link": "https://the-decoder.de/meta-sieht-intern-ki-wende-nach-turbulenten-monaten/",
+      "date": "2026-02-05T11:02:34.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Amazon entwickelt KI-Werkzeuge für Film- und Fernsehproduktion",
       "description": "Amazon will KI nutzen, um Film- und Fernsehproduktionen zu beschleunigen und Kosten zu senken.\nDer Artikel Amazon entwickelt KI-Werkzeuge für Film- und Fernsehproduktion erschien zuerst auf The Decode",
@@ -96,24 +114,6 @@
       "description": "Alibabas neues Coding-Modell Qwen3-Coder-Next erreicht mit nur 3 Milliarden aktiven Parametern die Leistung deutlich größerer Modelle.\nDer Artikel Alibabas Qwen3-Coder-Next ist ein effizientes KI-Mode",
       "link": "https://the-decoder.de/alibabas-qwen3-coder-next-ist-ein-effizientes-ki-modell-fuer-programmier-agenten/",
       "date": "2026-02-04T11:51:48.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "OpenAI besetzt Sicherheitsposten mit Anthropic-Mitarbeiter",
-      "description": "OpenAI holt sich einen KI-Sicherheitsexperten vom Konkurrenten Anthropic, der bald erscheinende \"extrem leistungsstarke Modelle\" in Schach halten soll.\nDer Artikel OpenAI besetzt Sicherheitsposten mit",
-      "link": "https://the-decoder.de/openai-besetzt-sicherheitsposten-mit-anthropic-mitarbeiter/",
-      "date": "2026-02-04T11:23:51.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Anthropic will biologische Forschung mit KI-Agenten beschleunigen",
-      "description": "Anthropic geht zwei Partnerschaften mit führenden US-Forschungseinrichtungen ein, um KI-Agenten für die biologische Forschung zu entwickeln.\nDer Artikel Anthropic will biologische Forschung mit KI-Age",
-      "link": "https://the-decoder.de/anthropic-will-biologische-forschung-mit-ki-agenten-beschleunigen/",
-      "date": "2026-02-04T10:39:49.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
