@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-04T22:32:35.001Z",
+  "lastUpdated": "2026-02-05T02:26:38.904Z",
   "news": [
+    {
+      "title": "Navigating health questions with ChatGPT",
+      "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+      "link": "https://openai.com/index/navigating-health-questions",
+      "date": "2026-02-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
     {
       "title": "OpenClaw hat OpenDoor: Sichereitsforscher entlarven gravierende Sicherheitslücke im Hype-Agenten \"Clawdbot\"",
       "description": "Der KI-Agent OpenClaw hat in wenigen Wochen über 100.000 GitHub-Stars gesammelt. Nun zeigen Sicherheitsforscher, wie sich der gehypte Assistent durch ein einziges manipuliertes Dokument in eine dauerh",
@@ -124,15 +133,6 @@
       "link": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
       "date": "2026-02-03T18:15:01.000Z",
       "source": "Google AI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "The Sora feed philosophy",
-      "description": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
-      "link": "https://openai.com/index/sora-feed-philosophy",
-      "date": "2026-02-03T00:00:00.000Z",
-      "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
     }
