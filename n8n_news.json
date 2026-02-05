@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T13:10:27.993Z",
+  "lastUpdated": "2026-02-05T14:47:52.286Z",
   "news": [
     {
       "title": "Voxtral Mini Transcribe V2 kombiniert niedrige Fehlerrate mit aggressivem Kampfpreis",
@@ -36,6 +36,15 @@
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
+    },
+    {
+      "title": "Introducing OpenAI Frontier",
+      "description": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+      "link": "https://openai.com/index/introducing-openai-frontier",
+      "date": "2026-02-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
     },
     {
       "title": "Navigating health questions with ChatGPT",
@@ -124,15 +133,6 @@
       "link": "https://openai.com/index/vfl-wolfsburg",
       "date": "2026-02-04T00:00:00.000Z",
       "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
-      "description": "Generative AI",
-      "link": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
-      "date": "2026-02-03T18:15:01.000Z",
-      "source": "Google AI",
       "category": "große-modelle",
       "language": "en"
     }
