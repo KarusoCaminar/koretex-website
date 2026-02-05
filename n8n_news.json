@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-05T16:55:08.096Z",
+  "lastUpdated": "2026-02-05T18:54:50.610Z",
   "news": [
+    {
+      "title": "Anthropics neues KI-Modell Opus 4.6 soll bessere Informationen in großen Datenmengen finden",
+      "description": "Anthropic hat mit Claude Opus 4.6 ein neues Flaggschiff-Modell vorgestellt. Es verfügt erstmals über ein Kontextfenster von einer Million Token und soll relevante Informationen in umfangreichen Dokume",
+      "link": "https://the-decoder.de/anthropics-neues-ki-modell-opus-4-6-soll-bessere-informationen-in-grossen-datenmengen-finden/",
+      "date": "2026-02-05T18:44:33.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "OpenAI startet Frontier-Plattform für KI-Agenten in Unternehmen",
+      "description": "OpenAI stellt mit Frontier eine neue Plattform vor, die KI-Agenten in Unternehmen aus ihrer Isolation befreien soll. Die Agenten erhalten eigene Identitäten, gemeinsamen Kontext und sollen aus Erfahru",
+      "link": "https://the-decoder.de/openai-startet-frontier-plattform-fuer-ki-agenten-in-unternehmen/",
+      "date": "2026-02-05T17:40:37.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Voxtral Mini Transcribe V2 kombiniert niedrige Fehlerrate mit aggressivem Kampfpreis",
       "description": "Mistral AI will mit Voxtral Transcribe 2 die Konkurrenz bei der Spracherkennung preislich unterbieten.\nDer Artikel Voxtral Mini Transcribe V2 kombiniert niedrige Fehlerrate mit aggressivem Kampfpreis",
@@ -18,6 +36,15 @@
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
+    },
+    {
+      "title": "Introducing Trusted Access for Cyber",
+      "description": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
+      "link": "https://openai.com/index/trusted-access-for-cyber",
+      "date": "2026-02-05T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
     },
     {
       "title": "Amazon entwickelt KI-Werkzeuge für Film- und Fernsehproduktion",
@@ -38,11 +65,11 @@
       "language": "de"
     },
     {
-      "title": "Introducing OpenAI Frontier",
-      "description": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
-      "link": "https://openai.com/index/introducing-openai-frontier",
-      "date": "2026-02-05T00:00:00.000Z",
-      "source": "OpenAI",
+      "title": "How AI agents can redefine universal design to increase accessibility",
+      "description": "Education Innovation",
+      "link": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/",
+      "date": "2026-02-05T08:28:00.000Z",
+      "source": "Google AI",
       "category": "große-modelle",
       "language": "en"
     },
@@ -50,6 +77,33 @@
       "title": "Navigating health questions with ChatGPT",
       "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
       "link": "https://openai.com/index/navigating-health-questions",
+      "date": "2026-02-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
+      "title": "GPT-5.3-Codex System Card",
+      "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+      "link": "https://openai.com/index/gpt-5-3-codex-system-card",
+      "date": "2026-02-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
+      "title": "Introducing GPT-5.3-Codex",
+      "description": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+      "link": "https://openai.com/index/introducing-gpt-5-3-codex",
+      "date": "2026-02-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
+      "title": "Introducing OpenAI Frontier",
+      "description": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+      "link": "https://openai.com/index/introducing-openai-frontier",
       "date": "2026-02-05T00:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
@@ -81,60 +135,6 @@
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
-    },
-    {
-      "title": "Anders als OpenAI: Anthropic verspricht, dass Claude dauerhaft werbefrei bleibt",
-      "description": "Anthropic verspricht: Keine Werbung in Claude. Doch bei E-Commerce-Transaktionen könnte die Grenze verschwimmen.\nDer Artikel Anders als OpenAI: Anthropic verspricht, dass Claude dauerhaft werbefrei bl",
-      "link": "https://the-decoder.de/anders-als-openai-anthropic-verspricht-dass-claude-dauerhaft-werbefrei-bleibt/",
-      "date": "2026-02-04T16:20:09.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
-      "description": "Algorithms & Theory",
-      "link": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
-      "date": "2026-02-04T15:14:00.000Z",
-      "source": "Google AI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Unlocking the Codex harness: how we built the App Server",
-      "description": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
-      "link": "https://openai.com/index/unlocking-the-codex-harness",
-      "date": "2026-02-04T13:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "OpenAI wirft Musks xAI systematische Beweisvernichtung im Kartellverfahren vor",
-      "description": "OpenAI wirft Elon Musks KI-Unternehmen xAI vor, in einem laufenden Gerichtsverfahren systematisch und absichtlich Beweise vernichtet zu haben.\nDer Artikel OpenAI wirft Musks xAI systematische Beweisve",
-      "link": "https://the-decoder.de/openai-wirft-musks-xai-systematische-beweisvernichtung-im-kartellverfahren-vor/",
-      "date": "2026-02-04T12:07:28.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Alibabas Qwen3-Coder-Next ist ein effizientes KI-Modell für Programmier-Agenten",
-      "description": "Alibabas neues Coding-Modell Qwen3-Coder-Next erreicht mit nur 3 Milliarden aktiven Parametern die Leistung deutlich größerer Modelle.\nDer Artikel Alibabas Qwen3-Coder-Next ist ein effizientes KI-Mode",
-      "link": "https://the-decoder.de/alibabas-qwen3-coder-next-ist-ein-effizientes-ki-modell-fuer-programmier-agenten/",
-      "date": "2026-02-04T11:51:48.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-      "description": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
-      "link": "https://openai.com/index/vfl-wolfsburg",
-      "date": "2026-02-04T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
     }
   ]
 }
