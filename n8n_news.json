@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-06T14:41:30.672Z",
+  "lastUpdated": "2026-02-06T16:51:52.718Z",
   "news": [
+    {
+      "title": "Tech-Giganten planen 2026 Rekordausgaben von 610 Milliarden Dollar für KI-Infrastruktur",
+      "description": "Die vier größten Tech-Konzerne wollen 2026 zusammen 610 Milliarden Dollar in KI investieren. Die Börse reagiert nervös.\nDer Artikel Tech-Giganten planen 2026 Rekordausgaben von 610 Milliarden Dollar f",
+      "link": "https://the-decoder.de/tech-giganten-planen-2026-rekordausgaben-von-610-milliarden-dollar-fuer-ki-infrastruktur/",
+      "date": "2026-02-06T16:38:54.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Sam Altman: Jedes Unternehmen ist jetzt ein API-Unternehmen – ob es will oder nicht",
+      "description": "KI-Agenten schreiben sich ihren Zugang zu Diensten künftig selbst – ob Unternehmen das wollen oder nicht, sagt OpenAI-CEO Sam Altman.\nDer Artikel Sam Altman: Jedes Unternehmen ist jetzt ein API-Untern",
+      "link": "https://the-decoder.de/sam-altman-jedes-unternehmen-ist-jetzt-ein-api-unternehmen-ob-es-will-oder-nicht/",
+      "date": "2026-02-06T15:48:55.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "OpenAI und Ginkgo Bioworks optimieren Proteinsynthese mit GPT-5 im Roboterlabor",
+      "description": "OpenAI hat gemeinsam mit dem Biotech-Unternehmen Ginkgo Bioworks GPT-5 an ein automatisiertes Labor angeschlossen, um zellfreie Proteinsynthese zu optimieren. Die Ergebnisse sind messbar, die Einschrä",
+      "link": "https://the-decoder.de/openai-und-ginkgo-bioworks-optimieren-proteinsynthese-mit-gpt-5-im-roboterlabor/",
+      "date": "2026-02-06T14:54:19.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Apple kürzt Pläne für KI-Gesundheitscoach",
       "description": "Apple fährt seine Pläne für einen KI-gestützten virtuellen Gesundheitscoach mit dem Codenamen \"Mulberry\" zurück, berichtet Bloomberg.\nDer Artikel Apple kürzt Pläne für KI-Gesundheitscoach erschien zue",
@@ -83,24 +110,6 @@
       "language": "en"
     },
     {
-      "title": "Amazon entwickelt KI-Werkzeuge für Film- und Fernsehproduktion",
-      "description": "Amazon will KI nutzen, um Film- und Fernsehproduktionen zu beschleunigen und Kosten zu senken.\nDer Artikel Amazon entwickelt KI-Werkzeuge für Film- und Fernsehproduktion erschien zuerst auf The Decode",
-      "link": "https://the-decoder.de/amazon-entwickelt-ki-werkzeuge-fuer-film-und-fernsehproduktion/",
-      "date": "2026-02-05T09:53:07.000Z",
-      "source": "The Decoder",
-      "category": "industrie-4.0",
-      "language": "de"
-    },
-    {
-      "title": "Streit um Werbung in KI: Sam Altman verteidigt OpenAIs Strategie gegen Anthropic",
-      "description": "OpenAI-CEO Sam Altman reagiert auf Anthropics ironische Werbespots, die ChatGPT mit Werbung auf die Schippe nehmen. Er nennt die Spots unehrlich und wirft Anthropic Elitismus vor. Doch Altmans Kritik",
-      "link": "https://the-decoder.de/streit-um-werbung-in-ki-sam-altman-verteidigt-openais-strategie-gegen-anthropic/",
-      "date": "2026-02-05T09:29:33.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "How AI agents can redefine universal design to increase accessibility",
       "description": "Education Innovation",
       "link": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/",
@@ -122,15 +131,6 @@
       "title": "GPT-5.3-Codex System Card",
       "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
       "link": "https://openai.com/index/gpt-5-3-codex-system-card",
-      "date": "2026-02-05T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Introducing GPT-5.3-Codex",
-      "description": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
-      "link": "https://openai.com/index/introducing-gpt-5-3-codex",
       "date": "2026-02-05T00:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
