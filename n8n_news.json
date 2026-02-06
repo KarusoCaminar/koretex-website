@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-06T10:43:19.280Z",
+  "lastUpdated": "2026-02-06T13:07:43.479Z",
   "news": [
+    {
+      "title": "Apple kürzt Pläne für KI-Gesundheitscoach",
+      "description": "Apple fährt seine Pläne für einen KI-gestützten virtuellen Gesundheitscoach mit dem Codenamen \"Mulberry\" zurück, berichtet Bloomberg.\nDer Artikel Apple kürzt Pläne für KI-Gesundheitscoach erschien zue",
+      "link": "https://the-decoder.de/apple-kuerzt-plaene-fuer-ki-gesundheitscoach/",
+      "date": "2026-02-06T13:04:48.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Claude Opus 4.6 lieferte in Sicherheitstest Anleitungen für Senfgas in Excel-Tabellen",
+      "description": "Anthropics Sicherheitstraining versagt, wenn Claude eine grafische Benutzeroberfläche bedient.\nDer Artikel Claude Opus 4.6 lieferte in Sicherheitstest Anleitungen für Senfgas in Excel-Tabellen erschie",
+      "link": "https://the-decoder.de/claude-opus-4-6-lieferte-in-sicherheitstest-anleitungen-fuer-senfgas-in-excel-tabellen/",
+      "date": "2026-02-06T12:43:10.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "OpenAIs GPT-5.3-Codex vereint 25 Prozent mehr Geschwindigkeit mit neuen Bestwerten im Coding",
       "description": "OpenAI veröffentlicht GPT-5.3-Codex, das wohl bislang leistungsstärkste Coding-Modell. Es half angeblich bei seiner eigenen Entwicklung mit.\nDer Artikel OpenAIs GPT-5.3-Codex vereint 25 Prozent mehr G",
@@ -101,24 +119,6 @@
       "language": "en"
     },
     {
-      "title": "Introducing GPT-5.3-Codex",
-      "description": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
-      "link": "https://openai.com/index/introducing-gpt-5-3-codex",
-      "date": "2026-02-05T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "GPT-5.3-Codex System Card",
-      "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-      "link": "https://openai.com/index/gpt-5-3-codex-system-card",
-      "date": "2026-02-05T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
       "title": "Navigating health questions with ChatGPT",
       "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
       "link": "https://openai.com/index/navigating-health-questions",
@@ -128,13 +128,13 @@
       "language": "en"
     },
     {
-      "title": "OpenClaw hat OpenDoor: Forscher entlarven gravierende Sicherheitslücke im Hype-Agenten \"Clawdbot\"",
-      "description": "Der KI-Agent OpenClaw hat in wenigen Wochen über 100.000 GitHub-Stars gesammelt. Nun zeigen Sicherheitsforscher, wie sich der gehypte Assistent durch ein einziges manipuliertes Dokument in eine dauerh",
-      "link": "https://the-decoder.de/opendoor-statt-openclaw-sichereitsforscher-entlarven-gravierende-sicherheitsluecke-im-hype-agenten-clawdbot/",
-      "date": "2026-02-04T19:19:39.000Z",
-      "source": "The Decoder",
+      "title": "Introducing GPT-5.3-Codex",
+      "description": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+      "link": "https://openai.com/index/introducing-gpt-5-3-codex",
+      "date": "2026-02-05T00:00:00.000Z",
+      "source": "OpenAI",
       "category": "große-modelle",
-      "language": "de"
+      "language": "en"
     }
   ]
 }
