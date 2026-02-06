@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T13:07:43.479Z",
+  "lastUpdated": "2026-02-06T14:41:30.672Z",
   "news": [
     {
       "title": "Apple kürzt Pläne für KI-Gesundheitscoach",
@@ -119,9 +119,9 @@
       "language": "en"
     },
     {
-      "title": "Navigating health questions with ChatGPT",
-      "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
-      "link": "https://openai.com/index/navigating-health-questions",
+      "title": "GPT-5.3-Codex System Card",
+      "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+      "link": "https://openai.com/index/gpt-5-3-codex-system-card",
       "date": "2026-02-05T00:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
