@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-06T16:51:52.718Z",
+  "lastUpdated": "2026-02-06T18:56:06.134Z",
   "news": [
+    {
+      "title": "Elefanten, Tornados, Hochwasser: Waymos neues KI-Weltmodell simuliert Szenarien, die es real kaum gibt",
+      "description": "Waymo präsentiert ein generatives Simulationsmodell für autonomes Fahren, das auf Google Deepminds Genie 3 basiert. Es soll hyperrealistische Szenarien erzeugen, die in der Realität kaum zu beobachten",
+      "link": "https://the-decoder.de/elefanten-tornados-hochwasser-waymos-neues-ki-weltmodell-simuliert-szenarien-die-es-real-kaum-gibt/",
+      "date": "2026-02-06T18:15:20.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Tech-Giganten planen 2026 Rekordausgaben von 610 Milliarden Dollar für KI-Infrastruktur",
       "description": "Die vier größten Tech-Konzerne wollen 2026 zusammen 610 Milliarden Dollar in KI investieren. Die Börse reagiert nervös.\nDer Artikel Tech-Giganten planen 2026 Rekordausgaben von 610 Milliarden Dollar f",
@@ -47,6 +56,15 @@
       "language": "de"
     },
     {
+      "title": "Making AI work for everyone, everywhere: our approach to localization",
+      "description": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
+      "link": "https://openai.com/index/our-approach-to-localization",
+      "date": "2026-02-06T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
       "title": "OpenAIs GPT-5.3-Codex vereint 25 Prozent mehr Geschwindigkeit mit neuen Bestwerten im Coding",
       "description": "OpenAI veröffentlicht GPT-5.3-Codex, das wohl bislang leistungsstärkste Coding-Modell. Es half angeblich bei seiner eigenen Entwicklung mit.\nDer Artikel OpenAIs GPT-5.3-Codex vereint 25 Prozent mehr G",
       "link": "https://the-decoder.de/openais-gpt-5-3-codex-vereint-25-prozent-mehr-geschwindigkeit-mit-neuen-bestwerten-im-coding/",
@@ -56,9 +74,9 @@
       "language": "de"
     },
     {
-      "title": "Anthropics neues KI-Modell Opus 4.6 soll bessere Informationen in großen Datenmengen finden",
+      "title": "Anthropics neues KI-Modell Opus 4.6 soll besser Informationen in großen Datenmengen finden",
       "description": "Anthropic hat mit Claude Opus 4.6 ein neues Flaggschiff-Modell vorgestellt. Es verfügt erstmals über ein Kontextfenster von einer Million Token und soll relevante Informationen in umfangreichen Dokume",
-      "link": "https://the-decoder.de/anthropics-neues-ki-modell-opus-4-6-soll-bessere-informationen-in-grossen-datenmengen-finden/",
+      "link": "https://the-decoder.de/anthropics-neues-ki-modell-opus-4-6-soll-besser-informationen-in-grossen-datenmengen-finden/",
       "date": "2026-02-05T18:44:33.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
@@ -78,15 +96,6 @@
       "description": "Mistral AI will mit Voxtral Transcribe 2 die Konkurrenz bei der Spracherkennung preislich unterbieten.\nDer Artikel Voxtral Mini Transcribe V2 kombiniert niedrige Fehlerrate mit aggressivem Kampfpreis",
       "link": "https://the-decoder.de/voxtral-mini-transcribe-v2-kombiniert-niedrige-fehlerrate-mit-aggressivem-kampfpreis/",
       "date": "2026-02-05T12:49:43.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Meta sieht intern KI-Wende nach turbulenten Monaten",
-      "description": "Meta hat laut einem internen Memo das Vortraining seines neuen KI-Modells mit dem Codenamen \"Avocado\" abgeschlossen.\nDer Artikel Meta sieht intern KI-Wende nach turbulenten Monaten erschien zuerst auf",
-      "link": "https://the-decoder.de/meta-sieht-intern-ki-wende-nach-turbulenten-monaten/",
-      "date": "2026-02-05T11:02:34.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
@@ -123,15 +132,6 @@
       "description": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
       "link": "https://openai.com/index/introducing-openai-frontier",
       "date": "2026-02-05T06:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "GPT-5.3-Codex System Card",
-      "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-      "link": "https://openai.com/index/gpt-5-3-codex-system-card",
-      "date": "2026-02-05T00:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
