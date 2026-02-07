@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-02-07T08:36:37.886Z",
+  "lastUpdated": "2026-02-07T10:30:07.244Z",
   "news": [
+    {
+      "title": "Einfache Markdown-Datei schlägt komplexes Skill-System für KI-Coding-Agenten",
+      "description": "Vercel wollte herausfinden, wie KI-Coding-Agenten am besten aktuelles Framework-Wissen erhalten. Die Antwort war überraschend simpel.\nDer Artikel Einfache Markdown-Datei schlägt komplexes Skill-System",
+      "link": "https://the-decoder.de/einfache-markdown-datei-schlaegt-komplexes-skill-system-fuer-ki-coding-agenten/",
+      "date": "2026-02-07T10:21:14.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Wahlen in Japan: Bevölkerung kämpft mit gefälschten KI-Inhalten",
+      "description": "In Japan verbreiten sich im Wahlkampf massenhaft KI-generierte Fake-Videos über soziale Medien. Mehr als die Hälfte der Befragten hält Falschnachrichten für wahr. Ein Problem, das auch andere Demokrat",
+      "link": "https://the-decoder.de/wahlen-in-japan-bevoelkerung-kaempft-mit-gefaelschten-ki-inhalten/",
+      "date": "2026-02-07T10:03:57.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "OpenAI plant spezielle ChatGPT-Version für die Regierung der Vereinigten Arabischen Emirate",
+      "description": "OpenAI entwickelt mit G42 eine spezielle ChatGPT-Version für die Vereinigten Arabischen Emirate mit lokalem Dialekt, politischer Ausrichtung und Inhaltsbeschränkungen.\nDer Artikel OpenAI plant speziel",
+      "link": "https://the-decoder.de/openai-plant-spezielle-chatgpt-version-fuer-die-regierung-der-vereinigten-arabischen-emirate/",
+      "date": "2026-02-07T09:13:43.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Googles PaperBanana lässt fünf KI-Agenten wissenschaftliche Diagramme erstellen",
+      "description": "KI-Agenten als Illustratoren: Forscher von Peking University und Google haben ein System entwickelt, das aus Methodenbeschreibungen automatisch Diagramme für wissenschaftliche Paper erzeugt. Fünf spez",
+      "link": "https://the-decoder.de/googles-paperbanana-laesst-fuenf-ki-agenten-wissenschaftliche-diagramme-erstellen/",
+      "date": "2026-02-07T08:41:01.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Elefanten, Tornados, Hochwasser: Waymos neues KI-Weltmodell simuliert Szenarien, die es real kaum gibt",
       "description": "Waymo präsentiert ein generatives Simulationsmodell für autonomes Fahren, das auf Google Deepminds Genie 3 basiert. Es soll hyperrealistische Szenarien erzeugen, die in der Realität kaum zu beobachten",
@@ -63,42 +99,6 @@
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
-    },
-    {
-      "title": "OpenAIs GPT-5.3-Codex vereint 25 Prozent mehr Geschwindigkeit mit neuen Bestwerten im Coding",
-      "description": "OpenAI veröffentlicht GPT-5.3-Codex, das wohl bislang leistungsstärkste Coding-Modell. Es half angeblich bei seiner eigenen Entwicklung mit.\nDer Artikel OpenAIs GPT-5.3-Codex vereint 25 Prozent mehr G",
-      "link": "https://the-decoder.de/openais-gpt-5-3-codex-vereint-25-prozent-mehr-geschwindigkeit-mit-neuen-bestwerten-im-coding/",
-      "date": "2026-02-05T19:44:59.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Anthropics neues KI-Modell Opus 4.6 soll besser Informationen in großen Datenmengen finden",
-      "description": "Anthropic hat mit Claude Opus 4.6 ein neues Flaggschiff-Modell vorgestellt. Es verfügt erstmals über ein Kontextfenster von einer Million Token und soll relevante Informationen in umfangreichen Dokume",
-      "link": "https://the-decoder.de/anthropics-neues-ki-modell-opus-4-6-soll-besser-informationen-in-grossen-datenmengen-finden/",
-      "date": "2026-02-05T18:44:33.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "OpenAI startet Frontier-Plattform für KI-Agenten in Unternehmen",
-      "description": "OpenAI stellt mit Frontier eine neue Plattform vor, die KI-Agenten in Unternehmen aus ihrer Isolation befreien soll. Die Agenten erhalten eigene Identitäten, gemeinsamen Kontext und sollen aus Erfahru",
-      "link": "https://the-decoder.de/openai-startet-frontier-plattform-fuer-ki-agenten-in-unternehmen/",
-      "date": "2026-02-05T17:40:37.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Voxtral Mini Transcribe V2 kombiniert niedrige Fehlerrate mit aggressivem Kampfpreis",
-      "description": "Mistral AI will mit Voxtral Transcribe 2 die Konkurrenz bei der Spracherkennung preislich unterbieten.\nDer Artikel Voxtral Mini Transcribe V2 kombiniert niedrige Fehlerrate mit aggressivem Kampfpreis",
-      "link": "https://the-decoder.de/voxtral-mini-transcribe-v2-kombiniert-niedrige-fehlerrate-mit-aggressivem-kampfpreis/",
-      "date": "2026-02-05T12:49:43.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
     },
     {
       "title": "GPT-5 lowers the cost of cell-free protein synthesis",
