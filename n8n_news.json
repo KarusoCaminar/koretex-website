@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-08T06:55:48.120Z",
+  "lastUpdated": "2026-02-08T08:37:32.287Z",
   "news": [
+    {
+      "title": "Ein Modell, viele Stimmen: Reasoning-KI simuliert interne Expertenteams – und wird dadurch präziser",
+      "description": "Wenn KI-Modelle nachdenken, streiten in ihrem Inneren verschiedene Stimmen miteinander: manche extravertiert, manche neurotisch, alle gewissenhaft. Forschende zeigen, dass dieses simulierte Teamwork d",
+      "link": "https://the-decoder.de/ein-modell-viele-stimmen-reasoning-ki-simuliert-interne-expertenteams-und-wird-dadurch-praeziser/",
+      "date": "2026-02-08T08:34:46.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Zuverlässigkeit bei KI-Agenten: OpenAI und Anthropic arbeiten direkt mit Großkunden",
       "description": "KI-Agenten im Unternehmenseinsatz scheitern oft an der komplexen Praxis. OpenAI und Anthropic setzen deshalb auf hunderte Berater, die vor Ort bei der Integration helfen.\nDer Artikel Zuverlässigkeit b",
@@ -78,15 +87,6 @@
       "description": "KI-Agenten schreiben sich ihren Zugang zu Diensten künftig selbst – ob Unternehmen das wollen oder nicht, sagt OpenAI-CEO Sam Altman.\nDer Artikel Sam Altman: Jedes Unternehmen ist jetzt ein API-Untern",
       "link": "https://the-decoder.de/sam-altman-jedes-unternehmen-ist-jetzt-ein-api-unternehmen-ob-es-will-oder-nicht/",
       "date": "2026-02-06T15:48:55.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "OpenAI und Ginkgo Bioworks optimieren Proteinsynthese mit GPT-5 im Roboterlabor",
-      "description": "OpenAI hat gemeinsam mit dem Biotech-Unternehmen Ginkgo Bioworks GPT-5 an ein automatisiertes Labor angeschlossen, um zellfreie Proteinsynthese zu optimieren. Die Ergebnisse sind messbar, die Einschrä",
-      "link": "https://the-decoder.de/openai-und-ginkgo-bioworks-optimieren-proteinsynthese-mit-gpt-5-im-roboterlabor/",
-      "date": "2026-02-06T14:54:19.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
