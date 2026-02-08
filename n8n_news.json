@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-08T12:57:51.058Z",
+  "lastUpdated": "2026-02-08T14:32:04.805Z",
   "news": [
+    {
+      "title": "Hunderte verseuchte Skills: Angreifer schleusen Trojaner in KI-Agent OpenClaw ein",
+      "description": "Hunderte Skills für den KI-Agenten OpenClaw waren mit Trojanern und Datendieben verseucht. Jetzt reagieren OpenClaw und VirusTotal, doch das grundlegende Sicherheitsproblem von KI-Agenten bleibt.\nDer",
+      "link": "https://the-decoder.de/mehr-als-300-verseuchte-skills-angreifer-schleusen-trojaner-in-ki-agent-openclaw-ein/",
+      "date": "2026-02-08T13:54:21.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "KI-Modelle erkennen oft nicht, was sie sehen",
+      "description": "Ein neuer Härtetest für multimodale KI-Modelle offenbart fundamentale Schwächen: Der Benchmark \"WorldVQA\" prüft, ob KI-Modelle visuelle Objekte tatsächlich erkennen. Selbst Spitzenreiter wie Gemini 3",
+      "link": "https://the-decoder.de/ki-modelle-erkennen-oft-nicht-was-sie-sehen/",
+      "date": "2026-02-08T13:06:04.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Benchmark-Analyse: Claude Opus 4.6 verdrängt die Konkurrenz von Platz eins",
       "description": "Anthropics Claude Opus 4.6 übernimmt die Spitze im Artificial Analysis Intelligence Index, doch der Vorsprung könnte nur von kurzer Dauer sein.\nDer Artikel Benchmark-Analyse: Claude Opus 4.6 verdrängt",
@@ -69,24 +87,6 @@
       "description": "In Japan verbreiten sich im Wahlkampf massenhaft KI-generierte Fake-Videos über soziale Medien. Mehr als die Hälfte der Befragten hält Falschnachrichten für wahr. Ein Problem, das auch andere Demokrat",
       "link": "https://the-decoder.de/wahlen-in-japan-bevoelkerung-kaempft-mit-gefaelschten-ki-inhalten/",
       "date": "2026-02-07T10:03:57.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "OpenAI plant spezielle ChatGPT-Version für die Regierung der Vereinigten Arabischen Emirate",
-      "description": "OpenAI entwickelt mit G42 eine spezielle ChatGPT-Version für die Vereinigten Arabischen Emirate mit lokalem Dialekt, politischer Ausrichtung und Inhaltsbeschränkungen.\nDer Artikel OpenAI plant speziel",
-      "link": "https://the-decoder.de/openai-plant-spezielle-chatgpt-version-fuer-die-regierung-der-vereinigten-arabischen-emirate/",
-      "date": "2026-02-07T09:13:43.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Googles PaperBanana lässt fünf KI-Agenten wissenschaftliche Diagramme erstellen",
-      "description": "KI-Agenten als Illustratoren: Forscher von Peking University und Google haben ein System entwickelt, das aus Methodenbeschreibungen automatisch Diagramme für wissenschaftliche Paper erzeugt. Fünf spez",
-      "link": "https://the-decoder.de/googles-paperbanana-laesst-fuenf-ki-agenten-wissenschaftliche-diagramme-erstellen/",
-      "date": "2026-02-07T08:41:01.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
