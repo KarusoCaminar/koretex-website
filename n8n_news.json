@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-08T10:31:28.112Z",
+  "lastUpdated": "2026-02-08T12:57:51.058Z",
   "news": [
+    {
+      "title": "Benchmark-Analyse: Claude Opus 4.6 verdrängt die Konkurrenz von Platz eins",
+      "description": "Anthropics Claude Opus 4.6 übernimmt die Spitze im Artificial Analysis Intelligence Index, doch der Vorsprung könnte nur von kurzer Dauer sein.\nDer Artikel Benchmark-Analyse: Claude Opus 4.6 verdrängt",
+      "link": "https://the-decoder.de/benchmark-analyse-claude-opus-4-6-verdraengt-die-konkurrenz-von-platz-eins/",
+      "date": "2026-02-08T12:35:35.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Studie zum #Keep4o-Protest: Nutzer trauern um GPT-4o wie um einen verstorbenen Freund",
+      "description": "OpenAIs GPT-4o wird bald endgültig abgeschaltet, und einige Nutzer fürchten diesen Moment, weil sie sich dem KI-Modell emotional verbunden fühlen. Eine Forscherin hat jetzt deren Social-Media-Posts un",
+      "link": "https://the-decoder.de/studie-zum-keep4o-protest-nutzer-trauern-um-gpt-4o-wie-um-einen-verstorbenen-freund/",
+      "date": "2026-02-08T11:26:28.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Anthropics neuer Claude \"Fast Mode\" ist 2,5-mal schneller, aber sechsmal teurer",
+      "description": "Anthropic dreht bei Claude Opus 4.6 den Turbo auf: Der neue Fast Mode verspricht 2,5× schnellere Antworten bei gleicher Qualität – kostet aber deutlich mehr pro Token.\nDer Artikel Anthropics neuer Cla",
+      "link": "https://the-decoder.de/anthropics-neuer-claude-fast-mode-ist-25-mal-schneller-aber-sechsmal-teurer/",
+      "date": "2026-02-08T10:40:03.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Ein Modell, viele Stimmen: Reasoning-KI simuliert interne Expertenteams – und wird dadurch präziser",
       "description": "Wenn KI-Modelle nachdenken, streiten in ihrem Inneren verschiedene Stimmen miteinander: manche extravertiert, manche neurotisch, alle gewissenhaft. Forschende zeigen, dass dieses simulierte Teamwork d",
@@ -60,33 +87,6 @@
       "description": "KI-Agenten als Illustratoren: Forscher von Peking University und Google haben ein System entwickelt, das aus Methodenbeschreibungen automatisch Diagramme für wissenschaftliche Paper erzeugt. Fünf spez",
       "link": "https://the-decoder.de/googles-paperbanana-laesst-fuenf-ki-agenten-wissenschaftliche-diagramme-erstellen/",
       "date": "2026-02-07T08:41:01.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Elefanten, Tornados, Hochwasser: Waymos neues KI-Weltmodell simuliert Szenarien, die es real kaum gibt",
-      "description": "Waymo präsentiert ein generatives Simulationsmodell für autonomes Fahren, das auf Google Deepminds Genie 3 basiert. Es soll hyperrealistische Szenarien erzeugen, die in der Realität kaum zu beobachten",
-      "link": "https://the-decoder.de/elefanten-tornados-hochwasser-waymos-neues-ki-weltmodell-simuliert-szenarien-die-es-real-kaum-gibt/",
-      "date": "2026-02-06T18:15:20.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Tech-Giganten planen 2026 Rekordausgaben von 610 Milliarden Dollar für KI-Infrastruktur",
-      "description": "Die vier größten Tech-Konzerne wollen 2026 zusammen 610 Milliarden Dollar in KI investieren. Die Börse reagiert nervös.\nDer Artikel Tech-Giganten planen 2026 Rekordausgaben von 610 Milliarden Dollar f",
-      "link": "https://the-decoder.de/tech-giganten-planen-2026-rekordausgaben-von-610-milliarden-dollar-fuer-ki-infrastruktur/",
-      "date": "2026-02-06T16:38:54.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Sam Altman: Jedes Unternehmen ist jetzt ein API-Unternehmen – ob es will oder nicht",
-      "description": "KI-Agenten schreiben sich ihren Zugang zu Diensten künftig selbst – ob Unternehmen das wollen oder nicht, sagt OpenAI-CEO Sam Altman.\nDer Artikel Sam Altman: Jedes Unternehmen ist jetzt ein API-Untern",
-      "link": "https://the-decoder.de/sam-altman-jedes-unternehmen-ist-jetzt-ein-api-unternehmen-ob-es-will-oder-nicht/",
-      "date": "2026-02-06T15:48:55.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
