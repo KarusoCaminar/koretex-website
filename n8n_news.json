@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-09T13:17:52.708Z",
+  "lastUpdated": "2026-02-09T14:55:52.007Z",
   "news": [
+    {
+      "title": "Liebesroman in 45 Minuten: Wie Claude und andere Chatbots die Romance-Branche unterwandern",
+      "description": "Ein Bericht der New York Times wirft einen Blick auf den KI-Einsatz in der romantischen Literatur und entdeckt ein bekanntes Phänomen: KI-generierte Liebesromane verkaufen sich gut – solange niemand w",
+      "link": "https://the-decoder.de/liebesroman-in-45-minuten-wie-claude-und-andere-chatbots-die-romance-branche-unterwandern/",
+      "date": "2026-02-09T14:02:33.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Neuer Benchmark zeigt: KI-Modelle halluzinieren immer noch viel zu oft",
       "description": "Ein neuer Benchmark von Forschern aus der Schweiz und Deutschland zeigt, dass selbst Spitzenmodelle wie Claude Opus 4.5 mit aktivierter Websuche noch in knapp einem Drittel aller Fälle falsche Informa",
@@ -78,15 +87,6 @@
       "description": "KI-Agenten im Unternehmenseinsatz scheitern oft an der komplexen Praxis. OpenAI und Anthropic setzen deshalb auf hunderte Berater, die vor Ort bei der Integration helfen.\nDer Artikel Zuverlässigkeit b",
       "link": "https://the-decoder.de/zuverlaessigkeit-bei-agenten-openai-und-anthropic-arbeiten-direkt-mit-grosskunden/",
       "date": "2026-02-07T17:32:27.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Nvidia-CEO Jensen Huang halluziniert, Sprachmodelle würden nicht mehr halluzinieren",
-      "description": "Nvidia-CEO Jensen Huang behauptet in einem CNBC-Interview, Sprachmodelle würden nicht mehr halluzinieren. Das ist falsch, und ihm wird nicht widersprochen. Ein Beispiel dafür, wie unsachlich die KI-Hy",
-      "link": "https://the-decoder.de/nvidia-ceo-jensen-huang-halluziniert-sprachmodelle-wuerden-nicht-mehr-halluzinieren/",
-      "date": "2026-02-07T11:51:49.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
