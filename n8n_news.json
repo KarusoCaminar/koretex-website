@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-09T10:57:56.173Z",
+  "lastUpdated": "2026-02-09T13:17:52.708Z",
   "news": [
+    {
+      "title": "Neuer Benchmark zeigt: KI-Modelle halluzinieren immer noch viel zu oft",
+      "description": "Ein neuer Benchmark von Forschern aus der Schweiz und Deutschland zeigt, dass selbst Spitzenmodelle wie Claude Opus 4.5 mit aktivierter Websuche noch in knapp einem Drittel aller Fälle falsche Informa",
+      "link": "https://the-decoder.de/neuer-benchmark-zeigt-ki-modelle-halluzinieren-immer-noch-viel-zu-oft/",
+      "date": "2026-02-09T12:32:11.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Investoren glauben, dass KI Gehälter statt bloß Software ersetzt",
+      "description": "Investoren wetten darauf, dass KI nicht Software-Budgets, sondern Gehälter ersetzt.\nDer Artikel Investoren glauben, dass KI Gehälter statt bloß Software ersetzt erschien zuerst auf The Decoder.",
+      "link": "https://the-decoder.de/investoren-glauben-dass-ki-gehaelter-statt-software-ersetzt/",
+      "date": "2026-02-09T11:44:36.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Hunderte verseuchte Skills: Angreifer schleusen Trojaner in KI-Agent OpenClaw ein",
       "description": "Hunderte Skills für den KI-Agenten OpenClaw waren mit Trojanern und Datendieben verseucht. Jetzt reagieren OpenClaw und VirusTotal, doch das grundlegende Sicherheitsproblem von KI-Agenten bleibt.\nDer",
@@ -69,24 +87,6 @@
       "description": "Nvidia-CEO Jensen Huang behauptet in einem CNBC-Interview, Sprachmodelle würden nicht mehr halluzinieren. Das ist falsch, und ihm wird nicht widersprochen. Ein Beispiel dafür, wie unsachlich die KI-Hy",
       "link": "https://the-decoder.de/nvidia-ceo-jensen-huang-halluziniert-sprachmodelle-wuerden-nicht-mehr-halluzinieren/",
       "date": "2026-02-07T11:51:49.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Einfache Markdown-Datei schlägt komplexes Skill-System für KI-Coding-Agenten",
-      "description": "Vercel wollte herausfinden, wie KI-Coding-Agenten am besten aktuelles Framework-Wissen erhalten. Die Antwort war überraschend simpel.\nDer Artikel Einfache Markdown-Datei schlägt komplexes Skill-System",
-      "link": "https://the-decoder.de/einfache-markdown-datei-schlaegt-komplexes-skill-system-fuer-ki-coding-agenten/",
-      "date": "2026-02-07T10:21:14.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Wahlen in Japan: Bevölkerung kämpft mit gefälschten KI-Inhalten",
-      "description": "In Japan verbreiten sich im Wahlkampf massenhaft KI-generierte Fake-Videos über soziale Medien. Mehr als die Hälfte der Befragten hält Falschnachrichten für wahr. Ein Problem, das auch andere Demokrat",
-      "link": "https://the-decoder.de/wahlen-in-japan-bevoelkerung-kaempft-mit-gefaelschten-ki-inhalten/",
-      "date": "2026-02-07T10:03:57.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
