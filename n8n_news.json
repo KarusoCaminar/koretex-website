@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-09T19:20:50.342Z",
+  "lastUpdated": "2026-02-09T20:43:54.313Z",
   "news": [
+    {
+      "title": "OpenAI startet Testphase für Werbung in ChatGPT",
+      "description": "ChatGPT zeigt jetzt Werbung, zunächst nur in den USA und für Nutzer der kostenlosen und \"Go\"-Stufe. Die Unabhängigkeit der Chat-Antworten sollen die Anzeigen in keinem Fall beeinflussen.\nDer Artikel O",
+      "link": "https://the-decoder.de/openai-startet-testphase-fuer-werbung-in-chatgpt/",
+      "date": "2026-02-09T19:47:14.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Bytedance zeigt mit Seedance 2.0 beeindruckende Fortschritte bei KI-Videos",
       "description": "ByteDance hat Seedance 2.0 veröffentlicht, zunächst für ausgewählte Nutzer. Das Vorgängermodell gehörte bereits zu den stärksten KI-Videomodellen am Markt. Die neue Version geht noch einen Schritt wei",
@@ -96,15 +105,6 @@
       "description": "OpenAIs GPT-4o wird bald endgültig abgeschaltet, und einige Nutzer fürchten diesen Moment, weil sie sich dem KI-Modell emotional verbunden fühlen. Eine Forscherin hat jetzt deren Social-Media-Posts un",
       "link": "https://the-decoder.de/studie-zum-keep4o-protest-nutzer-trauern-um-gpt-4o-wie-um-einen-verstorbenen-freund/",
       "date": "2026-02-08T11:26:28.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Anthropics neuer Claude \"Fast Mode\" ist 2,5-mal schneller, aber sechsmal teurer",
-      "description": "Anthropic dreht bei Claude Opus 4.6 den Turbo auf: Der neue Fast Mode verspricht 2,5× schnellere Antworten bei gleicher Qualität – kostet aber deutlich mehr pro Token.\nDer Artikel Anthropics neuer Cla",
-      "link": "https://the-decoder.de/anthropics-neuer-claude-fast-mode-ist-25-mal-schneller-aber-sechsmal-teurer/",
-      "date": "2026-02-08T10:40:03.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
