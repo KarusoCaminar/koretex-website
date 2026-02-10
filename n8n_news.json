@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T20:49:38.801Z",
+  "lastUpdated": "2026-02-10T22:42:51.573Z",
   "news": [
     {
       "title": "Deep Research in ChatGPT bekomt großes GPT-5-Update",
@@ -110,18 +110,18 @@
       "language": "en"
     },
     {
-      "title": "Testing ads in ChatGPT",
-      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+      "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "date": "2026-02-09T11:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
     },
     {
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-      "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "title": "Testing ads in ChatGPT",
+      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
       "date": "2026-02-09T11:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
