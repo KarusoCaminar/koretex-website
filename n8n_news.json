@@ -1,11 +1,38 @@
 {
-  "lastUpdated": "2026-02-10T19:09:56.519Z",
+  "lastUpdated": "2026-02-10T20:49:38.801Z",
   "news": [
+    {
+      "title": "Deep Research in ChatGPT bekomt großes GPT-5-Update",
+      "description": "OpenAI betreibt Deep Research in ChatGPT jetzt mit GPT-5.2 und bringt neue Funktionen wie gezielte Webseitensuche und Echtzeit-Kontrolle. Verlässlicher wird die KI-Recherche dadurch nicht unbedingt.\nD",
+      "link": "https://the-decoder.de/deep-research-in-chatgpt-bekomt-grosses-gpt-5-update/",
+      "date": "2026-02-10T20:23:14.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Isomorphic Labs stellt neue KI-Engine für präziseres Medikamenten-Design vor",
+      "description": "Isomorphic Labs, das KI-Medizin-Start-up von Google Deepmind, hat ein neues System namens \"Isomorphic Labs Drug Design Engine\" (IsoDDE) vorgestellt, das AlphaFold 3 übertreffen soll.\nDer Artikel Isomo",
+      "link": "https://the-decoder.de/isomorphic-labs-stellt-neue-ki-engine-fuer-praeziseres-medikamenten-design-vor/",
+      "date": "2026-02-10T19:53:36.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Zweiter xAI-Mitgründer verlässt Elon Musks KI-Unternehmen",
+      "description": "Nach Igor Babuschkin verlässt nun auch der zweite Mitgründer und KI-Forscher Tony Wu Elon Musks KI-Start-up xAI. Das Unternehmen kämpft mit Content-Skandalen, fehlenden Umsätzen und KI-Modellen, die w",
+      "link": "https://the-decoder.de/zweiter-xai-mitgruender-verlaesst-elon-musks-ki-unternehmen/",
+      "date": "2026-02-10T19:18:49.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
       "description": "Human-Computer Interaction and Visualization",
       "link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
-      "date": "2026-02-10T18:30:15.000Z",
+      "date": "2026-02-10T18:30:00.000Z",
       "source": "Google AI",
       "category": "große-modelle",
       "language": "en"
@@ -81,33 +108,6 @@
       "source": "Google AI",
       "category": "große-modelle",
       "language": "en"
-    },
-    {
-      "title": "Neues ChatGPT-Modell soll diese Woche erscheinen",
-      "description": "ChatGPT wächst wieder zweistellig, und das Coding-Produkt Codex legt um 50 Prozent zu.\nDer Artikel Neues ChatGPT-Modell soll diese Woche erscheinen erschien zuerst auf The Decoder.",
-      "link": "https://the-decoder.de/neues-chatgpt-modell-soll-diese-woche-erscheinen/",
-      "date": "2026-02-09T17:50:24.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Liebesroman in 45 Minuten: Wie Claude und andere Chatbots die Romance-Branche unterwandern",
-      "description": "Ein Bericht der New York Times wirft einen Blick auf den KI-Einsatz in der romantischen Literatur und entdeckt ein bekanntes Phänomen: KI-generierte Liebesromane verkaufen sich gut – solange niemand w",
-      "link": "https://the-decoder.de/liebesroman-in-45-minuten-wie-claude-und-andere-chatbots-die-romance-branche-unterwandern/",
-      "date": "2026-02-09T14:02:33.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Neuer Benchmark zeigt: KI-Modelle halluzinieren immer noch viel zu oft",
-      "description": "Ein neuer Benchmark von Forschern aus der Schweiz und Deutschland zeigt, dass selbst Spitzenmodelle wie Claude Opus 4.5 mit aktivierter Websuche noch in knapp einem Drittel aller Fälle falsche Informa",
-      "link": "https://the-decoder.de/neuer-benchmark-zeigt-ki-modelle-halluzinieren-immer-noch-viel-zu-oft/",
-      "date": "2026-02-09T12:32:11.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
     },
     {
       "title": "Testing ads in ChatGPT",
