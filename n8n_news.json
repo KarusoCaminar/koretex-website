@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-10T10:56:31.123Z",
+  "lastUpdated": "2026-02-10T13:22:13.609Z",
   "news": [
+    {
+      "title": "OpenAI verwirft den Namen „io\" für sein KI-Gerät – Marktstart erst 2027",
+      "description": "OpenAI wird den Namen „io\" nicht für seine geplanten KI-Hardware-Geräte verwenden.\nDer Artikel OpenAI verwirft den Namen „io\" für sein KI-Gerät – Marktstart erst 2027 erschien zuerst auf The Decoder.",
+      "link": "https://the-decoder.de/openai-verwirft-den-namen-io-fuer-sein-ki-geraet-marktstart-erst-2027/",
+      "date": "2026-02-10T13:08:40.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Pony AI und Toyota starten Serienproduktion von selbstfahrenden Elektro-Taxis in China",
+      "description": "Der chinesische Robotaxi-Betreiber Pony AI hat gemeinsam mit Toyota die kommerzielle Produktion eines selbstfahrenden Elektroautos gestartet, berichtet Bloomberg.\nDer Artikel Pony AI und Toyota starte",
+      "link": "https://the-decoder.de/pony-ai-und-toyota-starten-serienproduktion-von-selbstfahrenden-elektro-taxis-in-china/",
+      "date": "2026-02-10T12:59:56.000Z",
+      "source": "The Decoder",
+      "category": "industrie-4.0",
+      "language": "de"
+    },
+    {
+      "title": "OpenAIs Wachstumsmotor GPT-4o geht, Klagen wegen Suiziden und Psychosen bleiben",
+      "description": "OpenAI stellt diese Woche nach einer Übergangsphase sein beliebtes KI-Modell GPT-4o ab. Das Unternehmen konnte die schädlichen Auswirkungen des Chatbots auf vulnerable Nutzer nicht in den Griff bekomm",
+      "link": "https://the-decoder.de/openais-wachstumsmotor-gpt-4o-geht-klagen-wegen-suiziden-und-psychosen-bleiben/",
+      "date": "2026-02-10T12:35:32.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Anthropic-Sicherheitsleiter warnt bei Abschied vor Werteverfall des Unternehmens",
       "description": "Anthropics Sicherheitschef Mrinank Sharma verlässt das Unternehmen und übt dabei indirekt Kritik an der Richtung, die das KI-Startup eingeschlagen hat.\nDer Artikel Anthropic-Sicherheitsleiter warnt be",
@@ -74,15 +101,6 @@
       "language": "de"
     },
     {
-      "title": "Investoren glauben, dass KI Gehälter statt bloß Software ersetzt",
-      "description": "Investoren wetten darauf, dass KI nicht Software-Budgets, sondern Gehälter ersetzt.\nDer Artikel Investoren glauben, dass KI Gehälter statt bloß Software ersetzt erschien zuerst auf The Decoder.",
-      "link": "https://the-decoder.de/investoren-glauben-dass-ki-gehaelter-statt-software-ersetzt/",
-      "date": "2026-02-09T11:44:36.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "Testing ads in ChatGPT",
       "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
@@ -99,24 +117,6 @@
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
-    },
-    {
-      "title": "Hunderte verseuchte Skills: Angreifer schleusen Trojaner in KI-Agent OpenClaw ein",
-      "description": "Hunderte Skills für den KI-Agenten OpenClaw waren mit Trojanern und Datendieben verseucht. Jetzt reagieren OpenClaw und VirusTotal, doch das grundlegende Sicherheitsproblem von KI-Agenten bleibt.\nDer",
-      "link": "https://the-decoder.de/mehr-als-300-verseuchte-skills-angreifer-schleusen-trojaner-in-ki-agent-openclaw-ein/",
-      "date": "2026-02-08T13:54:21.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "KI-Modelle erkennen oft nicht, was sie sehen",
-      "description": "Ein neuer Härtetest für multimodale KI-Modelle offenbart fundamentale Schwächen: Der Benchmark \"WorldVQA\" prüft, ob KI-Modelle visuelle Objekte tatsächlich erkennen. Selbst Spitzenreiter wie Gemini 3",
-      "link": "https://the-decoder.de/ki-modelle-erkennen-oft-nicht-was-sie-sehen/",
-      "date": "2026-02-08T13:06:04.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
     },
     {
       "title": "Making AI work for everyone, everywhere: our approach to localization",
