@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-10T08:59:41.306Z",
+  "lastUpdated": "2026-02-10T10:56:31.123Z",
   "news": [
+    {
+      "title": "Anthropic-Sicherheitsleiter warnt bei Abschied vor Werteverfall des Unternehmens",
+      "description": "Anthropics Sicherheitschef Mrinank Sharma verlässt das Unternehmen und übt dabei indirekt Kritik an der Richtung, die das KI-Startup eingeschlagen hat.\nDer Artikel Anthropic-Sicherheitsleiter warnt be",
+      "link": "https://the-decoder.de/anthropic-sicherheitsleiter-warnt-bei-abschied-vor-werteverfall-des-unternehmens/",
+      "date": "2026-02-10T10:52:17.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Google Translate lässt sich mit simplen Worten hacken und umgehen",
+      "description": "Google Translate nutzt seit Ende 2025 Gemini-Modelle, und lässt sich deshalb mit einfachen Textbefehlen austricksen. Statt zu übersetzen, beantwortet der Dienst dann Fragen oder gibt sogar gefährliche",
+      "link": "https://the-decoder.de/google-translate-laesst-sich-mit-simplen-worten-hacken-und-umgehen/",
+      "date": "2026-02-10T09:03:38.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "OpenAI startet Testphase für Werbung in ChatGPT",
       "description": "ChatGPT zeigt jetzt Werbung, zunächst nur in den USA und für Nutzer der kostenlosen und \"Go\"-Stufe. Die Unabhängigkeit der Chat-Antworten sollen die Anzeigen in keinem Fall beeinflussen.\nDer Artikel O",
@@ -96,24 +114,6 @@
       "description": "Ein neuer Härtetest für multimodale KI-Modelle offenbart fundamentale Schwächen: Der Benchmark \"WorldVQA\" prüft, ob KI-Modelle visuelle Objekte tatsächlich erkennen. Selbst Spitzenreiter wie Gemini 3",
       "link": "https://the-decoder.de/ki-modelle-erkennen-oft-nicht-was-sie-sehen/",
       "date": "2026-02-08T13:06:04.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Benchmark-Analyse: Claude Opus 4.6 verdrängt die Konkurrenz von Platz eins",
-      "description": "Anthropics Claude Opus 4.6 übernimmt die Spitze im Artificial Analysis Intelligence Index, doch der Vorsprung könnte nur von kurzer Dauer sein.\nDer Artikel Benchmark-Analyse: Claude Opus 4.6 verdrängt",
-      "link": "https://the-decoder.de/benchmark-analyse-claude-opus-4-6-verdraengt-die-konkurrenz-von-platz-eins/",
-      "date": "2026-02-08T12:35:35.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Studie zum #Keep4o-Protest: Nutzer trauern um GPT-4o wie um einen verstorbenen Freund",
-      "description": "OpenAIs GPT-4o wird bald endgültig abgeschaltet, und einige Nutzer fürchten diesen Moment, weil sie sich dem KI-Modell emotional verbunden fühlen. Eine Forscherin hat jetzt deren Social-Media-Posts un",
-      "link": "https://the-decoder.de/studie-zum-keep4o-protest-nutzer-trauern-um-gpt-4o-wie-um-einen-verstorbenen-freund/",
-      "date": "2026-02-08T11:26:28.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
