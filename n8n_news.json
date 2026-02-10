@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-10T17:05:31.394Z",
+  "lastUpdated": "2026-02-10T19:09:56.519Z",
   "news": [
+    {
+      "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
+      "description": "Human-Computer Interaction and Visualization",
+      "link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
+      "date": "2026-02-10T18:30:15.000Z",
+      "source": "Google AI",
+      "category": "große-modelle",
+      "language": "en"
+    },
     {
       "title": "OpenAI verwirft den Namen \"io\" für sein KI-Gerät – Marktstart erst 2027",
       "description": "OpenAI wird den Namen \"io\" nicht für seine geplanten KI-Hardware-Geräte verwenden.\nDer Artikel OpenAI verwirft den Namen \"io\" für sein KI-Gerät – Marktstart erst 2027 erschien zuerst auf The Decoder.",
@@ -123,15 +132,6 @@
       "description": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
       "link": "https://openai.com/index/our-approach-to-localization",
       "date": "2026-02-06T10:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
-      "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
-      "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
-      "date": "2026-02-05T11:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
