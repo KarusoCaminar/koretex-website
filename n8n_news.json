@@ -1,12 +1,75 @@
 {
-  "lastUpdated": "2026-02-10T02:42:43.350Z",
+  "lastUpdated": "2026-02-10T05:38:35.633Z",
   "news": [
+    {
+      "title": "OpenAI startet Testphase für Werbung in ChatGPT",
+      "description": "ChatGPT zeigt jetzt Werbung, zunächst nur in den USA und für Nutzer der kostenlosen und \"Go\"-Stufe. Die Unabhängigkeit der Chat-Antworten sollen die Anzeigen in keinem Fall beeinflussen.\nDer Artikel O",
+      "link": "https://the-decoder.de/openai-startet-testphase-fuer-werbung-in-chatgpt/",
+      "date": "2026-02-09T19:47:14.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Bytedance zeigt mit Seedance 2.0 beeindruckende Fortschritte bei KI-Videos",
+      "description": "ByteDance hat Seedance 2.0 veröffentlicht, zunächst für ausgewählte Nutzer. Das Vorgängermodell gehörte bereits zu den stärksten KI-Videomodellen am Markt. Die neue Version geht noch einen Schritt wei",
+      "link": "https://the-decoder.de/bytedance-zeigt-mit-seedance-2-0-beeindruckende-fortschritte-bei-ki-videos/",
+      "date": "2026-02-09T18:43:22.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "How AI trained on birds is surfacing underwater mysteries",
       "description": "Climate & Sustainability",
       "link": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
       "date": "2026-02-09T18:38:06.000Z",
       "source": "Google AI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
+      "title": "Neues ChatGPT-Modell soll diese Woche erscheinen",
+      "description": "ChatGPT wächst wieder zweistellig, und das Coding-Produkt Codex legt um 50 Prozent zu.\nDer Artikel Neues ChatGPT-Modell soll diese Woche erscheinen erschien zuerst auf The Decoder.",
+      "link": "https://the-decoder.de/neues-chatgpt-modell-soll-diese-woche-erscheinen/",
+      "date": "2026-02-09T17:50:24.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Liebesroman in 45 Minuten: Wie Claude und andere Chatbots die Romance-Branche unterwandern",
+      "description": "Ein Bericht der New York Times wirft einen Blick auf den KI-Einsatz in der romantischen Literatur und entdeckt ein bekanntes Phänomen: KI-generierte Liebesromane verkaufen sich gut – solange niemand w",
+      "link": "https://the-decoder.de/liebesroman-in-45-minuten-wie-claude-und-andere-chatbots-die-romance-branche-unterwandern/",
+      "date": "2026-02-09T14:02:33.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Neuer Benchmark zeigt: KI-Modelle halluzinieren immer noch viel zu oft",
+      "description": "Ein neuer Benchmark von Forschern aus der Schweiz und Deutschland zeigt, dass selbst Spitzenmodelle wie Claude Opus 4.5 mit aktivierter Websuche noch in knapp einem Drittel aller Fälle falsche Informa",
+      "link": "https://the-decoder.de/neuer-benchmark-zeigt-ki-modelle-halluzinieren-immer-noch-viel-zu-oft/",
+      "date": "2026-02-09T12:32:11.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Investoren glauben, dass KI Gehälter statt bloß Software ersetzt",
+      "description": "Investoren wetten darauf, dass KI nicht Software-Budgets, sondern Gehälter ersetzt.\nDer Artikel Investoren glauben, dass KI Gehälter statt bloß Software ersetzt erschien zuerst auf The Decoder.",
+      "link": "https://the-decoder.de/investoren-glauben-dass-ki-gehaelter-statt-software-ersetzt/",
+      "date": "2026-02-09T11:44:36.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "date": "2026-02-09T11:00:00.000Z",
+      "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
     },
@@ -20,13 +83,40 @@
       "language": "en"
     },
     {
-      "title": "Testing ads in ChatGPT",
-      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-02-09T11:00:00.000Z",
-      "source": "OpenAI",
+      "title": "Hunderte verseuchte Skills: Angreifer schleusen Trojaner in KI-Agent OpenClaw ein",
+      "description": "Hunderte Skills für den KI-Agenten OpenClaw waren mit Trojanern und Datendieben verseucht. Jetzt reagieren OpenClaw und VirusTotal, doch das grundlegende Sicherheitsproblem von KI-Agenten bleibt.\nDer",
+      "link": "https://the-decoder.de/mehr-als-300-verseuchte-skills-angreifer-schleusen-trojaner-in-ki-agent-openclaw-ein/",
+      "date": "2026-02-08T13:54:21.000Z",
+      "source": "The Decoder",
       "category": "große-modelle",
-      "language": "en"
+      "language": "de"
+    },
+    {
+      "title": "KI-Modelle erkennen oft nicht, was sie sehen",
+      "description": "Ein neuer Härtetest für multimodale KI-Modelle offenbart fundamentale Schwächen: Der Benchmark \"WorldVQA\" prüft, ob KI-Modelle visuelle Objekte tatsächlich erkennen. Selbst Spitzenreiter wie Gemini 3",
+      "link": "https://the-decoder.de/ki-modelle-erkennen-oft-nicht-was-sie-sehen/",
+      "date": "2026-02-08T13:06:04.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Benchmark-Analyse: Claude Opus 4.6 verdrängt die Konkurrenz von Platz eins",
+      "description": "Anthropics Claude Opus 4.6 übernimmt die Spitze im Artificial Analysis Intelligence Index, doch der Vorsprung könnte nur von kurzer Dauer sein.\nDer Artikel Benchmark-Analyse: Claude Opus 4.6 verdrängt",
+      "link": "https://the-decoder.de/benchmark-analyse-claude-opus-4-6-verdraengt-die-konkurrenz-von-platz-eins/",
+      "date": "2026-02-08T12:35:35.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Studie zum #Keep4o-Protest: Nutzer trauern um GPT-4o wie um einen verstorbenen Freund",
+      "description": "OpenAIs GPT-4o wird bald endgültig abgeschaltet, und einige Nutzer fürchten diesen Moment, weil sie sich dem KI-Modell emotional verbunden fühlen. Eine Forscherin hat jetzt deren Social-Media-Posts un",
+      "link": "https://the-decoder.de/studie-zum-keep4o-protest-nutzer-trauern-um-gpt-4o-wie-um-einen-verstorbenen-freund/",
+      "date": "2026-02-08T11:26:28.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
     },
     {
       "title": "Making AI work for everyone, everywhere: our approach to localization",
@@ -43,96 +133,6 @@
       "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
       "date": "2026-02-05T11:00:00.000Z",
       "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Introducing Trusted Access for Cyber",
-      "description": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
-      "link": "https://openai.com/index/trusted-access-for-cyber",
-      "date": "2026-02-05T10:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "How AI tools can redefine universal design to increase accessibility",
-      "description": "Education Innovation",
-      "link": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/",
-      "date": "2026-02-05T08:28:00.000Z",
-      "source": "Google AI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Introducing OpenAI Frontier",
-      "description": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
-      "link": "https://openai.com/index/introducing-openai-frontier",
-      "date": "2026-02-05T06:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Introducing GPT-5.3-Codex",
-      "description": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
-      "link": "https://openai.com/index/introducing-gpt-5-3-codex",
-      "date": "2026-02-05T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "GPT-5.3-Codex System Card",
-      "description": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-      "link": "https://openai.com/index/gpt-5-3-codex-system-card",
-      "date": "2026-02-05T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Navigating health questions with ChatGPT",
-      "description": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
-      "link": "https://openai.com/index/navigating-health-questions",
-      "date": "2026-02-05T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
-      "description": "Algorithms & Theory",
-      "link": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
-      "date": "2026-02-04T15:14:00.000Z",
-      "source": "Google AI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Unlocking the Codex harness: how we built the App Server",
-      "description": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
-      "link": "https://openai.com/index/unlocking-the-codex-harness",
-      "date": "2026-02-04T13:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-      "description": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
-      "link": "https://openai.com/index/vfl-wolfsburg",
-      "date": "2026-02-04T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
-      "description": "Generative AI",
-      "link": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
-      "date": "2026-02-03T18:15:01.000Z",
-      "source": "Google AI",
       "category": "große-modelle",
       "language": "en"
     }
