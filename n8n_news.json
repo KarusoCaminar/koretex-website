@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-11T07:05:48.336Z",
+  "lastUpdated": "2026-02-11T08:54:53.147Z",
   "news": [
+    {
+      "title": "Adobe Acrobat Studio bündelt PDF-Werkzeuge, KI-Assistent und Express-Integration in einer Plattform",
+      "description": "Mit Acrobat Studio verändert Adobe die Dokumentenarbeit grundlegend. PDF Spaces, ein integrierter KI-Assistent und die Verknüpfung mit Adobe Express verbinden Produktivität und Kreativität. Neue Funkt",
+      "link": "https://the-decoder.de/adobe-acrobat-studio-buendelt-pdf-werkzeuge-ki-assistent-und-express-integration-in-einer-plattform/",
+      "date": "2026-02-11T08:53:34.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Elon Musks KI-Unternehmen xAI verliert die Hälfte seiner Mitgründer",
+      "description": "Nach Igor Babuschkin verlässt nun auch der zweite Mitgründer und KI-Forscher Tony Wu Elon Musks KI-Start-up xAI. Das Unternehmen kämpft mit Content-Skandalen, fehlenden Umsätzen und KI-Modellen, die w",
+      "link": "https://the-decoder.de/elon-musks-ki-unternehmen-xai-verliert-die-haelfte-seiner-mitgruender/",
+      "date": "2026-02-11T08:50:49.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Deep Research in ChatGPT bekomt großes GPT-5-Update",
       "description": "OpenAI betreibt Deep Research in ChatGPT jetzt mit GPT-5.2 und bringt neue Funktionen wie gezielte Webseitensuche und Echtzeit-Kontrolle. Verlässlicher wird die KI-Recherche dadurch nicht unbedingt.\nD",
@@ -15,15 +33,6 @@
       "description": "Isomorphic Labs, das KI-Medizin-Start-up von Google Deepmind, hat ein neues System namens \"Isomorphic Labs Drug Design Engine\" (IsoDDE) vorgestellt, das AlphaFold 3 übertreffen soll.\nDer Artikel Isomo",
       "link": "https://the-decoder.de/isomorphic-labs-stellt-neue-ki-engine-fuer-praeziseres-medikamenten-design-vor/",
       "date": "2026-02-10T19:53:36.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Zweiter xAI-Mitgründer verlässt Elon Musks KI-Unternehmen",
-      "description": "Nach Igor Babuschkin verlässt nun auch der zweite Mitgründer und KI-Forscher Tony Wu Elon Musks KI-Start-up xAI. Das Unternehmen kämpft mit Content-Skandalen, fehlenden Umsätzen und KI-Modellen, die w",
-      "link": "https://the-decoder.de/zweiter-xai-mitgruender-verlaesst-elon-musks-ki-unternehmen/",
-      "date": "2026-02-10T19:18:49.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
@@ -87,15 +96,6 @@
       "description": "ChatGPT zeigt jetzt Werbung, zunächst nur in den USA und für Nutzer der kostenlosen und \"Go\"-Stufe. Die Unabhängigkeit der Chat-Antworten sollen die Anzeigen in keinem Fall beeinflussen.\nDer Artikel O",
       "link": "https://the-decoder.de/openai-startet-testphase-fuer-werbung-in-chatgpt/",
       "date": "2026-02-09T19:47:14.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Bytedance zeigt mit Seedance 2.0 beeindruckende Fortschritte bei KI-Videos",
-      "description": "ByteDance hat Seedance 2.0 veröffentlicht, zunächst für ausgewählte Nutzer. Das Vorgängermodell gehörte bereits zu den stärksten KI-Videomodellen am Markt. Die neue Version geht noch einen Schritt wei",
-      "link": "https://the-decoder.de/bytedance-zeigt-mit-seedance-2-0-beeindruckende-fortschritte-bei-ki-videos/",
-      "date": "2026-02-09T18:43:22.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
