@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-11T19:07:35.818Z",
+  "lastUpdated": "2026-02-11T20:42:18.105Z",
   "news": [
+    {
+      "title": "Werbung in ChatGPT: Ex-Forscherin fürchtet Missbrauch intimster Nutzerdaten",
+      "description": "OpenAI testet Werbung in ChatGPT. Eine Forscherin kündigt deshalb, warnt vor Manipulation und erklärt, warum sie an Facebooks Fehler erinnert fühlt.\nDer Artikel Werbung in ChatGPT: Ex-Forscherin fürch",
+      "link": "https://the-decoder.de/werbung-in-chatgpt-ex-forscherin-fuerchtet-missbrauch-intimster-nutzerdaten/",
+      "date": "2026-02-11T19:42:36.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Skills und Internetzugang: OpenAI erweitert API-Möglichkeiten für autonome KI-Agenten",
       "description": "OpenAI baut seine API für autonome KI-Agenten aus: Neue Funktionen ermöglichen mehrstündige Sitzungen, Internetzugang für Container und wiederverwendbare Skill-Pakete.\nDer Artikel Skills und Internetz",
@@ -69,15 +78,6 @@
       "description": "Mit Acrobat Studio verändert Adobe die Dokumentenarbeit grundlegend. PDF Spaces, ein integrierter KI-Assistent und die Verknüpfung mit Adobe Express verbinden Produktivität und Kreativität. Neue Funkt",
       "link": "https://the-decoder.de/adobe-acrobat-studio-buendelt-pdf-werkzeuge-ki-assistent-und-express-integration-in-einer-plattform/",
       "date": "2026-02-11T08:53:34.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Elon Musks KI-Unternehmen xAI verliert die Hälfte seiner Mitgründer",
-      "description": "Innerhalb kurzer Zeit verliert Elon Musks KI-Startup xAI die Hälfte seiner Gründer. Sie alle loben das Team, die Zukunftsaussichten und bedanken sich bei Musk. Warum gehen sie trotzdem?\nDer Artikel El",
-      "link": "https://the-decoder.de/elon-musks-ki-unternehmen-xai-verliert-die-haelfte-seiner-mitgruender/",
-      "date": "2026-02-11T08:50:49.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
