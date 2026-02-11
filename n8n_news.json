@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-11T17:07:13.803Z",
+  "lastUpdated": "2026-02-11T19:07:35.818Z",
   "news": [
+    {
+      "title": "Skills und Internetzugang: OpenAI erweitert API-Möglichkeiten für autonome KI-Agenten",
+      "description": "OpenAI baut seine API für autonome KI-Agenten aus: Neue Funktionen ermöglichen mehrstündige Sitzungen, Internetzugang für Container und wiederverwendbare Skill-Pakete.\nDer Artikel Skills und Internetz",
+      "link": "https://the-decoder.de/skills-und-internetzugang-openai-erweitert-api-moeglichkeiten-fuer-autonome-ki-agenten/",
+      "date": "2026-02-11T18:27:55.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Neues ChatGPT-Update soll Antworten sachlicher und relevanter machen",
       "description": "OpenAI aktualisiert GPT-5.2 Instant mit besseren Antworten. Instant ist das Modell, das in ChatGPT immer dann zum Einsatz kommt, wenn kein Reasoning nötig ist.\nDer Artikel Neues ChatGPT-Update soll An",
@@ -74,24 +83,6 @@
       "language": "de"
     },
     {
-      "title": "Deep Research in ChatGPT bekomt großes GPT-5-Update",
-      "description": "OpenAI betreibt Deep Research in ChatGPT jetzt mit GPT-5.2 und bringt neue Funktionen wie gezielte Webseitensuche und Echtzeit-Kontrolle. Verlässlicher wird die KI-Recherche dadurch nicht unbedingt.\nD",
-      "link": "https://the-decoder.de/deep-research-in-chatgpt-bekomt-grosses-gpt-5-update/",
-      "date": "2026-02-10T20:23:14.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Isomorphic Labs stellt neue KI-Engine für präziseres Medikamenten-Design vor",
-      "description": "Isomorphic Labs, das KI-Medizin-Start-up von Google Deepmind, hat ein neues System namens \"Isomorphic Labs Drug Design Engine\" (IsoDDE) vorgestellt, das AlphaFold 3 übertreffen soll.\nDer Artikel Isomo",
-      "link": "https://the-decoder.de/isomorphic-labs-stellt-neue-ki-engine-fuer-praeziseres-medikamenten-design-vor/",
-      "date": "2026-02-10T19:53:36.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
       "description": "Human-Computer Interaction and Visualization",
       "link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
@@ -132,6 +123,15 @@
       "description": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
       "link": "https://openai.com/index/our-approach-to-localization",
       "date": "2026-02-06T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
+      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+      "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+      "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+      "date": "2026-02-05T11:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
