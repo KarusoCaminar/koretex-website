@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-11T08:54:53.147Z",
+  "lastUpdated": "2026-02-11T10:54:21.533Z",
   "news": [
+    {
+      "title": "Anthropics KI-Assistent Cowork ist jetzt auch für Windows-Nutzer verfügbar",
+      "description": "Anthropics Cowork kommt auf Windows, mit vollem Funktionsumfang und bekannten Sicherheitsrisiken.\nDer Artikel Anthropics KI-Assistent Cowork ist jetzt auch für Windows-Nutzer verfügbar erschien zuerst",
+      "link": "https://the-decoder.de/anthropics-ki-assistent-cowork-ist-jetzt-auch-fuer-windows-nutzer-verfuegbar/",
+      "date": "2026-02-11T10:10:44.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Adobe Acrobat Studio bündelt PDF-Werkzeuge, KI-Assistent und Express-Integration in einer Plattform",
       "description": "Mit Acrobat Studio verändert Adobe die Dokumentenarbeit grundlegend. PDF Spaces, ein integrierter KI-Assistent und die Verknüpfung mit Adobe Express verbinden Produktivität und Kreativität. Neue Funkt",
@@ -12,7 +21,7 @@
     },
     {
       "title": "Elon Musks KI-Unternehmen xAI verliert die Hälfte seiner Mitgründer",
-      "description": "Nach Igor Babuschkin verlässt nun auch der zweite Mitgründer und KI-Forscher Tony Wu Elon Musks KI-Start-up xAI. Das Unternehmen kämpft mit Content-Skandalen, fehlenden Umsätzen und KI-Modellen, die w",
+      "description": "Innerhalb kurzer Zeit verliert Elon Musks KI-Startup xAI die Hälfte seiner Gründer. Sie alle loben das Team, die Zukunftsaussichten und bedanken sich bei Musk. Warum gehen sie trotzdem?\nDer Artikel El",
       "link": "https://the-decoder.de/elon-musks-ki-unternehmen-xai-verliert-die-haelfte-seiner-mitgruender/",
       "date": "2026-02-11T08:50:49.000Z",
       "source": "The Decoder",
@@ -87,15 +96,6 @@
       "description": "Google Translate nutzt seit Ende 2025 Gemini-Modelle, und lässt sich deshalb mit einfachen Textbefehlen austricksen. Statt zu übersetzen, beantwortet der Dienst dann Fragen oder gibt sogar gefährliche",
       "link": "https://the-decoder.de/google-translate-laesst-sich-mit-simplen-worten-hacken-und-umgehen/",
       "date": "2026-02-10T09:03:38.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "OpenAI startet Testphase für Werbung in ChatGPT",
-      "description": "ChatGPT zeigt jetzt Werbung, zunächst nur in den USA und für Nutzer der kostenlosen und \"Go\"-Stufe. Die Unabhängigkeit der Chat-Antworten sollen die Anzeigen in keinem Fall beeinflussen.\nDer Artikel O",
-      "link": "https://the-decoder.de/openai-startet-testphase-fuer-werbung-in-chatgpt/",
-      "date": "2026-02-09T19:47:14.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
