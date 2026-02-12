@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-12T10:52:09.510Z",
+  "lastUpdated": "2026-02-12T13:16:09.680Z",
   "news": [
+    {
+      "title": "Pentagon rollt ChatGPT aus und drängt auf KI ohne Schutzmaßnahmen auf sensiblen Netzwerken",
+      "description": "Das Pentagon drängt führende KI-Unternehmen wie OpenAI, Anthropic, Google und xAI, ihre KI-Werkzeuge ohne die üblichen Nutzungsbeschränkungen auf sicherheitseingestuften Militärnetzwerken bereitzustel",
+      "link": "https://the-decoder.de/pentagon-rollt-chatgpt-aus-und-draengt-auf-ki-ohne-schutzmassnahmen-auf-sensiblen-netzwerken/",
+      "date": "2026-02-12T11:09:59.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "OpenAI nutzt angepasste ChatGPT-Version zur Jagd auf interne Whistleblower",
       "description": "OpenAI hat eine kreative Verwendung für sein eigenes KI-Modell gefunden: Das Unternehmen nutzt eine spezielle ChatGPT-Version, um Mitarbeiter zu identifizieren, die interne Informationen an die Presse",
@@ -60,15 +69,6 @@
       "description": "ByteDance verhandelt laut Reuters mit Samsung über KI-Chip-Fertigung und will sich damit auch Zugang zu knappen Speicherchips sichern.\nDer Artikel Bytedance verhandelt mit Samsung über eigenen KI-Chip",
       "link": "https://the-decoder.de/bytedance-verhandelt-mit-samsung-ueber-eigenen-ki-chip-und-knappe-speicherchips/",
       "date": "2026-02-11T12:03:58.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Jahresgutachten der EFI enthüllt massive Schwächen des KI-Standorts Deutschland und in Europa",
-      "description": "Die Expertenkommission Forschung und Innovation (EFI) zeichnet in ihrem Jahresgutachten 2026 ein ernüchterndes Bild des KI-Standorts Deutschland: starke Forschung, aber kaum eigene Modelle, zu wenig R",
-      "link": "https://the-decoder.de/jahresgutachten-der-efi-enthuellt-massive-schwaechen-des-ki-standorts-deutschland-und-in-europa/",
-      "date": "2026-02-11T11:59:20.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
