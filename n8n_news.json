@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-12T13:16:09.680Z",
+  "lastUpdated": "2026-02-12T14:51:29.405Z",
   "news": [
+    {
+      "title": "KI in der Wissenschaft: Google Deepmind liefert Durchbrüche und eine ernüchternde Fehlerquote",
+      "description": "Google Deepminds KI-Agent Aletheia schreibt eigenständig ein Mathematik-Paper, widerlegt eine jahrzehntealte Vermutung und findet einen Fehler, den Kryptographie-Experten übersehen hatten. Doch eine s",
+      "link": "https://the-decoder.de/ki-in-der-wissenschaft-google-deepmind-liefert-durchbrueche-und-eine-ernuechternde-fehlerquote/",
+      "date": "2026-02-12T14:12:19.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Pentagon rollt ChatGPT aus und drängt auf KI ohne Schutzmaßnahmen auf sensiblen Netzwerken",
       "description": "Das Pentagon drängt führende KI-Unternehmen wie OpenAI, Anthropic, Google und xAI, ihre KI-Werkzeuge ohne die üblichen Nutzungsbeschränkungen auf sicherheitseingestuften Militärnetzwerken bereitzustel",
@@ -60,15 +69,6 @@
       "description": "Das französische KI-Start-up Mistral meldet eine annualisierte Umsatz-Run-Rate von über 400 Millionen Dollar. Europas wachsender Wunsch nach digitaler Souveränität treibt das Geschäft.\nDer Artikel Fra",
       "link": "https://the-decoder.de/franzoesisches-ki-start-up-mistral-waechst-dank-europaeischem-souveraenitaetsdrang/",
       "date": "2026-02-11T12:24:55.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Bytedance verhandelt mit Samsung über eigenen KI-Chip und knappe Speicherchips",
-      "description": "ByteDance verhandelt laut Reuters mit Samsung über KI-Chip-Fertigung und will sich damit auch Zugang zu knappen Speicherchips sichern.\nDer Artikel Bytedance verhandelt mit Samsung über eigenen KI-Chip",
-      "link": "https://the-decoder.de/bytedance-verhandelt-mit-samsung-ueber-eigenen-ki-chip-und-knappe-speicherchips/",
-      "date": "2026-02-11T12:03:58.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
