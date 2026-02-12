@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-12T14:51:29.405Z",
+  "lastUpdated": "2026-02-12T17:02:36.310Z",
   "news": [
+    {
+      "title": "Google Deepmind rüstet Denkmodus \"Gemini 3 Deep Think\" für komplexe Aufgaben auf",
+      "description": "Google Deepmind rüstet den \"Deep Think\"-Modus von Gemini 3 auf und stellt ihn Forschern auch per API zur Verfügung.\nDer Artikel Google Deepmind rüstet Denkmodus \"Gemini 3 Deep Think\" für komplexe Aufg",
+      "link": "https://the-decoder.de/google-deepmind-ruestet-denkmodus-gemini-3-deep-think-fuer-komplexe-aufgaben-auf/",
+      "date": "2026-02-12T16:51:35.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "KI in der Wissenschaft: Google Deepmind liefert Durchbrüche und eine ernüchternde Fehlerquote",
       "description": "Google Deepminds KI-Agent Aletheia schreibt eigenständig ein Mathematik-Paper, widerlegt eine jahrzehntealte Vermutung und findet einen Fehler, den Kryptographie-Experten übersehen hatten. Doch eine s",
@@ -60,15 +69,6 @@
       "description": "Sicherheitsforscher haben eine kritische Schwachstelle in Anthropics Claude Desktop Extensions gefunden. Ein manipulierter Google-Kalender-Eintrag kann ohne jede Nutzerinteraktion beliebigen Code auf",
       "link": "https://the-decoder.de/ein-kalendereintrag-reicht-schwere-sicherheitsluecke-in-claudes-desktop-erweiterungen-entdeckt/",
       "date": "2026-02-11T12:31:20.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Französisches KI-Start-up Mistral wächst dank europäischem Souveränitätsdrang",
-      "description": "Das französische KI-Start-up Mistral meldet eine annualisierte Umsatz-Run-Rate von über 400 Millionen Dollar. Europas wachsender Wunsch nach digitaler Souveränität treibt das Geschäft.\nDer Artikel Fra",
-      "link": "https://the-decoder.de/franzoesisches-ki-start-up-mistral-waechst-dank-europaeischem-souveraenitaetsdrang/",
-      "date": "2026-02-11T12:24:55.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
