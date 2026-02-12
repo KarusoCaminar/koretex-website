@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-12T17:02:36.310Z",
+  "lastUpdated": "2026-02-12T19:07:52.631Z",
   "news": [
+    {
+      "title": "OpenAI stellt GPT-4o und weitere ältere KI-Modelle in ChatGPT endgültig ein",
+      "description": "OpenAI schaltet GPT-4o endgültig ab: ein Modell, das Menschen emotional an sich band und gegen das 13 Klagen wegen Suiziden und Psychosen laufen.\nDer Artikel OpenAI stellt GPT-4o und weitere ältere KI",
+      "link": "https://the-decoder.de/openai-stellt-gpt-4o-und-weitere-aeltere-ki-modelle-in-chatgpt-endgueltig-ein/",
+      "date": "2026-02-12T18:20:17.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Google Deepmind rüstet Denkmodus \"Gemini 3 Deep Think\" für komplexe Aufgaben auf",
       "description": "Google Deepmind rüstet den \"Deep Think\"-Modus von Gemini 3 auf und stellt ihn Forschern auch per API zur Verfügung.\nDer Artikel Google Deepmind rüstet Denkmodus \"Gemini 3 Deep Think\" für komplexe Aufg",
@@ -27,6 +36,15 @@
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
+    },
+    {
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+      "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "date": "2026-02-12T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
     },
     {
       "title": "OpenAI nutzt angepasste ChatGPT-Version zur Jagd auf interne Whistleblower",
@@ -60,15 +78,6 @@
       "description": "OpenAI aktualisiert GPT-5.2 Instant mit besseren Antworten. Instant ist das Modell, das in ChatGPT immer dann zum Einsatz kommt, wenn kein Reasoning nötig ist.\nDer Artikel Neues ChatGPT-Update soll An",
       "link": "https://the-decoder.de/neues-chatgpt-update-soll-antworten-sachlicher-und-relevanter-machen/",
       "date": "2026-02-11T14:18:33.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Ein Kalendereintrag reicht: Schwere Sicherheitslücke in Claudes Desktop-Erweiterungen entdeckt",
-      "description": "Sicherheitsforscher haben eine kritische Schwachstelle in Anthropics Claude Desktop Extensions gefunden. Ein manipulierter Google-Kalender-Eintrag kann ohne jede Nutzerinteraktion beliebigen Code auf",
-      "link": "https://the-decoder.de/ein-kalendereintrag-reicht-schwere-sicherheitsluecke-in-claudes-desktop-erweiterungen-entdeckt/",
-      "date": "2026-02-11T12:31:20.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
@@ -123,15 +132,6 @@
       "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
       "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
       "date": "2026-02-05T11:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Introducing Trusted Access for Cyber",
-      "description": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
-      "link": "https://openai.com/index/trusted-access-for-cyber",
-      "date": "2026-02-05T10:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
