@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-12T19:07:52.631Z",
+  "lastUpdated": "2026-02-12T20:39:05.822Z",
   "news": [
+    {
+      "title": "Open Source KI-Modell GLM-5 fordert Claude Opus 4.5 und GPT-5.2 im Coding heraus",
+      "description": "Mit GLM-5 stellt das chinesische KI-Unternehmen Zhipu AI ein Open-Source-Modell vor, das bei Coding und agentenbasierten Aufgaben mit Claude Opus 4.5 und GPT-5.2 mithalten soll.\nDer Artikel Open Sourc",
+      "link": "https://the-decoder.de/open-source-ki-modell-glm-5-fordert-claude-opus-4-5-und-gpt-5-2-im-coding-heraus/",
+      "date": "2026-02-12T20:15:45.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "OpenAI bringt mit Codex-Spark ein Echtzeit-Coding-Modell auf Cerebras-Hardware",
+      "description": "OpenAI veröffentlicht mit GPT-5.3-Codex-Spark ein kleineres Coding-Modell, das auf Cerebras-Hardware läuft und über 1000 Tokens pro Sekunde liefern soll. Es ist das erste Modell, das speziell für Echt",
+      "link": "https://the-decoder.de/openai-bringt-mit-codex-spark-ein-echtzeit-coding-modell-auf-cerebras-hardware/",
+      "date": "2026-02-12T19:08:48.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "OpenAI stellt GPT-4o und weitere ältere KI-Modelle in ChatGPT endgültig ein",
       "description": "OpenAI schaltet GPT-4o endgültig ab: ein Modell, das Menschen emotional an sich band und gegen das 13 Klagen wegen Suiziden und Psychosen laufen.\nDer Artikel OpenAI stellt GPT-4o und weitere ältere KI",
@@ -60,24 +78,6 @@
       "description": "OpenAI testet Werbung in ChatGPT. Eine Forscherin kündigt deshalb, warnt vor Manipulation und erklärt, warum sie an Facebooks Fehler erinnert fühlt.\nDer Artikel Werbung in ChatGPT: Ex-Forscherin fürch",
       "link": "https://the-decoder.de/werbung-in-chatgpt-ex-forscherin-fuerchtet-missbrauch-intimster-nutzerdaten/",
       "date": "2026-02-11T19:42:36.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Skills und Internetzugang: OpenAI erweitert API-Möglichkeiten für autonome KI-Agenten",
-      "description": "OpenAI baut seine API für autonome KI-Agenten aus: Neue Funktionen ermöglichen mehrstündige Sitzungen, Internetzugang für Container und wiederverwendbare Skill-Pakete.\nDer Artikel Skills und Internetz",
-      "link": "https://the-decoder.de/skills-und-internetzugang-openai-erweitert-api-moeglichkeiten-fuer-autonome-ki-agenten/",
-      "date": "2026-02-11T18:27:55.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Neues ChatGPT-Update soll Antworten sachlicher und relevanter machen",
-      "description": "OpenAI aktualisiert GPT-5.2 Instant mit besseren Antworten. Instant ist das Modell, das in ChatGPT immer dann zum Einsatz kommt, wenn kein Reasoning nötig ist.\nDer Artikel Neues ChatGPT-Update soll An",
-      "link": "https://the-decoder.de/neues-chatgpt-update-soll-antworten-sachlicher-und-relevanter-machen/",
-      "date": "2026-02-11T14:18:33.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
