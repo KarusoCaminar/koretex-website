@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-13T10:43:35.108Z",
+  "lastUpdated": "2026-02-13T13:07:38.890Z",
   "news": [
+    {
+      "title": "Autonomer KI-Agent startet Rufmordkampagne gegen Open-Source-Entwickler",
+      "description": "Ein autonomer KI-Agent hat nach einer Code-Zurückweisung eine Rufmordkampagne gegen einen Entwickler gestartet. Der Vorfall bei Matplotlib zeigt, wie theoretische Sicherheitsrisiken durch autonom agie",
+      "link": "https://the-decoder.de/autonomer-ki-agent-startet-rufmordkampagne-gegen-open-source-entwickler/",
+      "date": "2026-02-13T11:16:28.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Anthropic sammelt 30 Milliarden Dollar ein und steigt auf eine Bewertung von 380 Milliarden Dollar",
       "description": "Anthropic hat 30 Milliarden Dollar in einer Series-G-Finanzierungsrunde eingesammelt. Die Bewertung des KI-Unternehmens liegt nun bei 380 Milliarden Dollar nach Geldeingang.\nDer Artikel Anthropic samm",
@@ -81,15 +90,6 @@
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
-    },
-    {
-      "title": "OpenAI nutzt angepasste ChatGPT-Version zur Jagd auf interne Whistleblower",
-      "description": "OpenAI hat eine kreative Verwendung für sein eigenes KI-Modell gefunden: Das Unternehmen nutzt eine spezielle ChatGPT-Version, um Mitarbeiter zu identifizieren, die interne Informationen an die Presse",
-      "link": "https://the-decoder.de/openai-nutzt-angepasste-chatgpt-version-zur-jagd-auf-interne-whistleblower/",
-      "date": "2026-02-12T09:10:21.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
     },
     {
       "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
