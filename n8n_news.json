@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-13T08:50:01.855Z",
+  "lastUpdated": "2026-02-13T10:43:35.108Z",
   "news": [
+    {
+      "title": "Anthropic sammelt 30 Milliarden Dollar ein und steigt auf eine Bewertung von 380 Milliarden Dollar",
+      "description": "Anthropic hat 30 Milliarden Dollar in einer Series-G-Finanzierungsrunde eingesammelt. Die Bewertung des KI-Unternehmens liegt nun bei 380 Milliarden Dollar nach Geldeingang.\nDer Artikel Anthropic samm",
+      "link": "https://the-decoder.de/anthropic-sammelt-30-milliarden-dollar-ein-und-steigt-auf-eine-bewertung-von-380-milliarden-dollar/",
+      "date": "2026-02-13T09:44:59.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Microsofts KI-Chef Suleyman sieht das Ende klassischer Büroarbeit in 18 Monaten",
+      "description": "Microsofts KI-Chef Mustafa Suleyman prognostiziert das Ende klassischer Büroarbeit in 18 Monaten.\nDer Artikel Microsofts KI-Chef Suleyman sieht das Ende klassischer Büroarbeit in 18 Monaten erschien z",
+      "link": "https://the-decoder.de/microsofts-ki-chef-suleyman-sieht-das-ende-klassischer-bueroarbeit-in-18-monaten/",
+      "date": "2026-02-13T09:06:52.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Open Source KI-Modell GLM-5 fordert Claude Opus 4.5 und GPT-5.2 im Coding heraus",
       "description": "Mit GLM-5 stellt das chinesische KI-Unternehmen Zhipu AI ein Open-Source-Modell vor, das bei Coding und agentenbasierten Aufgaben mit Claude Opus 4.5 und GPT-5.2 mithalten soll.\nDer Artikel Open Sourc",
@@ -74,15 +92,6 @@
       "language": "de"
     },
     {
-      "title": "Werbung in ChatGPT: Ex-Forscherin fürchtet Missbrauch intimster Nutzerdaten",
-      "description": "OpenAI testet Werbung in ChatGPT. Eine Forscherin kündigt deshalb, warnt vor Manipulation und erklärt, warum sie an Facebooks Fehler erinnert fühlt.\nDer Artikel Werbung in ChatGPT: Ex-Forscherin fürch",
-      "link": "https://the-decoder.de/werbung-in-chatgpt-ex-forscherin-fuerchtet-missbrauch-intimster-nutzerdaten/",
-      "date": "2026-02-11T19:42:36.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
       "description": "Human-Computer Interaction and Visualization",
       "link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
@@ -123,15 +132,6 @@
       "description": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
       "link": "https://openai.com/index/our-approach-to-localization",
       "date": "2026-02-06T10:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
-      "description": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
-      "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
-      "date": "2026-02-05T11:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
