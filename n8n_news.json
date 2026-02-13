@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-13T16:53:02.101Z",
+  "lastUpdated": "2026-02-13T18:55:40.236Z",
   "news": [
+    {
+      "title": "Ex-Angestellte frustriert über xAI: Keine Innovation, keine Sicherheit, kein Widerspruch erlaubt",
+      "description": "Elon Musks KI-Unternehmen xAI verliert reihenweise Mitarbeiter. Ehemalige Angestellte berichten von fehlenden Sicherheitsstandards, Desillusionierung und einer reinen Aufholjagd gegenüber der Konkurre",
+      "link": "https://the-decoder.de/ex-angestellte-frustriert-ueber-xai-keine-innovation-keine-sicherheit-kein-widerspruch-erlaubt/",
+      "date": "2026-02-13T18:46:41.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Autonomer KI-Agent startet Rufmordkampagne gegen Open-Source-Entwickler",
       "description": "Ein autonomer KI-Agent hat nach einer Code-Zurückweisung eine Rufmordkampagne gegen einen Entwickler gestartet. Der Vorfall bei Matplotlib zeigt, wie theoretische Sicherheitsrisiken durch autonom agie",
@@ -9,6 +18,15 @@
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
+    },
+    {
+      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+      "description": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+      "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+      "date": "2026-02-13T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
     },
     {
       "title": "Anthropic sammelt 30 Milliarden Dollar ein und steigt auf eine Bewertung von 380 Milliarden Dollar",
@@ -27,6 +45,15 @@
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
+    },
+    {
+      "title": "Beyond rate limits: scaling access to Codex and Sora",
+      "description": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+      "link": "https://openai.com/index/beyond-rate-limits",
+      "date": "2026-02-13T09:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
     },
     {
       "title": "Open Source KI-Modell GLM-5 fordert Claude Opus 4.5 und GPT-5.2 im Coding heraus",
@@ -74,15 +101,6 @@
       "language": "de"
     },
     {
-      "title": "Pentagon rollt ChatGPT aus und drängt auf KI ohne Schutzmaßnahmen auf sensiblen Netzwerken",
-      "description": "Das Pentagon drängt führende KI-Unternehmen wie OpenAI, Anthropic, Google und xAI, ihre KI-Werkzeuge ohne die üblichen Nutzungsbeschränkungen auf sicherheitseingestuften Militärnetzwerken bereitzustel",
-      "link": "https://the-decoder.de/pentagon-rollt-chatgpt-aus-und-draengt-auf-ki-ohne-schutzmassnahmen-auf-sensiblen-netzwerken/",
-      "date": "2026-02-12T11:09:59.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "Introducing GPT-5.3-Codex-Spark",
       "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
@@ -114,24 +132,6 @@
       "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
       "date": "2026-02-09T11:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-      "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-      "date": "2026-02-09T11:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Making AI work for everyone, everywhere: our approach to localization",
-      "description": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
-      "link": "https://openai.com/index/our-approach-to-localization",
-      "date": "2026-02-06T10:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
