@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-13T18:55:40.236Z",
+  "lastUpdated": "2026-02-13T20:42:24.035Z",
   "news": [
+    {
+      "title": "MiniMax M2.5: Neues offenes KI-Modell aus China verspricht Spitzenleistung zu Dumpingpreisen",
+      "description": "MiniMax M2.5 soll bei Programmierung, Websuche und Büroarbeit mit Claude, GPT-5.2 und Gemini mithalten, zu einem Bruchteil der Kosten. Das Open-Weights-Modell aus China ist unter MIT-Lizenz frei verfü",
+      "link": "https://the-decoder.de/minimax-m2-5-neues-offenes-ki-modell-aus-china-verspricht-spitzenleistung-zu-dumpingpreisen/",
+      "date": "2026-02-13T20:10:27.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Das Web als KI-Datenbank: Googles WebMCP soll Webseiten \"Agent-ready\" machen",
+      "description": "KI-Agenten sollen künftig eigenständig im Web surfen, einkaufen und Aufgaben erledigen. Googles WebMCP will Websites dafür in eine standardisierte Datenquelle für KI-Agenten verwandeln. Für Webseitenb",
+      "link": "https://the-decoder.de/das-web-als-ki-datenbank-googles-webmcp-soll-webseiten-agent-ready-machen/",
+      "date": "2026-02-13T19:27:50.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Ex-Angestellte frustriert über xAI: Keine Innovation, keine Sicherheit, kein Widerspruch erlaubt",
       "description": "Elon Musks KI-Unternehmen xAI verliert reihenweise Mitarbeiter. Ehemalige Angestellte berichten von fehlenden Sicherheitsstandards, Desillusionierung und einer reinen Aufholjagd gegenüber der Konkurre",
@@ -18,6 +36,15 @@
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
+    },
+    {
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "description": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+      "link": "https://openai.com/index/new-result-theoretical-physics",
+      "date": "2026-02-13T11:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
     },
     {
       "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
@@ -56,6 +83,15 @@
       "language": "en"
     },
     {
+      "title": "Scaling social science research",
+      "description": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+      "link": "https://openai.com/index/scaling-social-science-research",
+      "date": "2026-02-13T09:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
       "title": "Open Source KI-Modell GLM-5 fordert Claude Opus 4.5 und GPT-5.2 im Coding heraus",
       "description": "Mit GLM-5 stellt das chinesische KI-Unternehmen Zhipu AI ein Open-Source-Modell vor, das bei Coding und agentenbasierten Aufgaben mit Claude Opus 4.5 und GPT-5.2 mithalten soll.\nDer Artikel Open Sourc",
       "link": "https://the-decoder.de/open-source-ki-modell-glm-5-fordert-claude-opus-4-5-und-gpt-5-2-im-coding-heraus/",
@@ -83,24 +119,6 @@
       "language": "de"
     },
     {
-      "title": "Google Deepmind rüstet Denkmodus \"Gemini 3 Deep Think\" für komplexe Aufgaben auf",
-      "description": "Google Deepmind rüstet den \"Deep Think\"-Modus von Gemini 3 auf und stellt ihn Forschern auch per API zur Verfügung.\nDer Artikel Google Deepmind rüstet Denkmodus \"Gemini 3 Deep Think\" für komplexe Aufg",
-      "link": "https://the-decoder.de/google-deepmind-ruestet-denkmodus-gemini-3-deep-think-fuer-komplexe-aufgaben-auf/",
-      "date": "2026-02-12T16:51:35.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "KI in der Wissenschaft: Google Deepmind liefert Durchbrüche und eine ernüchternde Fehlerquote",
-      "description": "Google Deepminds KI-Agent Aletheia schreibt eigenständig ein Mathematik-Paper, widerlegt eine jahrzehntealte Vermutung und findet einen Fehler, den Kryptographie-Experten übersehen hatten. Doch eine s",
-      "link": "https://the-decoder.de/ki-in-der-wissenschaft-google-deepmind-liefert-durchbrueche-und-eine-ernuechternde-fehlerquote/",
-      "date": "2026-02-12T14:12:19.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "Introducing GPT-5.3-Codex-Spark",
       "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
       "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
@@ -115,24 +133,6 @@
       "link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
       "date": "2026-02-10T18:30:00.000Z",
       "source": "Google AI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "How AI trained on birds is surfacing underwater mysteries",
-      "description": "Climate & Sustainability",
-      "link": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
-      "date": "2026-02-09T18:38:06.000Z",
-      "source": "Google AI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Testing ads in ChatGPT",
-      "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-02-09T11:00:00.000Z",
-      "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
     }
