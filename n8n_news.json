@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-14T14:31:09.263Z",
+  "lastUpdated": "2026-02-14T16:35:28.028Z",
   "news": [
+    {
+      "title": "Deutsches Gericht verneint Urheberrechtsschutz für KI-generierte Logos",
+      "description": "Ein deutsches Amtsgericht verweigert drei KI-generierten Logos den Urheberrechtsschutz. Selbst aufwendiges Prompting reiche nicht aus, solange die kreative Gestaltung letztlich der KI überlassen werde",
+      "link": "https://the-decoder.de/deutsches-gericht-verneint-urheberrechtsschutz-fuer-ki-generierte-logos/",
+      "date": "2026-02-14T15:17:55.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Trotz Milliarden-Umsatz: Anthropic warnt vor zu schnellen Investitionen in Rechenleistung",
       "description": "Anthropic-CEO Dario Amodei rechnet damit, dass KI bald auf Nobelpreis-Niveau arbeitet. Trotzdem warnt er vor Milliarden-Investitionen in Rechenleistung: Ein Jahr daneben, und man sei bankrott.\nDer Art",
@@ -108,15 +117,6 @@
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
-    },
-    {
-      "title": "Open Source KI-Modell GLM-5 fordert Claude Opus 4.5 und GPT-5.2 im Coding heraus",
-      "description": "Mit GLM-5 stellt das chinesische KI-Unternehmen Zhipu AI ein Open-Source-Modell vor, das bei Coding und agentenbasierten Aufgaben mit Claude Opus 4.5 und GPT-5.2 mithalten soll.\nDer Artikel Open Sourc",
-      "link": "https://the-decoder.de/open-source-ki-modell-glm-5-fordert-claude-opus-4-5-und-gpt-5-2-im-coding-heraus/",
-      "date": "2026-02-12T20:15:45.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
     },
     {
       "title": "Introducing GPT-5.3-Codex-Spark",
