@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-14T10:31:15.432Z",
+  "lastUpdated": "2026-02-14T12:56:54.385Z",
   "news": [
+    {
+      "title": "Trotz Milliarden-Umsatz: Anthropic warnt vor zu schnellen Investitionen in Rechenleistung",
+      "description": "Anthropic-CEO Dario Amodei rechnet damit, dass KI bald auf Nobelpreis-Niveau arbeitet. Trotzdem warnt er vor Milliarden-Investitionen in Rechenleistung: Ein Jahr daneben, und man sei bankrott.\nDer Art",
+      "link": "https://the-decoder.de/trotz-milliarden-umsatz-anthropic-warnt-vor-zu-schnellen-investitionen-in-rechenleistung/",
+      "date": "2026-02-14T10:46:46.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Tauben-Gurren für die Wal-Erkennung: Google Deepminds neue Bioakustik-KI zeigt die Stärke von Generalisierung",
       "description": "Ein Bioakustik-Grundlagenmodell von Google Deepmind, das zum großen Teil mit Vogelstimmen trainiert wurde, übertrifft bei der Klassifikation von Unterwasser-Tierlauten sogar Modelle, die gezielt auf W",
@@ -105,15 +114,6 @@
       "description": "Mit GLM-5 stellt das chinesische KI-Unternehmen Zhipu AI ein Open-Source-Modell vor, das bei Coding und agentenbasierten Aufgaben mit Claude Opus 4.5 und GPT-5.2 mithalten soll.\nDer Artikel Open Sourc",
       "link": "https://the-decoder.de/open-source-ki-modell-glm-5-fordert-claude-opus-4-5-und-gpt-5-2-im-coding-heraus/",
       "date": "2026-02-12T20:15:45.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "OpenAI bringt mit Codex-Spark ein Echtzeit-Coding-Modell auf Cerebras-Hardware",
-      "description": "OpenAI veröffentlicht mit GPT-5.3-Codex-Spark ein kleineres Coding-Modell, das auf Cerebras-Hardware läuft und über 1000 Tokens pro Sekunde liefern soll. Es ist das erste Modell, das speziell für Echt",
-      "link": "https://the-decoder.de/openai-bringt-mit-codex-spark-ein-echtzeit-coding-modell-auf-cerebras-hardware/",
-      "date": "2026-02-12T19:08:48.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
