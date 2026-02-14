@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-14T16:35:28.028Z",
+  "lastUpdated": "2026-02-14T18:40:15.035Z",
   "news": [
+    {
+      "title": "Google und OpenAI beklagen KI-Datendiebstahl durch Modell-Destillation",
+      "description": "Google und OpenAI beklagen sich über Ideenklau; ausgerechnet die Unternehmen, die selbst mit riesigen Mengen fremder Daten trainiert haben. Doch hinter den Vorwürfen steckt ein ernstes Problem: Angrei",
+      "link": "https://the-decoder.de/google-und-openai-beklagen-ki-datendiebstahl-durch-modell-destillation/",
+      "date": "2026-02-14T18:00:04.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Deutsches Gericht verneint Urheberrechtsschutz für KI-generierte Logos",
       "description": "Ein deutsches Amtsgericht verweigert drei KI-generierten Logos den Urheberrechtsschutz. Selbst aufwendiges Prompting reiche nicht aus, solange die kreative Gestaltung letztlich der KI überlassen werde",
@@ -87,15 +96,6 @@
       "description": "Anthropic hat 30 Milliarden Dollar in einer Series-G-Finanzierungsrunde eingesammelt. Die Bewertung des KI-Unternehmens liegt nun bei 380 Milliarden Dollar nach Geldeingang.\nDer Artikel Anthropic samm",
       "link": "https://the-decoder.de/anthropic-sammelt-30-milliarden-dollar-ein-und-steigt-auf-eine-bewertung-von-380-milliarden-dollar/",
       "date": "2026-02-13T09:44:59.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Microsofts KI-Chef Suleyman sieht das Ende klassischer Büroarbeit in 18 Monaten",
-      "description": "Microsofts KI-Chef Mustafa Suleyman prognostiziert das Ende klassischer Büroarbeit in 18 Monaten.\nDer Artikel Microsofts KI-Chef Suleyman sieht das Ende klassischer Büroarbeit in 18 Monaten erschien z",
-      "link": "https://the-decoder.de/microsofts-ki-chef-suleyman-sieht-das-ende-klassischer-bueroarbeit-in-18-monaten/",
-      "date": "2026-02-13T09:06:52.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
