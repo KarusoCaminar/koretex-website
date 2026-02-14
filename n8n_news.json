@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-14T06:51:30.420Z",
+  "lastUpdated": "2026-02-14T08:37:00.489Z",
   "news": [
+    {
+      "title": "Tauben-Gurren für die Wal-Erkennung: Google Deepminds neue Bioakustik-KI zeigt die Stärke von Generalisierung",
+      "description": "Ein Bioakustik-Grundlagenmodell von Google Deepmind, das zum großen Teil mit Vogelstimmen trainiert wurde, übertrifft bei der Klassifikation von Unterwasser-Tierlauten sogar Modelle, die gezielt auf W",
+      "link": "https://the-decoder.de/tauben-gurren-fuer-die-wal-erkennung-google-deepminds-neue-bioakustik-ki-zeigt-die-staerke-von-generalisierung/",
+      "date": "2026-02-14T08:06:36.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "MiniMax M2.5: Neues offenes KI-Modell aus China verspricht Spitzenleistung zu Dumpingpreisen",
       "description": "MiniMax M2.5 soll bei Programmierung, Websuche und Büroarbeit mit Claude, GPT-5.2 und Gemini mithalten, zu einem Bruchteil der Kosten. Das Open-Weights-Modell aus China ist unter MIT-Lizenz frei verfü",
@@ -105,15 +114,6 @@
       "description": "OpenAI veröffentlicht mit GPT-5.3-Codex-Spark ein kleineres Coding-Modell, das auf Cerebras-Hardware läuft und über 1000 Tokens pro Sekunde liefern soll. Es ist das erste Modell, das speziell für Echt",
       "link": "https://the-decoder.de/openai-bringt-mit-codex-spark-ein-echtzeit-coding-modell-auf-cerebras-hardware/",
       "date": "2026-02-12T19:08:48.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "OpenAI stellt GPT-4o und weitere ältere KI-Modelle in ChatGPT endgültig ein",
-      "description": "OpenAI schaltet GPT-4o endgültig ab: ein Modell, das Menschen emotional an sich band und gegen das 13 Klagen wegen Suiziden und Psychosen laufen.\nDer Artikel OpenAI stellt GPT-4o und weitere ältere KI",
-      "link": "https://the-decoder.de/openai-stellt-gpt-4o-und-weitere-aeltere-ki-modelle-in-chatgpt-endgueltig-ein/",
-      "date": "2026-02-12T18:20:17.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
