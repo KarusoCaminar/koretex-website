@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-15T08:38:44.131Z",
+  "lastUpdated": "2026-02-15T10:31:44.224Z",
   "news": [
+    {
+      "title": "Wer das beste KI-Modell sucht, sollte sich nicht blind auf Bestenlisten verlassen",
+      "description": "Forschende zeigen, dass populäre LLM-Ranking-Plattformen überraschend fragil sind. Es reicht, nur 0,003 Prozent der Nutzerbewertungen zu entfernen, um die Spitzenplatzierung in einer Rangliste zu kipp",
+      "link": "https://the-decoder.de/wer-das-beste-ki-modell-sucht-sollte-sich-nicht-blind-auf-bestenlisten-verlassen/",
+      "date": "2026-02-15T08:59:10.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Noch mehr Preisdruck für westliche KI: Bytedance veröffentlicht Seed2.0-Modelle",
       "description": "Der Preisdruck aus China nimmt weiter zu: Bytedances neue Modellreihe Seed2.0 hält in Benchmarks mit GPT-5.2 und Gemini 3 Pro mit, bei einem Bruchteil der Kosten.\nDer Artikel Noch mehr Preisdruck für",
@@ -69,15 +78,6 @@
       "description": "KI-Agenten sollen künftig eigenständig im Web surfen, einkaufen und Aufgaben erledigen. Googles WebMCP will Websites dafür in eine standardisierte Datenquelle für KI-Agenten verwandeln. Für Webseitenb",
       "link": "https://the-decoder.de/das-web-als-ki-datenbank-googles-webmcp-soll-webseiten-agent-ready-machen/",
       "date": "2026-02-13T19:27:50.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Ex-Angestellte frustriert über xAI: Keine Innovation, keine Sicherheit, kein Widerspruch erlaubt",
-      "description": "Elon Musks KI-Unternehmen xAI verliert reihenweise Mitarbeiter. Ehemalige Angestellte berichten von fehlenden Sicherheitsstandards, Desillusionierung und einer reinen Aufholjagd gegenüber der Konkurre",
-      "link": "https://the-decoder.de/ex-angestellte-frustriert-ueber-xai-keine-innovation-keine-sicherheit-kein-widerspruch-erlaubt/",
-      "date": "2026-02-13T18:46:41.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
