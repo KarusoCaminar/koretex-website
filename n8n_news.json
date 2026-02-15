@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-15T10:31:44.224Z",
+  "lastUpdated": "2026-02-15T12:59:13.490Z",
   "news": [
+    {
+      "title": "Rufmord per KI-Agent: \"MJ Rathbun\" bleibt auf GitHub aktiv – und niemand ist verantwortlich",
+      "description": "Ein KI-Agent veröffentlicht einen Schmähartikel gegen einen Entwickler, der seinen Code ablehnt. Tage später ist der Agent noch immer aktiv, ein Viertel der Kommentatoren glaubt ihm, und niemand weiß,",
+      "link": "https://the-decoder.de/rufmord-per-ki-agent-mj-rathbun-bleibt-auf-github-aktiv-und-niemand-ist-verantwortlich/",
+      "date": "2026-02-15T11:59:20.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Wer das beste KI-Modell sucht, sollte sich nicht blind auf Bestenlisten verlassen",
       "description": "Forschende zeigen, dass populäre LLM-Ranking-Plattformen überraschend fragil sind. Es reicht, nur 0,003 Prozent der Nutzerbewertungen zu entfernen, um die Spitzenplatzierung in einer Rangliste zu kipp",
@@ -69,15 +78,6 @@
       "description": "MiniMax M2.5 soll bei Programmierung, Websuche und Büroarbeit mit Claude, GPT-5.2 und Gemini mithalten, zu einem Bruchteil der Kosten. Das Open-Weights-Modell aus China ist unter MIT-Lizenz frei verfü",
       "link": "https://the-decoder.de/minimax-m2-5-neues-offenes-ki-modell-aus-china-verspricht-spitzenleistung-zu-dumpingpreisen/",
       "date": "2026-02-13T20:10:27.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Das Web als KI-Datenbank: Googles WebMCP soll Webseiten \"Agent-ready\" machen",
-      "description": "KI-Agenten sollen künftig eigenständig im Web surfen, einkaufen und Aufgaben erledigen. Googles WebMCP will Websites dafür in eine standardisierte Datenquelle für KI-Agenten verwandeln. Für Webseitenb",
-      "link": "https://the-decoder.de/das-web-als-ki-datenbank-googles-webmcp-soll-webseiten-agent-ready-machen/",
-      "date": "2026-02-13T19:27:50.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
