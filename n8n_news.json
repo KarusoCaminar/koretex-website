@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-16T16:51:04.941Z",
+  "lastUpdated": "2026-02-16T18:50:39.121Z",
   "news": [
+    {
+      "title": "Chinas KI-Wettlauf: Alibaba stellt Qwen3.5 als kostenloses Open-Weight-Modell vor",
+      "description": "Chinesische KI-Labore setzen ihre Modelloffensive fort – heute ist es Alibabas Qwen3.5, das mit einer hybriden Architektur aus linearer Attention und Mixture-of-Experts bei nur 17 Milliarden aktiven P",
+      "link": "https://the-decoder.de/chinas-ki-wettlauf-alibaba-stellt-qwen3-5-als-kostenloses-open-weight-modell-vor/",
+      "date": "2026-02-16T17:47:46.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "KI-Gipfel in Neu-Delhi: Indien drängt auf globale Mitsprache bei künstlicher Intelligenz",
       "description": "Indien will sich mit einem globalen KI-Gipfel als Vermittler positionieren. Gleichzeitig bauen OpenAI und Anthropic ihre Präsenz massiv aus.\nDer Artikel KI-Gipfel in Neu-Delhi: Indien drängt auf globa",
@@ -69,15 +78,6 @@
       "description": "Der Preisdruck aus China nimmt weiter zu: Bytedances neue Modellreihe Seed2.0 hält in Benchmarks mit GPT-5.2 und Gemini 3 Pro mit, bei einem Bruchteil der Kosten.\nDer Artikel Noch mehr Preisdruck für",
       "link": "https://the-decoder.de/noch-mehr-preisdruck-fuer-westliche-ki-bytedance-veroeffentlicht-seed2-0-modelle/",
       "date": "2026-02-14T19:56:12.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Selbstversuch scheitert: Reporter verdient bei Arbeit für KI-Bots keinen einzigen Cent",
-      "description": "KI-Agenten heuern Menschen für echte Aufgaben an. Zumindest in der Theorie. In der Praxis ist alles nur Werbung, und bezahlt wurde auch nicht.\nDer Artikel Selbstversuch scheitert: Reporter verdient be",
-      "link": "https://the-decoder.de/selbstversuch-scheitert-reporter-verdient-bei-arbeit-fuer-ki-bots-keinen-einzigen-cent/",
-      "date": "2026-02-14T18:58:44.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
