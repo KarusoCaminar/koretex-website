@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-16T18:50:39.121Z",
+  "lastUpdated": "2026-02-16T20:36:20.583Z",
   "news": [
+    {
+      "title": "Manus Agents: Neue Funktion ermöglicht komplexe KI-Aufgaben per Chat-App",
+      "description": "Das KI-Startup Manus hat eine neue Funktion namens \"Manus Agents\" vorgestellt, mit der Nutzer den KI-Agenten direkt in Messenger-Apps verwenden können.\nDer Artikel Manus Agents: Neue Funktion ermöglic",
+      "link": "https://the-decoder.de/manus-agents-neue-funktion-ermoeglicht-komplexe-ki-aufgaben-per-chat-app/",
+      "date": "2026-02-16T20:12:47.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "KI-Produktivitätsschub in den USA angeblich erstmals messbar",
+      "description": "Neue Wirtschaftsdaten deuten laut Erik Brynjolfsson, Direktor des Stanford Digital Economy Lab, darauf hin, dass KI die Produktivität in den USA messbar steigert.\nDer Artikel KI-Produktivitätsschub in",
+      "link": "https://the-decoder.de/ki-produktivitaetsschub-in-den-usa-angeblich-erstmals-messbar/",
+      "date": "2026-02-16T19:11:37.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Chinas KI-Wettlauf: Alibaba stellt Qwen3.5 als kostenloses Open-Weight-Modell vor",
       "description": "Chinesische KI-Labore setzen ihre Modelloffensive fort – heute ist es Alibabas Qwen3.5, das mit einer hybriden Architektur aus linearer Attention und Mixture-of-Experts bei nur 17 Milliarden aktiven P",
@@ -60,24 +78,6 @@
       "description": "Ein KI-Agent veröffentlicht einen Schmähartikel gegen einen Entwickler, der seinen Code ablehnt. Tage später ist der Agent noch immer aktiv, ein Viertel der Kommentatoren glaubt ihm, und niemand weiß,",
       "link": "https://the-decoder.de/rufmord-per-ki-agent-mj-rathbun-bleibt-auf-github-aktiv-und-niemand-ist-verantwortlich/",
       "date": "2026-02-15T11:59:20.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Wer das beste KI-Modell sucht, sollte sich nicht nur auf Bestenlisten verlassen",
-      "description": "Forschende zeigen, dass populäre LLM-Ranking-Plattformen überraschend fragil sind. Es reicht, nur 0,003 Prozent der Nutzerbewertungen zu entfernen, um die Spitzenplatzierung in einer Rangliste zu kipp",
-      "link": "https://the-decoder.de/wer-das-beste-ki-modell-sucht-sollte-sich-nicht-blind-auf-bestenlisten-verlassen/",
-      "date": "2026-02-15T08:59:10.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Noch mehr Preisdruck für westliche KI: Bytedance veröffentlicht Seed2.0-Modelle",
-      "description": "Der Preisdruck aus China nimmt weiter zu: Bytedances neue Modellreihe Seed2.0 hält in Benchmarks mit GPT-5.2 und Gemini 3 Pro mit, bei einem Bruchteil der Kosten.\nDer Artikel Noch mehr Preisdruck für",
-      "link": "https://the-decoder.de/noch-mehr-preisdruck-fuer-westliche-ki-bytedance-veroeffentlicht-seed2-0-modelle/",
-      "date": "2026-02-14T19:56:12.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
