@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-16T08:54:21.000Z",
+  "lastUpdated": "2026-02-16T10:53:20.479Z",
   "news": [
+    {
+      "title": "OpenClaw-Entwickler Peter Steinberger wechselt zu OpenAI für neue KI-Agenten",
+      "description": "OpenClaw-Entwickler Peter Steinberger wechselt zu OpenAI, um persönliche KI-Agenten für alle zu bauen. Sein Open-Source-Projekt wird zur Stiftung. Sein Ziel: einen Agenten bauen, den selbst seine Mutt",
+      "link": "https://the-decoder.de/openclaw-entwickler-peter-steinberger-wechselt-zu-openai-fuer-neue-ki-agenten/",
+      "date": "2026-02-16T10:42:57.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Open-Source-KI-Gedächtnis Mastra nutzt Ampel-Emojis für effizientere Kompression",
       "description": "Das Open-Source-Framework Mastra komprimiert Konversationen von KI-Agenten nach menschlichem Vorbild zu dichten Beobachtungen, priorisiert mit Emojis. Auf dem LongMemEval-Benchmark erreicht das System",
@@ -29,7 +38,7 @@
       "language": "de"
     },
     {
-      "title": "Wer das beste KI-Modell sucht, sollte sich nicht blind auf Bestenlisten verlassen",
+      "title": "Wer das beste KI-Modell sucht, sollte sich nicht nur auf Bestenlisten verlassen",
       "description": "Forschende zeigen, dass populäre LLM-Ranking-Plattformen überraschend fragil sind. Es reicht, nur 0,003 Prozent der Nutzerbewertungen zu entfernen, um die Spitzenplatzierung in einer Rangliste zu kipp",
       "link": "https://the-decoder.de/wer-das-beste-ki-modell-sucht-sollte-sich-nicht-blind-auf-bestenlisten-verlassen/",
       "date": "2026-02-15T08:59:10.000Z",
@@ -69,15 +78,6 @@
       "description": "Ein deutsches Amtsgericht verweigert drei KI-generierten Logos den Urheberrechtsschutz. Selbst aufwendiges Prompting reiche nicht aus, solange die kreative Gestaltung letztlich der KI überlassen werde",
       "link": "https://the-decoder.de/deutsches-gericht-verneint-urheberrechtsschutz-fuer-ki-generierte-logos/",
       "date": "2026-02-14T15:17:55.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Trotz Milliarden-Umsatz: Anthropic warnt vor zu schnellen Investitionen in Rechenleistung",
-      "description": "Anthropic-CEO Dario Amodei rechnet damit, dass KI bald auf Nobelpreis-Niveau arbeitet. Trotzdem warnt er vor Milliarden-Investitionen in Rechenleistung: Ein Jahr daneben, und man sei bankrott.\nDer Art",
-      "link": "https://the-decoder.de/trotz-milliarden-umsatz-anthropic-warnt-vor-zu-schnellen-investitionen-in-rechenleistung/",
-      "date": "2026-02-14T10:46:46.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
