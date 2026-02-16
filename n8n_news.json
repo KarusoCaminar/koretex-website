@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-16T10:53:20.479Z",
+  "lastUpdated": "2026-02-16T13:11:42.547Z",
   "news": [
+    {
+      "title": "ByteDance schränkt KI-Videotool Seedance nach Drohungen von Disney und Hollywood-Studios ein",
+      "description": "Bytedance hat angekündigt, sein KI-Videotool Seedance einzuschränken, nachdem Disney dem Unternehmen mit rechtlichen Schritten gedroht hat.\nDer Artikel ByteDance schränkt KI-Videotool Seedance nach Dr",
+      "link": "https://the-decoder.de/bytedance-schraenkt-ki-videotool-seedance-nach-drohungen-von-disney-und-hollywood-studios-ein/",
+      "date": "2026-02-16T12:27:48.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "OpenClaw-Entwickler Peter Steinberger wechselt zu OpenAI für neue KI-Agenten",
       "description": "OpenClaw-Entwickler Peter Steinberger wechselt zu OpenAI, um persönliche KI-Agenten für alle zu bauen. Sein Open-Source-Projekt wird zur Stiftung. Sein Ziel: einen Agenten bauen, den selbst seine Mutt",
@@ -69,15 +78,6 @@
       "description": "Google und OpenAI beklagen sich über Ideenklau; ausgerechnet die Unternehmen, die selbst mit riesigen Mengen fremder Daten trainiert haben. Doch hinter den Vorwürfen steckt ein ernstes Problem: Angrei",
       "link": "https://the-decoder.de/google-und-openai-beklagen-ki-datendiebstahl-durch-modell-destillation/",
       "date": "2026-02-14T18:00:04.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Deutsches Gericht verneint Urheberrechtsschutz für KI-generierte Logos",
-      "description": "Ein deutsches Amtsgericht verweigert drei KI-generierten Logos den Urheberrechtsschutz. Selbst aufwendiges Prompting reiche nicht aus, solange die kreative Gestaltung letztlich der KI überlassen werde",
-      "link": "https://the-decoder.de/deutsches-gericht-verneint-urheberrechtsschutz-fuer-ki-generierte-logos/",
-      "date": "2026-02-14T15:17:55.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
