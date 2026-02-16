@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-16T14:44:44.186Z",
+  "lastUpdated": "2026-02-16T16:51:04.941Z",
   "news": [
+    {
+      "title": "KI-Gipfel in Neu-Delhi: Indien drängt auf globale Mitsprache bei künstlicher Intelligenz",
+      "description": "Indien will sich mit einem globalen KI-Gipfel als Vermittler positionieren. Gleichzeitig bauen OpenAI und Anthropic ihre Präsenz massiv aus.\nDer Artikel KI-Gipfel in Neu-Delhi: Indien drängt auf globa",
+      "link": "https://the-decoder.de/ki-gipfel-in-neu-delhi-indien-draengt-auf-globale-mitsprache-bei-kuenstlicher-intelligenz/",
+      "date": "2026-02-16T15:08:32.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "ByteDance schränkt KI-Videotool Seedance nach Drohungen von Disney und Hollywood-Studios ein",
       "description": "Bytedance hat angekündigt, sein KI-Videotool Seedance einzuschränken, nachdem Disney dem Unternehmen mit rechtlichen Schritten gedroht hat.\nDer Artikel ByteDance schränkt KI-Videotool Seedance nach Dr",
@@ -69,15 +78,6 @@
       "description": "KI-Agenten heuern Menschen für echte Aufgaben an. Zumindest in der Theorie. In der Praxis ist alles nur Werbung, und bezahlt wurde auch nicht.\nDer Artikel Selbstversuch scheitert: Reporter verdient be",
       "link": "https://the-decoder.de/selbstversuch-scheitert-reporter-verdient-bei-arbeit-fuer-ki-bots-keinen-einzigen-cent/",
       "date": "2026-02-14T18:58:44.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Google und OpenAI beklagen KI-Datendiebstahl durch Modell-Destillation",
-      "description": "Google und OpenAI beklagen sich über Ideenklau; ausgerechnet die Unternehmen, die selbst mit riesigen Mengen fremder Daten trainiert haben. Doch hinter den Vorwürfen steckt ein ernstes Problem: Angrei",
-      "link": "https://the-decoder.de/google-und-openai-beklagen-ki-datendiebstahl-durch-modell-destillation/",
-      "date": "2026-02-14T18:00:04.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
