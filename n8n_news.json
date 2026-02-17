@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-17T13:11:27.489Z",
+  "lastUpdated": "2026-02-17T14:50:26.906Z",
   "news": [
+    {
+      "title": "Deutsche Wikipedia-Community beschließt weitreichendes Verbot für KI-Inhalte",
+      "description": "Die deutschsprachige Wikipedia-Community hat ein weitreichendes Verbot von KI-generierten Inhalten beschlossen. Damit geht sie einen internationalen Alleingang, denn andere Wikipedia-Sprachversionen u",
+      "link": "https://the-decoder.de/deutsche-wikipedia-community-beschliesst-weitreichendes-verbot-fuer-ki-inhalte/",
+      "date": "2026-02-17T14:26:19.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Indiens Adani-Konzern plant 100 Milliarden Dollar für KI-Rechenzentren in Indien bis 2035",
       "description": "Der indische Mischkonzern Adani will bis 2035 rund 100 Milliarden Dollar in KI-fähige Rechenzentren investieren, die mit erneuerbarer Energie betrieben werden.\nDer Artikel Indiens Adani-Konzern plant",
@@ -78,15 +87,6 @@
       "description": "OpenClaw-Entwickler Peter Steinberger wechselt zu OpenAI, um persönliche KI-Agenten für alle zu bauen. Sein Open-Source-Projekt wird zur Stiftung. Sein Ziel: einen Agenten bauen, den selbst seine Mutt",
       "link": "https://the-decoder.de/openclaw-entwickler-peter-steinberger-wechselt-zu-openai-fuer-neue-ki-agenten/",
       "date": "2026-02-16T10:42:57.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Open-Source-KI-Gedächtnis Mastra nutzt Ampel-Emojis für effizientere Kompression",
-      "description": "Das Open-Source-Framework Mastra komprimiert Konversationen von KI-Agenten nach menschlichem Vorbild zu dichten Beobachtungen, priorisiert mit Emojis. Auf dem LongMemEval-Benchmark erreicht das System",
-      "link": "https://the-decoder.de/open-source-ki-gedaechtnis-mastra-nutzt-ampel-emojis-fuer-effizientere-kompression/",
-      "date": "2026-02-15T14:11:13.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
