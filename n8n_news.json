@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-17T20:41:54.999Z",
+  "lastUpdated": "2026-02-17T22:35:34.821Z",
   "news": [
+    {
+      "title": "Teaching AI to read a map",
+      "description": "Machine Perception",
+      "link": "https://research.google/blog/teaching-ai-to-read-a-map/",
+      "date": "2026-02-17T21:37:00.000Z",
+      "source": "Google AI",
+      "category": "große-modelle",
+      "language": "en"
+    },
     {
       "title": "Anthropic gewinnt Infosys als ersten großen Partner in Indien",
       "description": "Anthropic und der indische IT-Konzern Infosys entwickeln gemeinsam KI-Agenten für regulierte Branchen.\nDer Artikel Anthropic gewinnt Infosys als ersten großen Partner in Indien erschien zuerst auf The",
@@ -123,15 +132,6 @@
       "description": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
       "link": "https://openai.com/index/scaling-social-science-research",
       "date": "2026-02-13T09:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Introducing GPT-5.3-Codex-Spark",
-      "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
-      "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-      "date": "2026-02-12T10:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
