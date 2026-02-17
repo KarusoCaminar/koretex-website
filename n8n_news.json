@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-17T14:50:26.906Z",
+  "lastUpdated": "2026-02-17T17:01:01.119Z",
   "news": [
+    {
+      "title": "Anthropic gewinnt Infosys als ersten großen Partner in Indien",
+      "description": "Anthropic und der indische IT-Konzern Infosys entwickeln gemeinsam KI-Agenten für regulierte Branchen.\nDer Artikel Anthropic gewinnt Infosys als ersten großen Partner in Indien erschien zuerst auf The",
+      "link": "https://the-decoder.de/anthropic-gewinnt-infosys-als-ersten-grossen-partner-in-indien/",
+      "date": "2026-02-17T16:12:22.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Kontext-Dateien für KI-Agenten: Gut gemeint, aber selten hilfreich",
+      "description": "Kontext-Dateien sollen Coding-Agenten produktiver machen. Neue Forschung zeigt: Das klappt nur unter sehr bestimmten Bedingungen.\nDer Artikel Kontext-Dateien für KI-Agenten: Gut gemeint, aber selten h",
+      "link": "https://the-decoder.de/kontext-dateien-fuer-ki-agenten-gut-gemeint-aber-selten-hilfreich/",
+      "date": "2026-02-17T15:05:34.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Deutsche Wikipedia-Community beschließt weitreichendes Verbot für KI-Inhalte",
       "description": "Die deutschsprachige Wikipedia-Community hat ein weitreichendes Verbot von KI-generierten Inhalten beschlossen. Damit geht sie einen internationalen Alleingang, denn andere Wikipedia-Sprachversionen u",
@@ -69,24 +87,6 @@
       "description": "Indien will sich mit einem globalen KI-Gipfel als Vermittler positionieren. Gleichzeitig bauen OpenAI und Anthropic ihre Präsenz massiv aus.\nDer Artikel KI-Gipfel in Neu-Delhi: Indien drängt auf globa",
       "link": "https://the-decoder.de/ki-gipfel-in-neu-delhi-indien-draengt-auf-globale-mitsprache-bei-kuenstlicher-intelligenz/",
       "date": "2026-02-16T15:08:32.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "ByteDance schränkt KI-Videotool Seedance nach Drohungen von Disney und Hollywood-Studios ein",
-      "description": "Bytedance hat angekündigt, sein KI-Videotool Seedance einzuschränken, nachdem Disney dem Unternehmen mit rechtlichen Schritten gedroht hat.\nDer Artikel ByteDance schränkt KI-Videotool Seedance nach Dr",
-      "link": "https://the-decoder.de/bytedance-schraenkt-ki-videotool-seedance-nach-drohungen-von-disney-und-hollywood-studios-ein/",
-      "date": "2026-02-16T12:27:48.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "OpenClaw-Entwickler Peter Steinberger wechselt zu OpenAI für neue KI-Agenten",
-      "description": "OpenClaw-Entwickler Peter Steinberger wechselt zu OpenAI, um persönliche KI-Agenten für alle zu bauen. Sein Open-Source-Projekt wird zur Stiftung. Sein Ziel: einen Agenten bauen, den selbst seine Mutt",
-      "link": "https://the-decoder.de/openclaw-entwickler-peter-steinberger-wechselt-zu-openai-fuer-neue-ki-agenten/",
-      "date": "2026-02-16T10:42:57.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
