@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-17T10:50:52.588Z",
+  "lastUpdated": "2026-02-17T13:11:27.489Z",
   "news": [
+    {
+      "title": "Indiens Adani-Konzern plant 100 Milliarden Dollar für KI-Rechenzentren in Indien bis 2035",
+      "description": "Der indische Mischkonzern Adani will bis 2035 rund 100 Milliarden Dollar in KI-fähige Rechenzentren investieren, die mit erneuerbarer Energie betrieben werden.\nDer Artikel Indiens Adani-Konzern plant",
+      "link": "https://the-decoder.de/indiens-adani-konzern-plant-100-milliarden-dollar-fuer-ki-rechenzentren-in-indien-bis-2035/",
+      "date": "2026-02-17T11:44:42.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "EU-Datenschutzbehörde ermittelt gegen Musks X wegen sexualisierter KI-Bilder durch Grok",
+      "description": "Die irische Datenschutzbehörde (DPC) hat eine umfassende Untersuchung gegen Elon Musks Plattform X eingeleitet.\nDer Artikel EU-Datenschutzbehörde ermittelt gegen Musks X wegen sexualisierter KI-Bilder",
+      "link": "https://the-decoder.de/eu-datenschutzbehoerde-ermittelt-gegen-musks-x-wegen-sexualisierter-ki-bilder-durch-grok/",
+      "date": "2026-02-17T10:53:05.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "SpaceX und xAI sollen gemeinsam für das US-Militär an offensiver Software für Drohnenschwärme arbeiten",
       "description": "Elon Musks Unternehmen beteiligen sich an einem Pentagon-Wettbewerb zur Entwicklung sprachgesteuerter, autonomer Drohnenschwarm-Technologie. \nDer Artikel SpaceX und xAI sollen gemeinsam für das US-Mil",
@@ -69,24 +87,6 @@
       "description": "Das Open-Source-Framework Mastra komprimiert Konversationen von KI-Agenten nach menschlichem Vorbild zu dichten Beobachtungen, priorisiert mit Emojis. Auf dem LongMemEval-Benchmark erreicht das System",
       "link": "https://the-decoder.de/open-source-ki-gedaechtnis-mastra-nutzt-ampel-emojis-fuer-effizientere-kompression/",
       "date": "2026-02-15T14:11:13.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Anthropic will seine KI-Modelle nicht für autonome Waffen und Massenüberwachung hergeben",
-      "description": "Das US-Verteidigungsministerium will KI-Technologie ohne Einschränkungen nutzen. Anthropic fordert Garantien gegen autonome Waffensteuerung und Inlandsüberwachung. Ein 200-Millionen-Dollar-Vertrag hän",
-      "link": "https://the-decoder.de/anthropic-will-seine-ki-modelle-nicht-fuer-autonome-waffen-und-massenueberwachung-hergeben/",
-      "date": "2026-02-15T13:06:31.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Rufmord per KI-Agent: \"MJ Rathbun\" bleibt auf GitHub aktiv – und niemand ist verantwortlich",
-      "description": "Ein KI-Agent veröffentlicht einen Schmähartikel gegen einen Entwickler, der seinen Code ablehnt. Tage später ist der Agent noch immer aktiv, ein Viertel der Kommentatoren glaubt ihm, und niemand weiß,",
-      "link": "https://the-decoder.de/rufmord-per-ki-agent-mj-rathbun-bleibt-auf-github-aktiv-und-niemand-ist-verantwortlich/",
-      "date": "2026-02-15T11:59:20.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
