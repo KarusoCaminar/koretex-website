@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-17T08:52:19.151Z",
+  "lastUpdated": "2026-02-17T10:50:52.588Z",
   "news": [
+    {
+      "title": "SpaceX und xAI sollen gemeinsam für das US-Militär an offensiver Software für Drohnenschwärme arbeiten",
+      "description": "Elon Musks Unternehmen beteiligen sich an einem Pentagon-Wettbewerb zur Entwicklung sprachgesteuerter, autonomer Drohnenschwarm-Technologie. \nDer Artikel SpaceX und xAI sollen gemeinsam für das US-Mil",
+      "link": "https://the-decoder.de/spacex-und-xai-sollen-gemeinsam-fuer-das-us-militaer-an-offensiver-software-fuer-drohnenschwaerme-arbeiten/",
+      "date": "2026-02-17T10:19:36.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Manus Agents: Neue Funktion ermöglicht komplexe KI-Aufgaben per Chat-App",
       "description": "Das KI-Startup Manus hat eine neue Funktion namens \"Manus Agents\" vorgestellt, mit der Nutzer den KI-Agenten direkt in Messenger-Apps verwenden können.\nDer Artikel Manus Agents: Neue Funktion ermöglic",
@@ -124,15 +133,6 @@
       "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
       "date": "2026-02-12T10:00:00.000Z",
       "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
-      "description": "Human-Computer Interaction and Visualization",
-      "link": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
-      "date": "2026-02-10T18:30:00.000Z",
-      "source": "Google AI",
       "category": "große-modelle",
       "language": "en"
     }
