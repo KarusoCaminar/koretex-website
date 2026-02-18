@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-18T08:51:26.910Z",
+  "lastUpdated": "2026-02-18T10:51:05.011Z",
   "news": [
+    {
+      "title": "Anthropic veröffentlicht Claude Sonnet 4.6 mit besserer Websuche und fragwürdigem Geschäftssinn",
+      "description": "Anthropic veröffentlicht Claude Sonnet 4.6 mit Verbesserungen bei Coding, Computer Use und Websuche. Das Modell soll in vielen Aufgaben an die teurere Opus-Klasse heranreichen. Eine neue Filtertechnik",
+      "link": "https://the-decoder.de/anthropic-veroeffentlicht-claude-sonnet-4-6-mit-besserer-websuche-und-fragwuerdigem-geschaeftssinn/",
+      "date": "2026-02-18T10:39:06.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Teaching AI to read a map",
       "description": "Machine Perception",
@@ -87,15 +96,6 @@
       "description": "Chinesische KI-Labore setzen ihre Modelloffensive fort – heute ist es Alibabas Qwen3.5, das mit einer hybriden Architektur aus linearer Attention und Mixture-of-Experts bei nur 17 Milliarden aktiven P",
       "link": "https://the-decoder.de/chinas-ki-wettlauf-alibaba-stellt-qwen3-5-als-kostenloses-open-weight-modell-vor/",
       "date": "2026-02-16T17:47:46.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "KI-Gipfel in Neu-Delhi: Indien drängt auf globale Mitsprache bei künstlicher Intelligenz",
-      "description": "Indien will sich mit einem globalen KI-Gipfel als Vermittler positionieren. Gleichzeitig bauen OpenAI und Anthropic ihre Präsenz massiv aus.\nDer Artikel KI-Gipfel in Neu-Delhi: Indien drängt auf globa",
-      "link": "https://the-decoder.de/ki-gipfel-in-neu-delhi-indien-draengt-auf-globale-mitsprache-bei-kuenstlicher-intelligenz/",
-      "date": "2026-02-16T15:08:32.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
