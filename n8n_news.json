@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-18T13:12:45.511Z",
+  "lastUpdated": "2026-02-18T14:49:45.714Z",
   "news": [
+    {
+      "title": "Smarte Brille, Kamera-AirPods, KI-Anhänger: Apple konkretisiert Pläne für tragbare KI-Geräte",
+      "description": "Apple treibt laut Bloomberg die Entwicklung von drei tragbaren KI-Geräten voran: einer smarten Brille, einem Anhänger und AirPods mit Kamera.\nDer Artikel Smarte Brille, Kamera-AirPods, KI-Anhänger: Ap",
+      "link": "https://the-decoder.de/smarte-brille-kamera-airpods-ki-anhaenger-apple-konkretisiert-plaene-fuer-tragbare-ki-geraete/",
+      "date": "2026-02-18T13:32:53.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Werbefrei: Auch Perplexity will sich von ChatGPT und Google abheben",
       "description": "Das KI-Startup Perplexity hat nach eigenen Angaben Werbung auf seiner Suchplattform eingestellt, weil sie das Vertrauen der Nutzer gefährden könnte.\nDer Artikel Werbefrei: Auch Perplexity will sich vo",
@@ -87,15 +96,6 @@
       "description": "Der indische Mischkonzern Adani will bis 2035 rund 100 Milliarden Dollar in KI-fähige Rechenzentren investieren, die mit erneuerbarer Energie betrieben werden.\nDer Artikel Indiens Adani-Konzern plant",
       "link": "https://the-decoder.de/indiens-adani-konzern-plant-100-milliarden-dollar-fuer-ki-rechenzentren-in-indien-bis-2035/",
       "date": "2026-02-17T11:44:42.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "EU-Datenschutzbehörde ermittelt gegen Musks X wegen sexualisierter KI-Bilder durch Grok",
-      "description": "Die irische Datenschutzbehörde (DPC) hat eine umfassende Untersuchung gegen Elon Musks Plattform X eingeleitet.\nDer Artikel EU-Datenschutzbehörde ermittelt gegen Musks X wegen sexualisierter KI-Bilder",
-      "link": "https://the-decoder.de/eu-datenschutzbehoerde-ermittelt-gegen-musks-x-wegen-sexualisierter-ki-bilder-durch-grok/",
-      "date": "2026-02-17T10:53:05.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
