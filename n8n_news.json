@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-18T17:08:49.635Z",
+  "lastUpdated": "2026-02-18T19:00:14.440Z",
   "news": [
+    {
+      "title": "Google bringt KI-Musikgenerator Lyria 3 in die Gemini-App",
+      "description": "Google bringt mit Lyria 3 einen KI-Musikgenerator in die Gemini-App. Das Modell erstellt 30-sekündige Tracks mit Gesang und Lyrics aus Textbeschreibungen oder Fotos.\nDer Artikel Google bringt KI-Musik",
+      "link": "https://the-decoder.de/google-bringt-ki-musikgenerator-lyria-3-in-die-gemini-app/",
+      "date": "2026-02-18T18:36:27.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Fei-Fei Lis Startup World Labs sammelt eine Milliarde Dollar für räumliche Intelligenz ein",
+      "description": "World Labs, das KI-Startup von Fei-Fei Li, sammelt eine Milliarde Dollar in neuer Finanzierungsrunde ein, um mit sogenannten Weltmodellen KI-Systemen beizubringen, die dreidimensionale Welt zu versteh",
+      "link": "https://the-decoder.de/fei-fei-lis-startup-world-labs-sammelt-eine-milliarde-dollar-fuer-raeumliche-intelligenz-ein/",
+      "date": "2026-02-18T18:02:30.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Smarte Brille, Kamera-AirPods, KI-Anhänger: Apple konkretisiert Pläne für tragbare KI-Geräte",
       "description": "Apple treibt laut Bloomberg die Entwicklung von drei tragbaren KI-Geräten voran: einer smarten Brille, einem Anhänger und AirPods mit Kamera.\nDer Artikel Smarte Brille, Kamera-AirPods, KI-Anhänger: Ap",
@@ -78,24 +96,6 @@
       "description": "Kontext-Dateien sollen Coding-Agenten produktiver machen. Neue Forschung zeigt: Das klappt nur unter sehr bestimmten Bedingungen.\nDer Artikel Kontext-Dateien für KI-Agenten: Gut gemeint, aber selten h",
       "link": "https://the-decoder.de/kontext-dateien-fuer-ki-agenten-gut-gemeint-aber-selten-hilfreich/",
       "date": "2026-02-17T15:05:34.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Deutsche Wikipedia-Community beschließt weitreichendes Verbot für KI-Inhalte",
-      "description": "Die deutschsprachige Wikipedia-Community hat ein weitreichendes Verbot von KI-generierten Inhalten beschlossen. Damit geht sie einen internationalen Alleingang, denn andere Wikipedia-Sprachversionen u",
-      "link": "https://the-decoder.de/deutsche-wikipedia-community-beschliesst-weitreichendes-verbot-fuer-ki-inhalte/",
-      "date": "2026-02-17T14:26:19.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Indiens Adani-Konzern plant 100 Milliarden Dollar für KI-Rechenzentren in Indien bis 2035",
-      "description": "Der indische Mischkonzern Adani will bis 2035 rund 100 Milliarden Dollar in KI-fähige Rechenzentren investieren, die mit erneuerbarer Energie betrieben werden.\nDer Artikel Indiens Adani-Konzern plant",
-      "link": "https://the-decoder.de/indiens-adani-konzern-plant-100-milliarden-dollar-fuer-ki-rechenzentren-in-indien-bis-2035/",
-      "date": "2026-02-17T11:44:42.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
