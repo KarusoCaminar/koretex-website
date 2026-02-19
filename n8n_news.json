@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-19T02:31:28.040Z",
+  "lastUpdated": "2026-02-19T05:22:53.563Z",
   "news": [
+    {
+      "title": "Introducing OpenAI for India",
+      "description": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+      "link": "https://openai.com/index/openai-for-india",
+      "date": "2026-02-18T21:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
     {
       "title": "Google bringt KI-Musikgenerator Lyria 3 in die Gemini-App",
       "description": "Google bringt mit Lyria 3 einen KI-Musikgenerator in die Gemini-App. Das Modell erstellt 30-sekündige Tracks mit Gesang und Lyrics aus Textbeschreibungen oder Fotos.\nDer Artikel Google bringt KI-Musik",
@@ -114,15 +123,6 @@
       "description": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
       "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "date": "2026-02-13T10:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Beyond rate limits: scaling access to Codex and Sora",
-      "description": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
-      "link": "https://openai.com/index/beyond-rate-limits",
-      "date": "2026-02-13T09:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
