@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-02-19T10:49:28.184Z",
+  "lastUpdated": "2026-02-19T13:14:27.130Z",
   "news": [
+    {
+      "title": "Größte Seed-Finanzierung eines europäischen Start-ups: Langjähriger Deepmind-Forscher David Silver gründet KI-Start-up",
+      "description": "Der langjährige Deepmind-Forscher David Silver sammelt eine Milliarde Dollar für sein Londoner KI-Start-up Ineffable Intelligence ein. Er setzt auf Reinforcement Learning in Simulationen und will eine",
+      "link": "https://the-decoder.de/groesste-seed-finanzierung-eines-europaeischen-start-ups-langjaehriger-deepmind-forscher-david-silver-gruendet-ki-start-up/",
+      "date": "2026-02-19T12:54:32.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "KI-Agenten können bereits die meisten getesteten Smart-Contract-Schwachstellen ausnutzen",
+      "description": "OpenAI und die Krypto-Investmentfirma Paradigm haben gemeinsam EVMbench entwickelt, einen Testrahmen, der misst, wie gut KI-Agenten Sicherheitslücken in Smart Contracts auf Ethereum-Blockchains finden",
+      "link": "https://the-decoder.de/ki-agenten-koennen-bereits-die-meisten-getesteten-smart-contract-schwachstellen-ausnutzen/",
+      "date": "2026-02-19T12:36:08.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Meta steckt 65 Millionen Dollar in US-Wahlkampf, um KI-Regulierung zu verhindern",
+      "description": "Meta investiert 65 Millionen Dollar in die Beeinflussung von Wahlen auf US-Bundesstaatsebene, um KI-freundliche Politiker zu unterstützen.\nDer Artikel Meta steckt 65 Millionen Dollar in US-Wahlkampf,",
+      "link": "https://the-decoder.de/meta-steckt-65-millionen-dollar-in-us-wahlkampf-um-ki-regulierung-zu-verhindern/",
+      "date": "2026-02-19T11:58:01.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Beratungskonzern Accenture macht KI-Nutzung zur Beförderungsvoraussetzung",
       "description": "Accenture überwacht individuelle KI-Tool-Logins und macht sie zum Beförderungskriterium. Wer sich nicht anpasst, muss gehen.\nDer Artikel Beratungskonzern Accenture macht KI-Nutzung zur Beförderungsvor",
@@ -74,24 +101,6 @@
       "language": "de"
     },
     {
-      "title": "Warner Bros. wirft Bytedance Urheberrechtsverletzung von Batman, Superman und „Game of Thrones\" vor",
-      "description": "Warner Bros. wirft Bytedance vor, mit seinem neuen KI-Videodienst Seedance 2.0 Urheberrechte zu verletzen.\nDer Artikel Warner Bros. wirft Bytedance Urheberrechtsverletzung von Batman, Superman und „Ga",
-      "link": "https://the-decoder.de/warner-bros-wirft-bytedance-urheberrechtsverletzung-von-batman-superman-und-game-of-thrones-vor/",
-      "date": "2026-02-18T11:33:33.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Anthropic veröffentlicht Claude Sonnet 4.6 mit besserer Websuche und fragwürdigem Geschäftssinn",
-      "description": "Anthropic veröffentlicht Claude Sonnet 4.6 mit Verbesserungen bei Coding, Computer Use und Websuche. Das Modell soll in vielen Aufgaben an die teurere Opus-Klasse heranreichen. Eine neue Filtertechnik",
-      "link": "https://the-decoder.de/anthropic-veroeffentlicht-claude-sonnet-4-6-mit-besserer-websuche-und-fragwuerdigem-geschaeftssinn/",
-      "date": "2026-02-18T10:39:06.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "Teaching AI to read a map",
       "description": "Machine Perception",
       "link": "https://research.google/blog/teaching-ai-to-read-a-map/",
@@ -99,15 +108,6 @@
       "source": "Google AI",
       "category": "große-modelle",
       "language": "en"
-    },
-    {
-      "title": "Anthropic gewinnt Infosys als ersten großen Partner in Indien",
-      "description": "Anthropic und der indische IT-Konzern Infosys entwickeln gemeinsam KI-Agenten für regulierte Branchen.\nDer Artikel Anthropic gewinnt Infosys als ersten großen Partner in Indien erschien zuerst auf The",
-      "link": "https://the-decoder.de/anthropic-gewinnt-infosys-als-ersten-grossen-partner-in-indien/",
-      "date": "2026-02-17T16:12:22.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
     },
     {
       "title": "GPT-5.2 derives a new result in theoretical physics",
