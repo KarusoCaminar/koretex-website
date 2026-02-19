@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-19T16:57:50.915Z",
+  "lastUpdated": "2026-02-19T18:55:30.478Z",
   "news": [
+    {
+      "title": "Google veröffentlicht Gemini 3.1 Pro und verspricht stärkere Reasoning-Leistung",
+      "description": "Mit Gemini 3.1 Pro will Google die Kernintelligenz seiner Modellfamilie deutlich verbessern. Auf einem anspruchsvollen Reasoning-Benchmark hat sich die Leistung im Vergleich zum Vorgänger mehr als ver",
+      "link": "https://the-decoder.de/google-veroeffentlicht-gemini-3-1-pro-und-verspricht-deutlich-verbessertes-schlussfolgern/",
+      "date": "2026-02-19T16:58:37.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Größte Seed-Finanzierung eines europäischen Start-ups: Langjähriger Deepmind-Forscher David Silver gründet KI-Start-up",
       "description": "Der langjährige Deepmind-Forscher David Silver sammelt eine Milliarde Dollar für sein Londoner KI-Start-up Ineffable Intelligence ein. Er setzt auf Reinforcement Learning in Simulationen und will eine",
@@ -36,6 +45,15 @@
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
+    },
+    {
+      "title": "Advancing independent research on AI alignment",
+      "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+      "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
+      "date": "2026-02-19T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
     },
     {
       "title": "Introducing OpenAI for India",
@@ -92,15 +110,6 @@
       "language": "de"
     },
     {
-      "title": "Nvidia sucht mit Indiens größten Risikokapitalfirmen nach KI-Startups",
-      "description": "Nvidia baut seine Partnerschaften in Indien stark aus.\nDer Artikel Nvidia sucht mit Indiens größten Risikokapitalfirmen nach KI-Startups erschien zuerst auf The Decoder.",
-      "link": "https://the-decoder.de/nvidia-sucht-mit-indiens-groessten-risikokapitalfirmen-nach-ki-startups/",
-      "date": "2026-02-18T11:40:24.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "Teaching AI to read a map",
       "description": "Machine Perception",
       "link": "https://research.google/blog/teaching-ai-to-read-a-map/",
@@ -123,15 +132,6 @@
       "description": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
       "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "date": "2026-02-13T10:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Scaling social science research",
-      "description": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
-      "link": "https://openai.com/index/scaling-social-science-research",
-      "date": "2026-02-13T09:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
