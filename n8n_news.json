@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-19T08:51:18.487Z",
+  "lastUpdated": "2026-02-19T10:49:28.184Z",
   "news": [
+    {
+      "title": "Beratungskonzern Accenture macht KI-Nutzung zur Beförderungsvoraussetzung",
+      "description": "Accenture überwacht individuelle KI-Tool-Logins und macht sie zum Beförderungskriterium. Wer sich nicht anpasst, muss gehen.\nDer Artikel Beratungskonzern Accenture macht KI-Nutzung zur Beförderungsvor",
+      "link": "https://the-decoder.de/beratungskonzern-accenture-macht-ki-nutzung-zur-befoerderungsvoraussetzung/",
+      "date": "2026-02-19T10:44:26.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Introducing OpenAI for India",
       "description": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
@@ -96,15 +105,6 @@
       "description": "Anthropic und der indische IT-Konzern Infosys entwickeln gemeinsam KI-Agenten für regulierte Branchen.\nDer Artikel Anthropic gewinnt Infosys als ersten großen Partner in Indien erschien zuerst auf The",
       "link": "https://the-decoder.de/anthropic-gewinnt-infosys-als-ersten-grossen-partner-in-indien/",
       "date": "2026-02-17T16:12:22.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Kontext-Dateien für KI-Agenten: Gut gemeint, aber selten hilfreich",
-      "description": "Kontext-Dateien sollen Coding-Agenten produktiver machen. Neue Forschung zeigt: Das klappt nur unter sehr bestimmten Bedingungen.\nDer Artikel Kontext-Dateien für KI-Agenten: Gut gemeint, aber selten h",
-      "link": "https://the-decoder.de/kontext-dateien-fuer-ki-agenten-gut-gemeint-aber-selten-hilfreich/",
-      "date": "2026-02-17T15:05:34.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
