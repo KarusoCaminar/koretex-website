@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-20T13:05:58.705Z",
+  "lastUpdated": "2026-02-20T14:41:24.198Z",
   "news": [
+    {
+      "title": "Bericht: Nvidia plant 30-Milliarden-Beteiligung an OpenAI, nachdem frühere Chip-Vereinbarung über 100 Milliarden scheiterte",
+      "description": "Nvidia steht kurz davor, 30 Milliarden Dollar in OpenAI zu investieren, berichtet Reuters unter Berufung auf eine mit der Sache vertraute Person.\nDer Artikel Bericht: Nvidia plant 30-Milliarden-Beteil",
+      "link": "https://the-decoder.de/bericht-nvidia-plant-30-milliarden-beteiligung-an-openai-nachdem-fruehere-chip-vereinbarung-ueber-100-milliarden-scheiterte/",
+      "date": "2026-02-20T13:11:21.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Microsoft-Studie zeigt, wie fragil der Kampf gegen KI-Fälschungen wirklich ist",
       "description": "Ein neuer technischer Bericht von Microsoft bewertet systematisch, wie sich authentische von KI-generierten Medien unterscheiden lassen. Die Ergebnisse sind ernüchternd. Keine Methode ist für sich all",
@@ -96,15 +105,6 @@
       "description": "Google bringt mit Lyria 3 einen KI-Musikgenerator in die Gemini-App. Das Modell erstellt 30-sekündige Tracks mit Gesang und Lyrics aus Textbeschreibungen oder Fotos.\nDer Artikel Google bringt KI-Musik",
       "link": "https://the-decoder.de/google-bringt-ki-musikgenerator-lyria-3-in-die-gemini-app/",
       "date": "2026-02-18T18:36:27.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Fei-Fei Lis Startup World Labs sammelt eine Milliarde Dollar für räumliche Intelligenz ein",
-      "description": "World Labs, das KI-Startup von Fei-Fei Li, sammelt eine Milliarde Dollar in neuer Finanzierungsrunde ein, um mit sogenannten Weltmodellen KI-Systemen beizubringen, die dreidimensionale Welt zu versteh",
-      "link": "https://the-decoder.de/fei-fei-lis-startup-world-labs-sammelt-eine-milliarde-dollar-fuer-raeumliche-intelligenz-ein/",
-      "date": "2026-02-18T18:02:30.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
