@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-20T16:44:34.325Z",
+  "lastUpdated": "2026-02-20T18:53:57.217Z",
   "news": [
+    {
+      "title": "OpenAIs erster smarter Lautsprecher soll 200 bis 300 Dollar kosten",
+      "description": "OpenAI plant eine ganze Reihe eigener KI-Geräte. Neben einem smarten Lautsprecher mit Kamera für 200 bis 300 Dollar entwickelt das Unternehmen smarte Brillen, Kopfhörer und einen Stift.\nDer Artikel Op",
+      "link": "https://the-decoder.de/openais-erster-smarter-lautsprecher-soll-200-bis-300-dollar-kosten/",
+      "date": "2026-02-20T17:05:38.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Bericht: Nvidia plant 30-Milliarden-Beteiligung an OpenAI, nachdem frühere Chip-Vereinbarung über 100 Milliarden scheiterte",
       "description": "Nvidia steht kurz davor, 30 Milliarden Dollar in OpenAI zu investieren, berichtet Reuters unter Berufung auf eine mit der Sache vertraute Person.\nDer Artikel Bericht: Nvidia plant 30-Milliarden-Beteil",
@@ -69,15 +78,6 @@
       "description": "Meta investiert 65 Millionen Dollar in die Beeinflussung von Wahlen auf US-Bundesstaatsebene, um KI-freundliche Politiker zu unterstützen.\nDer Artikel Meta steckt 65 Millionen Dollar in US-Wahlkampf,",
       "link": "https://the-decoder.de/meta-steckt-65-millionen-dollar-in-us-wahlkampf-um-ki-regulierung-zu-verhindern/",
       "date": "2026-02-19T11:58:01.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Beratungskonzern Accenture macht KI-Nutzung zur Beförderungsvoraussetzung",
-      "description": "Accenture überwacht individuelle KI-Tool-Logins und macht sie zum Beförderungskriterium. Wer sich nicht anpasst, muss gehen.\nDer Artikel Beratungskonzern Accenture macht KI-Nutzung zur Beförderungsvor",
-      "link": "https://the-decoder.de/beratungskonzern-accenture-macht-ki-nutzung-zur-befoerderungsvoraussetzung/",
-      "date": "2026-02-19T10:44:26.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
