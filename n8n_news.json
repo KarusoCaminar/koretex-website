@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-20T10:41:23.628Z",
+  "lastUpdated": "2026-02-20T13:05:58.705Z",
   "news": [
+    {
+      "title": "Microsoft-Studie zeigt, wie fragil der Kampf gegen KI-Fälschungen wirklich ist",
+      "description": "Ein neuer technischer Bericht von Microsoft bewertet systematisch, wie sich authentische von KI-generierten Medien unterscheiden lassen. Die Ergebnisse sind ernüchternd. Keine Methode ist für sich all",
+      "link": "https://the-decoder.de/microsoft-studie-zeigt-wie-fragil-der-kampf-gegen-ki-faelschungen-wirklich-ist/",
+      "date": "2026-02-20T12:40:56.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Claude jetzt auch für Pro-Nutzer direkt in PowerPoint verfügbar",
+      "description": "Anthropic macht seine PowerPoint-Integration von Claude nun auch für Pro-Nutzer verfügbar.\nDer Artikel Claude jetzt auch für Pro-Nutzer direkt in PowerPoint verfügbar erschien zuerst auf The Decoder.",
+      "link": "https://the-decoder.de/claude-jetzt-auch-fuer-pro-nutzer-direkt-in-powerpoint-verfuegbar/",
+      "date": "2026-02-20T11:43:41.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Amazons KI-Coding-Tools sollen zwei AWS-Ausfälle mitverursacht haben",
       "description": "Amazons Cloud-Sparte AWS hat laut einem Bericht der Financial Times mindestens zwei Ausfälle erlitten, bei denen hauseigene KI-Tools involviert waren. Amazon bestreitet den Zusammenhang und spricht vo",
@@ -87,24 +105,6 @@
       "description": "World Labs, das KI-Startup von Fei-Fei Li, sammelt eine Milliarde Dollar in neuer Finanzierungsrunde ein, um mit sogenannten Weltmodellen KI-Systemen beizubringen, die dreidimensionale Welt zu versteh",
       "link": "https://the-decoder.de/fei-fei-lis-startup-world-labs-sammelt-eine-milliarde-dollar-fuer-raeumliche-intelligenz-ein/",
       "date": "2026-02-18T18:02:30.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Smarte Brille, Kamera-AirPods, KI-Anhänger: Apple konkretisiert Pläne für tragbare KI-Geräte",
-      "description": "Apple treibt laut Bloomberg die Entwicklung von drei tragbaren KI-Geräten voran: einer smarten Brille, einem Anhänger und AirPods mit Kamera.\nDer Artikel Smarte Brille, Kamera-AirPods, KI-Anhänger: Ap",
-      "link": "https://the-decoder.de/smarte-brille-kamera-airpods-ki-anhaenger-apple-konkretisiert-plaene-fuer-tragbare-ki-geraete/",
-      "date": "2026-02-18T13:32:53.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Werbefrei: Auch Perplexity will sich von ChatGPT und Google abheben",
-      "description": "Das KI-Startup Perplexity hat nach eigenen Angaben Werbung auf seiner Suchplattform eingestellt, weil sie das Vertrauen der Nutzer gefährden könnte.\nDer Artikel Werbefrei: Auch Perplexity will sich vo",
-      "link": "https://the-decoder.de/werbefrei-auch-perplexity-will-sich-von-chatgpt-und-google-abheben/",
-      "date": "2026-02-18T12:58:19.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
