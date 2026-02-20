@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-20T08:46:54.047Z",
+  "lastUpdated": "2026-02-20T10:41:23.628Z",
   "news": [
+    {
+      "title": "Amazons KI-Coding-Tools sollen zwei AWS-Ausfälle mitverursacht haben",
+      "description": "Amazons Cloud-Sparte AWS hat laut einem Bericht der Financial Times mindestens zwei Ausfälle erlitten, bei denen hauseigene KI-Tools involviert waren. Amazon bestreitet den Zusammenhang und spricht vo",
+      "link": "https://the-decoder.de/amazons-ki-coding-tools-sollen-zwei-aws-ausfaelle-mitverursacht-haben/",
+      "date": "2026-02-20T10:27:06.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Google veröffentlicht Gemini 3.1 Pro und verspricht stärkere Reasoning-Leistung",
       "description": "Mit Gemini 3.1 Pro will Google die Kernintelligenz seiner Modellfamilie deutlich verbessern. Auf einem anspruchsvollen Reasoning-Benchmark hat sich die Leistung im Vergleich zum Vorgänger mehr als ver",
@@ -96,15 +105,6 @@
       "description": "Das KI-Startup Perplexity hat nach eigenen Angaben Werbung auf seiner Suchplattform eingestellt, weil sie das Vertrauen der Nutzer gefährden könnte.\nDer Artikel Werbefrei: Auch Perplexity will sich vo",
       "link": "https://the-decoder.de/werbefrei-auch-perplexity-will-sich-von-chatgpt-und-google-abheben/",
       "date": "2026-02-18T12:58:19.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Meta kauft Millionen Nvidia-Chips und setzt erstmals auf eigenständige Nvidia-CPUs",
-      "description": "Der Facebook-Konzern hat einen mehrjährigen Deal mit Nvidia abgeschlossen, der neben GPUs auch erstmals eigenständige Nvidia-Prozessoren umfasst. Die Vereinbarung markiert einen strategischen Schwenk",
-      "link": "https://the-decoder.de/meta-kauft-millionen-nvidia-chips-und-setzt-erstmals-auf-eigenstaendige-nvidia-cpus/",
-      "date": "2026-02-18T12:43:34.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
