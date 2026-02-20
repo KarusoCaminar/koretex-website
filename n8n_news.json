@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T14:41:24.198Z",
+  "lastUpdated": "2026-02-20T16:44:34.325Z",
   "news": [
     {
       "title": "Bericht: Nvidia plant 30-Milliarden-Beteiligung an OpenAI, nachdem frühere Chip-Vereinbarung über 100 Milliarden scheiterte",
@@ -101,15 +101,6 @@
       "language": "en"
     },
     {
-      "title": "Google bringt KI-Musikgenerator Lyria 3 in die Gemini-App",
-      "description": "Google bringt mit Lyria 3 einen KI-Musikgenerator in die Gemini-App. Das Modell erstellt 30-sekündige Tracks mit Gesang und Lyrics aus Textbeschreibungen oder Fotos.\nDer Artikel Google bringt KI-Musik",
-      "link": "https://the-decoder.de/google-bringt-ki-musikgenerator-lyria-3-in-die-gemini-app/",
-      "date": "2026-02-18T18:36:27.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
       "title": "Teaching AI to read a map",
       "description": "Machine Perception",
       "link": "https://research.google/blog/teaching-ai-to-read-a-map/",
@@ -132,6 +123,15 @@
       "description": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
       "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "date": "2026-02-13T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
+    },
+    {
+      "title": "Scaling social science research",
+      "description": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+      "link": "https://openai.com/index/scaling-social-science-research",
+      "date": "2026-02-13T09:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
