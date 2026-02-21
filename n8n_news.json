@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-21T10:29:52.658Z",
+  "lastUpdated": "2026-02-21T12:55:51.008Z",
   "news": [
+    {
+      "title": "OpenAI verdoppelt Cashburn-Prognose: 111 Milliarden US-Dollar mehr bis 2030",
+      "description": "OpenAI hebt seine Umsatzprognosen an, warnt Investoren aber zugleich vor einem drastisch höheren Mittelabfluss. Die Kosten für Training und Betrieb von KI-Modellen steigen schneller als die Einnahmen.",
+      "link": "https://the-decoder.de/openai-verdoppelt-cashburn-prognose-111-milliarden-us-dollar-mehr-bis-2030/",
+      "date": "2026-02-21T11:52:43.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "Anthropic erweitert Claude Code um automatisierte Desktop-Funktionen für Entwickler",
+      "description": "Anthropic erweitert Claude Code auf dem Desktop um Funktionen, die den Entwicklungsprozess stärker automatisieren.\nDer Artikel Anthropic erweitert Claude Code um automatisierte Desktop-Funktionen für",
+      "link": "https://the-decoder.de/anthropic-erweitert-claude-code-um-automatisierte-desktop-funktionen-fuer-entwickler/",
+      "date": "2026-02-21T10:38:33.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Anthropics neues KI-Sicherheitstool lässt Cybersecurity-Aktien abstürzen",
       "description": "Anthropic stellt mit Claude Code Security ein Tool vor, das Sicherheitslücken in Code aufspüren soll, die herkömmliche Scanner übersehen. An der Börse löste die Ankündigung einen Ausverkauf bei Cybers",
@@ -69,24 +87,6 @@
       "description": "Amazons Cloud-Sparte AWS hat laut einem Bericht der Financial Times mindestens zwei Ausfälle erlitten, bei denen hauseigene KI-Tools involviert waren. Amazon bestreitet den Zusammenhang und spricht vo",
       "link": "https://the-decoder.de/amazons-ki-coding-tools-sollen-zwei-aws-ausfaelle-mitverursacht-haben/",
       "date": "2026-02-20T10:27:06.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Google veröffentlicht Gemini 3.1 Pro und verspricht stärkere Reasoning-Leistung",
-      "description": "Mit Gemini 3.1 Pro will Google die Kernintelligenz seiner Modellfamilie deutlich verbessern. Auf einem anspruchsvollen Reasoning-Benchmark hat sich die Leistung im Vergleich zum Vorgänger mehr als ver",
-      "link": "https://the-decoder.de/google-veroeffentlicht-gemini-3-1-pro-und-verspricht-deutlich-verbessertes-schlussfolgern/",
-      "date": "2026-02-19T16:58:37.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Größte Seed-Finanzierung eines europäischen Start-ups: Langjähriger Deepmind-Forscher David Silver gründet KI-Start-up",
-      "description": "Der langjährige Deepmind-Forscher David Silver sammelt eine Milliarde Dollar für sein Londoner KI-Start-up Ineffable Intelligence ein. Er setzt auf Reinforcement Learning in Simulationen und will eine",
-      "link": "https://the-decoder.de/groesste-seed-finanzierung-eines-europaeischen-start-ups-langjaehriger-deepmind-forscher-david-silver-gruendet-ki-start-up/",
-      "date": "2026-02-19T12:54:32.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
