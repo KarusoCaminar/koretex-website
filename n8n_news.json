@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-21T08:35:54.169Z",
+  "lastUpdated": "2026-02-21T10:29:52.658Z",
   "news": [
+    {
+      "title": "Anthropics neues KI-Sicherheitstool lässt Cybersecurity-Aktien abstürzen",
+      "description": "Anthropic stellt mit Claude Code Security ein Tool vor, das Sicherheitslücken in Code aufspüren soll, die herkömmliche Scanner übersehen. An der Börse löste die Ankündigung einen Ausverkauf bei Cybers",
+      "link": "https://the-decoder.de/anthropics-neues-ki-sicherheitstool-laesst-cybersecurity-aktien-abstuerzen/",
+      "date": "2026-02-21T09:45:44.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "OpenAI meldete Amokläuferin in Kanada trotz Warnsignalen in ChatGPT nicht der Polizei",
+      "description": "Jesse Van Rootselaar hinterließ vor ihrem Amoklauf in Tumbler Ridge zahlreiche digitale Warnsignale, auch bei ChatGPT. Rund ein Dutzend OpenAI-Angestellte diskutierten intern darüber, die kanadische P",
+      "link": "https://the-decoder.de/openai-meldete-amoklaeuferin-in-kanada-trotz-warnsignalen-in-chatgpt-nicht-der-polizei/",
+      "date": "2026-02-21T08:51:58.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "OpenAIs erster smarter Lautsprecher soll 200 bis 300 Dollar kosten",
       "description": "OpenAI plant eine ganze Reihe eigener KI-Geräte. Neben einem smarten Lautsprecher mit Kamera für 200 bis 300 Dollar entwickelt das Unternehmen smarte Brillen, Kopfhörer und einen Stift.\nDer Artikel Op",
@@ -69,24 +87,6 @@
       "description": "Der langjährige Deepmind-Forscher David Silver sammelt eine Milliarde Dollar für sein Londoner KI-Start-up Ineffable Intelligence ein. Er setzt auf Reinforcement Learning in Simulationen und will eine",
       "link": "https://the-decoder.de/groesste-seed-finanzierung-eines-europaeischen-start-ups-langjaehriger-deepmind-forscher-david-silver-gruendet-ki-start-up/",
       "date": "2026-02-19T12:54:32.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "KI-Agenten können bereits die meisten getesteten Smart-Contract-Schwachstellen ausnutzen",
-      "description": "OpenAI und die Krypto-Investmentfirma Paradigm haben gemeinsam EVMbench entwickelt, einen Testrahmen, der misst, wie gut KI-Agenten Sicherheitslücken in Smart Contracts auf Ethereum-Blockchains finden",
-      "link": "https://the-decoder.de/ki-agenten-koennen-bereits-die-meisten-getesteten-smart-contract-schwachstellen-ausnutzen/",
-      "date": "2026-02-19T12:36:08.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Meta steckt 65 Millionen Dollar in US-Wahlkampf, um KI-Regulierung zu verhindern",
-      "description": "Meta investiert 65 Millionen Dollar in die Beeinflussung von Wahlen auf US-Bundesstaatsebene, um KI-freundliche Politiker zu unterstützen.\nDer Artikel Meta steckt 65 Millionen Dollar in US-Wahlkampf,",
-      "link": "https://the-decoder.de/meta-steckt-65-millionen-dollar-in-us-wahlkampf-um-ki-regulierung-zu-verhindern/",
-      "date": "2026-02-19T11:58:01.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
