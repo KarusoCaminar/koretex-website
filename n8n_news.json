@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T22:30:06.567Z",
+  "lastUpdated": "2026-02-21T02:21:17.297Z",
   "news": [
     {
       "title": "OpenAIs erster smarter Lautsprecher soll 200 bis 300 Dollar kosten",
@@ -9,6 +9,15 @@
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
+    },
+    {
+      "title": "Our First Proof submissions",
+      "description": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+      "link": "https://openai.com/index/first-proof-submissions",
+      "date": "2026-02-20T14:30:00.000Z",
+      "source": "OpenAI",
+      "category": "große-modelle",
+      "language": "en"
     },
     {
       "title": "Bericht: Nvidia plant 30-Milliarden-Beteiligung an OpenAI, nachdem frühere Chip-Vereinbarung über 100 Milliarden scheiterte",
@@ -123,15 +132,6 @@
       "description": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
       "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "date": "2026-02-13T10:00:00.000Z",
-      "source": "OpenAI",
-      "category": "große-modelle",
-      "language": "en"
-    },
-    {
-      "title": "Scaling social science research",
-      "description": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
-      "link": "https://openai.com/index/scaling-social-science-research",
-      "date": "2026-02-13T09:00:00.000Z",
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
