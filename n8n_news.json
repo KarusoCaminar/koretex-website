@@ -1,8 +1,17 @@
 {
-  "lastUpdated": "2026-02-21T12:55:51.008Z",
+  "lastUpdated": "2026-02-21T14:30:14.998Z",
   "news": [
     {
-      "title": "OpenAI verdoppelt Cashburn-Prognose: 111 Milliarden US-Dollar mehr bis 2030",
+      "title": "\"Mit KI zusammenfassen\"-Buttons schleusen versteckte Werbe-Prompts in eure Chatbots ein",
+      "description": "Sicherheitsforscher von Microsoft haben eine neue Prompt-Injection-Methode entdeckt: Angreifer schleusen über harmlos wirkende \"Mit KI zusammenfassen\"-Buttons versteckte Anweisungen in das Gedächtnis",
+      "link": "https://the-decoder.de/mit-ki-zusammenfassen-buttons-schleusen-versteckte-werbe-prompts-in-eure-chatbots-ein/",
+      "date": "2026-02-21T14:24:23.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "OpenAI erhöht Cashburn-Prognose: 111 Milliarden US-Dollar mehr bis 2030",
       "description": "OpenAI hebt seine Umsatzprognosen an, warnt Investoren aber zugleich vor einem drastisch höheren Mittelabfluss. Die Kosten für Training und Betrieb von KI-Modellen steigen schneller als die Einnahmen.",
       "link": "https://the-decoder.de/openai-verdoppelt-cashburn-prognose-111-milliarden-us-dollar-mehr-bis-2030/",
       "date": "2026-02-21T11:52:43.000Z",
@@ -78,15 +87,6 @@
       "description": "Anthropic macht seine PowerPoint-Integration von Claude nun auch für Pro-Nutzer verfügbar.\nDer Artikel Claude jetzt auch für Pro-Nutzer direkt in PowerPoint verfügbar erschien zuerst auf The Decoder.",
       "link": "https://the-decoder.de/claude-jetzt-auch-fuer-pro-nutzer-direkt-in-powerpoint-verfuegbar/",
       "date": "2026-02-20T11:43:41.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Amazons KI-Coding-Tools sollen zwei AWS-Ausfälle mitverursacht haben",
-      "description": "Amazons Cloud-Sparte AWS hat laut einem Bericht der Financial Times mindestens zwei Ausfälle erlitten, bei denen hauseigene KI-Tools involviert waren. Amazon bestreitet den Zusammenhang und spricht vo",
-      "link": "https://the-decoder.de/amazons-ki-coding-tools-sollen-zwei-aws-ausfaelle-mitverursacht-haben/",
-      "date": "2026-02-20T10:27:06.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
