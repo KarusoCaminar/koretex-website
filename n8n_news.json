@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-21T16:34:20.442Z",
+  "lastUpdated": "2026-02-21T18:40:00.764Z",
   "news": [
+    {
+      "title": "Gemini 3.1 Pro: Googles neues KI-Modell führt Benchmark-Index an und kostet nur ein Drittel der Konkurrenz",
+      "description": "Googles Gemini 3.1 Pro führt den Artificial Analysis Intelligence Index an und kostet dabei weniger als die Hälfte der Konkurrenz. Doch Benchmarks sind nicht alles.\nDer Artikel Gemini 3.1 Pro: Googles",
+      "link": "https://the-decoder.de/gemini-3-1-pro-googles-neues-ki-modell-fuehrt-benchmark-index-an-und-kostet-nur-ein-drittel-der-konkurrenz/",
+      "date": "2026-02-21T18:37:29.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
+    {
+      "title": "OpenAI-Chef sieht AGI in greifbarer Nähe: Interne Modelle beschleunigen die Forschung",
+      "description": "AGI sei \"ziemlich nah\", Superintelligenz \"nicht so weit entfernt\": Sam Altman gibt im Interview Einblicke in OpenAIs interne Entwicklung und erklärt, warum seine eigene Berufsausbildung als Softwareen",
+      "link": "https://the-decoder.de/openai-chef-sieht-agi-in-greifbarer-naehe-interne-modelle-beschleunigen-die-forschung/",
+      "date": "2026-02-21T18:06:07.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "\"Mit KI zusammenfassen\"-Buttons schleusen versteckte Werbe-Prompts in eure Chatbots ein",
       "description": "Sicherheitsforscher von Microsoft haben eine neue Prompt-Injection-Methode entdeckt: Angreifer schleusen über harmlos wirkende \"Mit KI zusammenfassen\"-Buttons versteckte Anweisungen in das Gedächtnis",
@@ -69,24 +87,6 @@
       "description": "Nvidia steht kurz davor, 30 Milliarden Dollar in OpenAI zu investieren, berichtet Reuters unter Berufung auf eine mit der Sache vertraute Person.\nDer Artikel Bericht: Nvidia plant 30-Milliarden-Beteil",
       "link": "https://the-decoder.de/bericht-nvidia-plant-30-milliarden-beteiligung-an-openai-nachdem-fruehere-chip-vereinbarung-ueber-100-milliarden-scheiterte/",
       "date": "2026-02-20T13:11:21.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Microsoft-Studie zeigt, wie fragil der Kampf gegen KI-Fälschungen wirklich ist",
-      "description": "Ein neuer technischer Bericht von Microsoft bewertet systematisch, wie sich authentische von KI-generierten Medien unterscheiden lassen. Die Ergebnisse sind ernüchternd. Keine Methode ist für sich all",
-      "link": "https://the-decoder.de/microsoft-studie-zeigt-wie-fragil-der-kampf-gegen-ki-faelschungen-wirklich-ist/",
-      "date": "2026-02-20T12:40:56.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
-    },
-    {
-      "title": "Claude jetzt auch für Pro-Nutzer direkt in PowerPoint verfügbar",
-      "description": "Anthropic macht seine PowerPoint-Integration von Claude nun auch für Pro-Nutzer verfügbar.\nDer Artikel Claude jetzt auch für Pro-Nutzer direkt in PowerPoint verfügbar erschien zuerst auf The Decoder.",
-      "link": "https://the-decoder.de/claude-jetzt-auch-fuer-pro-nutzer-direkt-in-powerpoint-verfuegbar/",
-      "date": "2026-02-20T11:43:41.000Z",
       "source": "The Decoder",
       "category": "große-modelle",
       "language": "de"
