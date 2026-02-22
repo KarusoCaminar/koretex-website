@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-22T06:53:51.801Z",
+  "lastUpdated": "2026-02-22T08:36:52.855Z",
   "news": [
+    {
+      "title": "Apple Intelligence halluziniert Stereotype in Millionen von Zusammenfassungen",
+      "description": "Apple Intelligence fasst auf Hunderten Millionen iPhones, iPads und Macs automatisch Benachrichtigungen, Textnachrichten und E-Mails zusammen. Die gemeinnützige Organisation AI Forensics hat nun eine",
+      "link": "https://the-decoder.de/apple-intelligence-halluziniert-stereotype-in-millionen-von-zusammenfassungen/",
+      "date": "2026-02-22T08:36:26.000Z",
+      "source": "The Decoder",
+      "category": "große-modelle",
+      "language": "de"
+    },
     {
       "title": "Gemini 3.1 Pro: Googles neues KI-Modell führt Benchmark-Index an und kostet nur ein Drittel der Konkurrenz",
       "description": "Googles Gemini 3.1 Pro führt den Artificial Analysis Intelligence Index an und kostet dabei weniger als die Hälfte der Konkurrenz. Doch Benchmarks sind nicht alles.\nDer Artikel Gemini 3.1 Pro: Googles",
@@ -81,15 +90,6 @@
       "source": "OpenAI",
       "category": "große-modelle",
       "language": "en"
-    },
-    {
-      "title": "Bericht: Nvidia plant 30-Milliarden-Beteiligung an OpenAI, nachdem frühere Chip-Vereinbarung über 100 Milliarden scheiterte",
-      "description": "Nvidia steht kurz davor, 30 Milliarden Dollar in OpenAI zu investieren, berichtet Reuters unter Berufung auf eine mit der Sache vertraute Person.\nDer Artikel Bericht: Nvidia plant 30-Milliarden-Beteil",
-      "link": "https://the-decoder.de/bericht-nvidia-plant-30-milliarden-beteiligung-an-openai-nachdem-fruehere-chip-vereinbarung-ueber-100-milliarden-scheiterte/",
-      "date": "2026-02-20T13:11:21.000Z",
-      "source": "The Decoder",
-      "category": "große-modelle",
-      "language": "de"
     },
     {
       "title": "Advancing independent research on AI alignment",
